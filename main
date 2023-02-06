@@ -44,6 +44,8 @@ https://musicsrc.cvattv.com.ar/RM41
  
 #EXTINF:-1, Star Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_71000_spa=35.m3u8
+#EXTINF:-1, TNT
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_77000_spa=43.m3u8
 #EXTINF:-1, Animal Planet
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_70000_spa=18.m3u8
 #EXTINF:-1, El Gourmet  
@@ -56,7 +58,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_62000_spa=2.m3u8
 #EXTINF:-1, Cartoon Network
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
-
+#EXTINF:-1, Disney Channel
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=8-mp4a_64000_spa=9.m3u8
 
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_62000_spa=19.m3u8
