@@ -67,6 +67,10 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_59
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-mp4a_63000_spa=9-avc1_5999616=5.m3u8
 #EXTINF:-1, Sonny Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_67000_spa=23.m3u8
+#EXTINF:-1, AXN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=18.m3u8
+#EXTINF:-1, Warner TV
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_63000_spa=8.m3u8
 #EXTINF:-1, Animal Planet
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_70000_spa=18.m3u8
 #EXTINF:-1, History
