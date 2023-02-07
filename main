@@ -61,6 +61,12 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_71000_spa=35.m3u8
 #EXTINF:-1, TNT
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_77000_spa=43.m3u8
+#EXTINF:-1, Space
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_66000_spa=15.m3u8
+#EXTINF:-1, Universal Tv
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-mp4a_63000_spa=9-avc1_5999616=5.m3u8
+#EXTINF:-1, Sonny Channel
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_67000_spa=23.m3u8
 #EXTINF:-1, Animal Planet
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_70000_spa=18.m3u8
 #EXTINF:-1, History
@@ -71,6 +77,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_He
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_68000_eng=10.m3u8
 #EXTINF:-1, Discovery Turbo
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_62000_spa=2.m3u8
+#EXTINF:-1, Discovery HGTV
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
 #EXTINF:-1, Cartoon Network
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
 #EXTINF:-1, Disney Channel
