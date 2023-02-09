@@ -41,8 +41,9 @@ https://musicsrc.cvattv.com.ar/RM37
 https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1, Electrónica
 https://musicsrc.cvattv.com.ar/RM41
- 
- 
+
+#EXTINF:-1, Fox Sports
+https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2YwOTdkMmIwMDQxYyI6IjhjZWQ4NDZjOWVmZmQ1NmQ3ZTJhOTI3NjIyNGJiM2M1In0= 
  
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_62000_spa=19.m3u8
