@@ -109,7 +109,11 @@ http://209.45.3.210:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
  
- 
+ #EXTINF:-1, EUROSPORT 1 🇪🇸
+http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
+
+#EXTINF:-1, EUROSPORT 2 🇪🇸
+http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
  
  
  
@@ -177,10 +181,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
  
  
  
-#EXTINF:-1, CLARO SPORTS
-https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/live-audio_0=64000-video=729984.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
  
  
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE", CINE CLUB
@@ -227,15 +227,12 @@ http://181.236.192.254:8000/play/a02c/index.m3u8
 http://181.236.192.254:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
 http://181.236.192.254:8000/play/a034/index.m3u8
-#EXTINF:-1,De PelŦcula
-http://181.236.192.254:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
 http://181.236.192.254:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
 http://181.236.192.254:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
 http://181.236.192.254:8000/play/a03e/index.m3u8
- 
 #EXTINF:-1 tvg-id="Disney Channel",Disney Channel
 http://181.236.192.254:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="Disney Jr",Disney Jr
