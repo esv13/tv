@@ -64,6 +64,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_C
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_77000_spa=43.m3u8
 #EXTINF:-1, TNT Series
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_5999616=6-mp4a_67000_spa=22.m3u8
+#EXTINF:-1, Cinecanal
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_72000_eng=31.m3u8
 #EXTINF:-1, Space
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_66000_spa=15.m3u8
 #EXTINF:-1, Universal Tv
