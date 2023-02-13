@@ -322,16 +322,8 @@ http://181.236.192.254:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="Warner",Warner
 http://181.236.192.254:8000/play/a01h/index.m3u8
 #EXTINF:-1,Win Sports+ HD
-http://181.236.192.254:8000/play/a020/index.m3u8
-#EXTINF:-1, TVE
-http://181.236.192.254:8000/play/a02f/index.m3u8
- 
- 
- 
- 
- 
- 
- 
+
+  
 #EXTINF:-1, 23 ABC
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?IMDSFULL
 #EXTINF:-1, ABC 2 Atlanta GA
