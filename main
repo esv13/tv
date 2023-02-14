@@ -70,12 +70,16 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_66000_spa=15.m3u8
 #EXTINF:-1, Universal Tv
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-mp4a_63000_spa=9-avc1_5999616=5.m3u8
+#EXTINF:-1, aMC
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_5999616=5-mp4a_66000_eng=22.m3u8
 #EXTINF:-1, Universal Studio 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_64000_eng=21.m3u8
 #EXTINF:-1, Sonny Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_67000_spa=23.m3u8
 #EXTINF:-1, AXN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=18.m3u8
+#EXTINF:-1, FX
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_66000_eng=17.m3u8
 #EXTINF:-1, Warner TV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_63000_spa=8.m3u8
 #EXTINF:-1, Animal Planet
@@ -92,6 +96,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Dis
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
 #EXTINF:-1, Discovery ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_64000_spa=14.m3u8
+#EXTINF:-1, MTV
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_61000_spa=16.m3u8
 #EXTINF:-1, Cartoon Network
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
 #EXTINF:-1, Disney Channel
@@ -534,3 +540,5 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:-1, Universal Studio 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_64000_eng=29.m3u8
+#EXTINF:-1, FX
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_66000_eng=22.m3u8
