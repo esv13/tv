@@ -153,7 +153,8 @@ https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/qgrgFjuER8P7/tracks-v1a1/mono.m3u8
 https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/h3EVt1gISRl7/index.m3u8
 #EXTINF:-1, CANAL + 5 SPORT 🇨🇵
 https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/ri6MpQ6fqlKM/tracks-v1a1/mono.m3u8
- 
+#EXTINF:-1, Infinity+ 1 
+https://11.calcio02.pw:5866/hls/psg.m3u8
  
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
