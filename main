@@ -113,10 +113,10 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 #EXTINF:-1, EUROSPORT 1 🇪🇸
 http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
-
 #EXTINF:-1, EUROSPORT 2 🇪🇸
 http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
- 
+#EXTINF:-1, BT SPORTS 1 🇬🇧
+https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/zS5t4ZBhMz5s/tracks-v1a1/mono.m3u8 
  
 
  
@@ -135,19 +135,28 @@ http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELP
 http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
  
  
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://89.254.128.5:22280/setanta_sports_hd/video.m3u8
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:-1, Supersport LALIGA 🇿🇦
-https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
+#EXTINF:-1, CANAL + 1 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/77qlYhkvlXo/index.m3u8
+#EXTINF:-1, CANAL + 2 SPORT 🇨🇵
+https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/iI0JqKzFndso/index.m3u8
+#EXTINF:-1, CANAL + 3 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/qgrgFjuER8P7/tracks-v1a1/mono.m3u8
+#EXTINF:-1, CANAL + 4 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/h3EVt1gISRl7/index.m3u8
+#EXTINF:-1, CANAL + 5 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/ri6MpQ6fqlKM/tracks-v1a1/mono.m3u8
  
  
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
- 
+#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
+#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
+#EXTINF:-1, beIN SPORTS 3 PREMIUM 🇶🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein3_Premuim.m3u8 
 #EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
