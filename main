@@ -543,3 +543,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_64000_eng=29.m3u8
 #EXTINF:-1, FX
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_66000_eng=22.m3u8
+#EXTINF:-1, AXN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=16.m3u8
+#EXTINF:-1, Cinecanal
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_72000_eng=45.m3u8
+#EXTINF:-1, TNT
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_77000_spa=22.m3u8
