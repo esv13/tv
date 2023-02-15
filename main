@@ -533,9 +533,19 @@ https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1, TELEFE
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_64000_spa=28.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FUhZyPSXoAAisK1.png" ,HBO 2
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GctCWK3/hboplus.png" ,HBO Plus
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.720733894_HBOPOP(varianteverde).png.a600be0bb04bce797fdb597dbd51d270.png" ,HBO Pop
+https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
  
  
- #EXTINF:-1,MTV Yo!
+#EXTINF:-1,MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1,MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
