@@ -42,8 +42,7 @@ https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1, Electrónica
 https://musicsrc.cvattv.com.ar/RM41
 
-#EXTINF:-1, Fox Sports
-https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2YwOTdkMmIwMDQxYyI6IjhjZWQ4NDZjOWVmZmQ1NmQ3ZTJhOTI3NjIyNGJiM2M1In0= 
+
  
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_62000_spa=19.m3u8
@@ -53,15 +52,16 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_59
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_64000_eng=11.m3u8
 #EXTINF:-1,ESPN 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_64000_spa=2.m3u8
-#EXTINF:-1, Fox Sports 2
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1, Fox Sports 3
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1,ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_60000_spa=16.m3u8
 #EXTINF:-1,TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_67000_spa=27.m3u8
-
+#EXTINF:-1, Fox Sports
+https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2YwOTdkMmIwMDQxYyI6IjhjZWQ4NDZjOWVmZmQ1NmQ3ZTJhOTI3NjIyNGJiM2M1In0= 
+#EXTINF:-1, Fox Sports 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+#EXTINF:-1, Fox Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 
 
@@ -533,6 +533,8 @@ https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1, TELEFE
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_64000_spa=28.m3u8
+#EXTINF:-1, Canal 9
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_69000=23.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
@@ -555,6 +557,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 ,MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zfF24F3/theboxlogo1.png" ,The Box
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/box_hits_uk_transparent.png" ,Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEdDEJwGLS7zMWhaCzYeVmJAtwvho7Da6UdTuytzRTSBh7f6oBYAhZRu44d6u1gehWA&usqp=CAU" ,Kerrang TV
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
 
 #EXTINF:-1, Universal Studio 
