@@ -56,6 +56,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_59
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_60000_spa=16.m3u8
 #EXTINF:-1,TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_67000_spa=27.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1, Fox Sports
 https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2YwOTdkMmIwMDQxYyI6IjhjZWQ4NDZjOWVmZmQ1NmQ3ZTJhOTI3NjIyNGJiM2M1In0= 
 #EXTINF:-1, Fox Sports 2
@@ -115,22 +117,10 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-avc1_5999616=13-mp4a_88000_spa=33.m3u8
 #EXTINF:-1, Flow
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
-#EXTINF:-1, Flow 2
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_SAGEMCOM/Eventos_2_HD-avc1_2499968=10007-mp4a_145200_spa=20000.m3u8
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1359.png" tvg-group="VARIOS", Eventos3 
-https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_SAGEMCOM/Eventos_3.m3u8
-#EXTINF:-1 tvg-logo="https://blog.personal.com.py/wp-content/uploads/2019/07/flow-music-experience-personal.png" tvg-group="VARIOS", Flow Music 
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_SAGEMCOM/Flow_Music_XP.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445368538743590917/XOgCLVe-_400x400.jpg" tvg-group="VARIOS", Flow Gaming 
-https://cdn.cvattv.com.ar/live/c4eds/Flow_GamingXP/SA_SAGEMCOM/Flow_GamingXP.m3u8 
+
  
+
  
- 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
- 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS Internacional
-http://209.45.3.210:8000/play/a01m/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
