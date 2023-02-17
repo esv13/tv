@@ -204,17 +204,6 @@ http://45.184.111.156:8000/play/a0bq/index.m3u8
  
  
  
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
-http://8.242.187.233:5800/play/a0a4/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 3
-http://8.242.187.233:5800/play/a0bu/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-  
- 
- 
  
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE", CINE CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
