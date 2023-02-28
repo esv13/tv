@@ -52,18 +52,22 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_59
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_64000_eng=11.m3u8
 #EXTINF:-1,ESPN 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_64000_spa=2.m3u8
+#EXTINF:-1 ,Espn extra
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1,ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_60000_spa=16.m3u8
 #EXTINF:-1,TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_67000_spa=27.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1, Fox Sports
-https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2YwOTdkMmIwMDQxYyI6IjhjZWQ4NDZjOWVmZmQ1NmQ3ZTJhOTI3NjIyNGJiM2M1In0= 
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1 ,Fox Sports
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+#EXTINF:-1 ,Fox Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1 ,Fox Sports 3
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+#EXTINF:-1 ,TYC SPORT
+https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1", DAZN F1 
 http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD", DAZN 1 
@@ -399,15 +403,25 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_69000=23.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
-https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FUhZyPSXoAAisK1.png" ,HBO 2
-https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GctCWK3/hboplus.png" ,HBO Plus
-https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.720733894_HBOPOP(varianteverde).png.a600be0bb04bce797fdb597dbd51d270.png" ,HBO Pop
-https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
  
+#EXTINF:-1 ,Cinemax
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8 
+#EXTINF:-1 ,HBO
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF:-1 ,HBO 2
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF:-1 ,HBO +
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Extreme
+https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Family
+https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Mundi
+https://delivery.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+#EXTINF:-1 ,Cinemax
+https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Pop
+https://delivery.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8 
  
 #EXTINF:-1,MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
