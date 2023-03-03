@@ -124,20 +124,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourm
 #EXTINF:-1, Flow
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
- 
+  
 
- 
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-
-#EXTINF:-1, EUROSPORT 1 🇪🇸
-http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
-#EXTINF:-1, EUROSPORT 2 🇪🇸
-http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
-#EXTINF:-1, BT SPORTS 1 🇬🇧
-https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/zS5t4ZBhMz5s/tracks-v1a1/mono.m3u8 
- 
 
  
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA 
