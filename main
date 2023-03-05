@@ -37,6 +37,9 @@ https://musicsrc.cvattv.com.ar/RM41
 
 
  
+#EXTINF:-1,ESPN Deportes
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+ 
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_62000_spa=19.m3u8
 #EXTINF:-1,ESPN 2
