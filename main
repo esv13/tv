@@ -11,19 +11,15 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1    tvg-logo="https://wowelsalvador.com/imagen/logo2.png", Canal Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="INFANTIL", LOS SIMPSONS 
+http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES 3", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU",PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
  
-#EXTINF:-1, Golden
-https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
-#EXTINF:-1, Golden
-https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="INFANTIL", LOS SIMPSONS 
-http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="INFANTIL", MAGIC KIDS
-https://magicstream.ddns.net:443/magicstream/stream.m3u8 
+
+
  
  
  
@@ -84,7 +80,18 @@ http://51.158.36.81:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2", Eurosport 2 
 http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
 
-
+#EXTINF:-1, Golden
+https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Edge
+https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex
+https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1, Star Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_71000_spa=35.m3u8
 #EXTINF:-1, TNT
@@ -154,30 +161,11 @@ http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELP
 #EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
 http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
  
- 
-#EXTINF:-1, CANAL + 1 SPORT 🇨🇵
-https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/77qlYhkvlXo/index.m3u8
-#EXTINF:-1, CANAL + 2 SPORT 🇨🇵
-https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/iI0JqKzFndso/index.m3u8
-#EXTINF:-1, CANAL + 3 SPORT 🇨🇵
-https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/qgrgFjuER8P7/tracks-v1a1/mono.m3u8
-#EXTINF:-1, CANAL + 4 SPORT 🇨🇵
-https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/h3EVt1gISRl7/index.m3u8
-#EXTINF:-1, CANAL + 5 SPORT 🇨🇵
-https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/ri6MpQ6fqlKM/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Infinity+ 1 
-https://11.calcio02.pw:5866/hls/psg.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
-#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
-#EXTINF:-1, beIN SPORTS 3 PREMIUM 🇶🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/Bein3_Premuim.m3u8 
 #EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
