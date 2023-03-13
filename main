@@ -16,6 +16,10 @@ http://204.199.3.2/.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU",PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
  
+ #EXTINF:-1, Golden
+ https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
+ #EXTINF:-1, Golden
+ https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist_1024x576.m3u8
  
  
 #EXTINF:-1, Grandes del Rock
