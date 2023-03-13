@@ -77,6 +77,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://168.228.194.32:58001/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)2
 http://168.228.194.32:58001/play/a0b6/index.m3u8
+#EXTINF:-1 , Fox Sports 2 México (hls)
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
