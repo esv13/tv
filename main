@@ -53,6 +53,12 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_59
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_64000_eng=11.m3u8
 #EXTINF:-1,ESPN 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_64000_spa=2.m3u8
+#EXTINF:-1,ESPN 4
+http://168.121.46.90:4000/play/a03k/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://168.121.46.90:4000/play/a067/index.m3u8
+#EXTINF:-1,DIRECTV Sport
+http://45.7.135.243:4000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 1
 http://45.184.111.156:8000/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
@@ -66,6 +72,11 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_67000_spa=27.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)
+http://168.228.194.32:58001/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)2
+http://168.228.194.32:58001/play/a0b6/index.m3u8
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
@@ -131,6 +142,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Disc
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_64000_spa=14.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo
 http://181.236.192.254:8000/play/a023/index.m3u8
+#EXTINF:-1,Cinemax
+http://45.7.135.243:4000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="HBO",HBO
 http://181.236.192.254:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2",HBO 2
