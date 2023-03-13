@@ -142,11 +142,24 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-avc1_5999616=13-mp4a_88000_spa=33.m3u8
 #EXTINF:-1, Flow
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ViX",The Weather Channel Español
+https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
+#EXTINF:-1, Very Local
+https://linear-200.frequency.stream/200/hls/master/playlist.m3u8
+#EXTINF:-1, Wheather Spy
+https://linear-199.frequency.stream/199/hls/master/playlist.m3u8
+#EXTINF:-1, Fail Army
+https://linear-198.frequency.stream/198/hls/master/playlist.m3u8
+#EXTINF:-1, People Are Awesome
+https://linear-197.frequency.stream/197/hls/master/playlist.m3u8
+#EXTINF:-1, Journy
+https://linear-252.frequency.stream/252/hls/master/playlist.m3u8
+#EXTINF:-1, Jade Fever
+https://linear-246.frequency.stream/246/hls/master/playlist.m3u8
 
-  
 
 
- 
+
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
 #EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373458328.png", NBC-SPORTS-BY-AREA 
@@ -160,7 +173,8 @@ http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELP
  
 #EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
 http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
