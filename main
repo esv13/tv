@@ -55,6 +55,8 @@ http://168.121.46.90:4000/play/a03k/index.m3u8
 http://168.121.46.90:4000/play/a067/index.m3u8
 #EXTINF:-1,DIRECTV Sport
 http://45.7.135.243:4000/play/a05x/index.m3u8
+#EXTINF:-1, Fox Sports 1
+http://45.190.13.50:8002/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 1
 http://45.184.111.156:8000/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
