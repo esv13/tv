@@ -457,3 +457,6 @@ https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Xtrema Animal (360p)
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 ,Tv Publica
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
