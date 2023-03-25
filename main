@@ -58,6 +58,7 @@ http://45.184.111.156:8000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 3
 http://45.184.111.156:8000/play/a0bq/index.m3u8
 
+
 #EXTINF:-1,ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_60000_spa=16.m3u8
 #EXTINF:-1,TNT Sports
@@ -218,9 +219,10 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 ,TYC SPORT
 https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 
-
-
- 
+#EXTINF:-1,Fox Sports 2
+http://200.60.124.20:8000/play/a01e/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://200.60.124.20:8000/play/a01f/index.m3u8
  
 
 
@@ -456,3 +458,25 @@ https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Xtrema Animal (360p)
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+
+#EXTINF:-1,Fox Sports
+http://200.113.4.75:7210/play/a00w/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://200.113.4.75:7210/play/a00d/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://200.113.4.75:7210/play/a016/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://200.113.4.75:7210/play/a017/index.m3u8
+#EXTINF:-1,HBO
+http://200.113.4.75:7210/play/a02b/index.m3u8
+#EXTINF:-1,HBO
+http://200.113.4.75:7210/play/a01z/index.m3u8
+#EXTINF:-1,HBO 2
+http://200.113.4.75:7210/play/a00h/index.m3u8
+#EXTINF:-1,HBO Family
+http://200.113.4.75:7210/play/a00k/index.m3u8
+#EXTINF:-1,HBO Plus
+http://200.113.4.75:7210/play/a00i/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://200.113.4.75:7210/play/a00j/index.m3u8
