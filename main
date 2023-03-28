@@ -164,6 +164,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_64000_spa=9.m3u8
 #EXTINF:-1, Discovery HGTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
 #EXTINF:-1, Discovery ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_64000_spa=14.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo
