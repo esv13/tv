@@ -77,15 +77,17 @@ http://190.119.178.46:8000/play/a036/index.m3u8
 #EXTINF:-1,DIRECTV Liga 1 Max
 http://190.119.178.46:8000/play/a035/index.m3u8
 
-#EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA 
+#EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373458328.png", NBC-SPORTS-BY-AREA 
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373458328.png", NBC-SPORTS-BOSTON
 http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1614263071499.png", NBC-SPORTS-CHICAGO 
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1614263071499.png", NBC-SPORTS-CALIFORNIA
 http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373647536.png", NBC-SPORTS-NORTHWEST 
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373647536.png", NBC-SPORTS-CHICAGO  -NORTHWEST 
 http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-WASHINGTON 
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-WASHINGTON
+http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-PHILADELPHIA
 http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
 
 
@@ -114,6 +116,10 @@ http://168.228.194.32:58001/play/a0b6/index.m3u8
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
+
+#EXTINF:-1, TODAY All Day
+https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
@@ -186,6 +192,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disn
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999616=8-mp4a_65000_eng=11.m3u8
 #EXTINF:-1, El Gourmet  
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-avc1_5999616=13-mp4a_88000_spa=33.m3u8
+#EXTINF:-1, TODAY All Day
+https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",The Weather Channel Español
 https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
 #EXTINF:-1, Very Local
