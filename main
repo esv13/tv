@@ -221,7 +221,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD-avc1_2100
 #EXTINF:-1 ,Espn extra
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1 ,Fox Sports
-https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2YwOTdkMmIwMDQxYyI6IjhjZWQ4NDZjOWVmZmQ1NmQ3ZTJhOTI3NjIyNGJiM2M1In0=
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 ,Fox Sports 3
