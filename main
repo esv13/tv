@@ -320,100 +320,6 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
  
  
  
-#EXTINF:-1 tvg-id="AE Mundo",AE Mundo
-http://181.236.192.254:8000/play/a01p/index.m3u8
-#EXTINF:-1,ANTV
-http://181.236.192.254:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="AXN",AXN
-http://181.236.192.254:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="Animal Planet",Animal Planet
-http://181.236.192.254:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network",Cartoon Network
-http://181.236.192.254:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal",Cinecanal
-http://181.236.192.254:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax",Cinemax
-http://181.236.192.254:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
-http://181.236.192.254:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
-http://181.236.192.254:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
-http://181.236.192.254:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel",Disney Channel
-http://181.236.192.254:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="Disney Jr",Disney Jr
-http://181.236.192.254:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="E Entertainment",E Entertainment
-http://181.236.192.254:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="ESPN",ESPN
-http://181.236.192.254:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2",ESPN 2
-http://181.236.192.254:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 Latin",ESPN 2 Latin
-http://181.236.192.254:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 3",ESPN 3
-http://181.236.192.254:8000/play/a03f/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.236.192.254:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="ESPN CO",ESPN CO
-http://181.236.192.254:8000/play/a00w/index.m3u8
-#EXTINF:-1,El Gourmet
-http://181.236.192.254:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="FX",FX
-http://181.236.192.254:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2",Fox Sports 2
-http://181.236.192.254:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 3",Fox Sports 3
-http://181.236.192.254:8000/play/a01u/index.m3u8
-#EXTINF:-1,Golden
-http://181.236.192.254:8000/play/a030/index.m3u8
-#EXTINF:-1,HGTV
-http://181.236.192.254:8000/play/a03q/index.m3u8
-#EXTINF:-1,History Channel
-http://201.182.251.146:37581/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="History Channel",History Channel
-http://181.236.192.254:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="I-Sat",I-Sat
-http://181.236.192.254:8000/play/a027/index.m3u8
-#EXTINF:-1,Lifetime
-http://181.236.192.254:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="MTV",MTV
-http://181.236.192.254:8000/play/a028/index.m3u8
-
-#EXTINF:-1 tvg-id="Nick Jr",Nick Jr
-http://181.236.192.254:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
-http://181.236.192.254:8000/play/a022/index.m3u8
-#EXTINF:-1,Paramount Channel
-http://181.236.192.254:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL",STAR CHANNEL
-http://181.236.192.254:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="Sony",Sony
-http://181.236.192.254:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="Space",Space
-http://181.236.192.254:8000/play/a037/index.m3u8
-#EXTINF:-1 tvg-id="Studio Universal",Studio Universal
-http://181.236.192.254:8000/play/a00g/index.m3u8
-#EXTINF:-1,Sun Channel
-http://181.236.192.254:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="TCM",TCM
-http://181.236.192.254:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="TLC",TLC
-http://181.236.192.254:8000/play/a01q/index.m3u8
-#EXTINF:-1,TLT
-http://181.236.192.254:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="TNT",TNT
-http://181.236.192.254:8000/play/a02d/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://181.236.192.254:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="Telefe",Telefe
-http://181.236.192.254:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="Universal",Universal
-http://181.236.192.254:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="Warner",Warner
-http://181.236.192.254:8000/play/a01h/index.m3u8
-#EXTINF:-1,Win Sports+ HD
 
   
 #EXTINF:-1, 23 ABC
@@ -436,13 +342,6 @@ https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
  
  
- 
-#EXTINF:-1,Cartoon Network
-http://45.238.21.106:7778/play/a01u/index.m3u8
- 
-
-
-
 
 
  
