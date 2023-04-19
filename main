@@ -48,6 +48,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_59
 #EXTINF:-1,ESPN 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_64000_spa=2.m3u8
 #EXTINF:-1,ESPN 4
+http://181.129.250.45:9060/play/a0ks/index.m3u8
+#EXTINF:-1,ESPN 4
 http://190.60.37.69:8015/play/a02n/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD
 http://168.121.46.90:4000/play/a067/index.m3u8
@@ -102,6 +104,34 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP", M+ Deportes 
+http://51.159.99.183:18000/M_Deportes/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARTHUR", M+ Deportes 1 
+http://51.159.99.183:18000/M_Deportes_1/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP2", M+ Deportes 2 
+http://51.159.99.183:18000/M_Deportes_2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP3", M+ Deportes 3 
+http://51.159.99.183:18000/M_Deportes_3/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF%2B", M+ Golf 
+http://51.159.99.183:18000/M_Golf/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1", DAZN F1 
+http://51.159.99.183:18000/DAZN_F1/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD", DAZN 1 
+http://51.159.99.183:18000/DAZN_1/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD", DAZN 2 
+http://51.159.99.183:18000/DAZN_2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3", DAZN 3 
+http://51.159.99.183:18000/DAZN_3/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4", DAZN 4 
+http://51.159.99.183:18000/DAZN_4/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP", Eurosport 1 
+http://51.159.99.183:18000/Eurosport_1/hls/playlist.m3u8
+#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2", Eurosport 2 
+http://51.159.99.183:18000/Eurosport_2/hls/playlist.m3u8
+
+
+
+
 #EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
 http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
@@ -116,6 +146,13 @@ http://168.228.194.32:58001/play/a0b6/index.m3u8
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
+
+#EXTINF:-1, TELEFE Deportes
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_5.m3u8
+#EXTINF:-1, TELEFE
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_64000_spa=28.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_69000=23.m3u8
 
 #EXTINF:-1, TODAY All Day
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
@@ -166,6 +203,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Dis
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
+#EXTINF:-1,History 2
+http://181.129.250.45:9060/play/a0kc/index.m3u8
 #EXTINF:-1, Discovery ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_64000_spa=14.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo
@@ -402,12 +441,8 @@ https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 http://45.238.21.106:7778/play/a01u/index.m3u8
  
 
-#EXTINF:-1, La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1, TELEFE
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_64000_spa=28.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_69000=23.m3u8
+
+
 
 
  
