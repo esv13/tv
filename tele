@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES 3", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8?PlaylistM3UCL
 #EXTINF:-1, TELEFE
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_64000_spa=28.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_69000=23.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
