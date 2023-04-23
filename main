@@ -39,6 +39,10 @@ https://musicsrc.cvattv.com.ar/RM37
 https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1, Electrónica
 https://musicsrc.cvattv.com.ar/RM41
+#EXTINF:-1,80s Hits
+http://45.236.104.228:7010/play/a01u/index.m3u8
+#EXTINF:-1,Classic Rock
+http://45.236.104.228:7010/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s 
 http://51.91.8.161:18000/MTV_00s/hls/playlist.m3u8
  
@@ -52,8 +56,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_59
 http://181.129.250.45:9060/play/a0ks/index.m3u8
 #EXTINF:-1,ESPN 4
 http://190.60.37.69:8015/play/a02n/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://168.121.46.90:4000/play/a067/index.m3u8
 #EXTINF:-1, Fox Sports 1
 http://45.190.13.50:8002/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
@@ -69,16 +71,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
-#EXTINF:-1,DIRECTV SPORT
-http://190.119.178.46:8000/play/a032/index.m3u8
-#EXTINF:-1,DIRECTV 2
-http://190.119.178.46:8000/play/a033/index.m3u8
-#EXTINF:-1,DIRECTV+
-http://190.119.178.46:8000/play/a034/index.m3u8
-#EXTINF:-1,Directv Sports Fight
-http://190.119.178.46:8000/play/a036/index.m3u8
-#EXTINF:-1,DIRECTV Liga 1 Max
-http://190.119.178.46:8000/play/a035/index.m3u8
+
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
@@ -92,7 +85,8 @@ http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/play
 http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
 #EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-PHILADELPHIA
 http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
-
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
+http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -133,23 +127,19 @@ http://51.159.99.183:18000/Eurosport_2/hls/playlist.m3u8
 
 
 
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
-http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)
 http://168.228.194.32:58001/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)2
-http://168.228.194.32:58001/play/a0b6/index.m3u8
 #EXTINF:-1 , Fox Sports 2 México (hls)
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
 
-#EXTINF:-1, TELEFE Deportes
-https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_5.m3u8
+
 #EXTINF:-1, TELEFE
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_64000_spa=28.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
@@ -210,20 +200,18 @@ http://181.129.250.45:9060/play/a0kc/index.m3u8
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_64000_spa=14.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo
 http://181.236.192.254:8000/play/a023/index.m3u8
+#EXTINF:-1,E Entertainment
+http://45.236.104.228:7010/play/a01g/index.m3u8
 #EXTINF:-1,Cinemax
-http://45.7.135.243:4000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="HBO",HBO
-http://181.236.192.254:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2",HBO 2
-http://181.236.192.254:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://181.236.192.254:8000/play/a00e/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://181.236.192.254:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="HBO Plus",HBO Plus
-http://181.236.192.254:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="HBO XTREME SD",HBO XTREME SD
-http://181.236.192.254:8000/play/a00d/index.m3u8
+http://45.236.104.228:7010/play/a03c/index.m3u8
+#EXTINF:-1,HBO 2
+http://45.236.104.228:7010/play/a00z/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.236.104.228:7010/play/a012/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.236.104.228:7010/play/a010/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://45.236.104.228:7010/play/a011/index.m3u8
 #EXTINF:-1, MTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_61000_spa=16.m3u8
 #EXTINF:-1, Cartoon Network
@@ -269,11 +257,6 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 ,TYC SPORT
 https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 
-#EXTINF:-1,Fox Sports 2
-http://200.60.124.20:8000/play/a01e/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://200.60.124.20:8000/play/a01f/index.m3u8
- 
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
@@ -288,17 +271,9 @@ http://45.184.111.156:8000/play/a0bg/index.m3u8
 http://45.184.111.156:8000/play/a0dv/index.m3u8
 
  
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE", CINE CLUB
-https://servilive.com:3176/live/cineclublive.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="CINE", RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
- 
- 
- 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Undefined",Roku : xplore
 https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2" group-title="Family",Family Flix
@@ -307,17 +282,12 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8?c
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Cine (EU) (Spanish)
 https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Moviesphere UK
-https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 group-title="CANALES" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="CANALES" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1,Orbit TV (Cine)
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-#EXTINF:-1, Peliculas
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
  
  
  
