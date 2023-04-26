@@ -71,7 +71,10 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
-
+#EXTINF:-1,NBA
+https://es5.quest123.top:8088/live/yggxlive130/playlist.m3u8?vidictid=194735756115&id=118070&pk=d630425a9e58f55edea8bc9adee03ad117c550482a5d65a16451333cf77c43b8c685ae735df225a605b602f44274d89ac7882d52f9b269112eeee012cce76d73
+#EXTINF:-1,TSN 1
+https://ds1.sportea.online/stream/ch14/index.fmp4.m3u8
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
