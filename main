@@ -19,7 +19,8 @@ http://204.199.3.2/.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
  
 
-
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" group-title="Deportes",Fox Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
  
  
  
@@ -56,12 +57,10 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_59
 http://181.129.250.45:9060/play/a0ks/index.m3u8
 #EXTINF:-1,ESPN 4
 http://190.60.37.69:8015/play/a02n/index.m3u8
-#EXTINF:-1, Fox Sports 1
-http://45.190.13.50:8002/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
-http://45.184.111.156:8000/play/a0bp/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 3
-http://45.184.111.156:8000/play/a0bq/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://209.45.80.116:8000/play/a03g/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://209.45.80.116:8000/play/a03h/index.m3u8
 
 
 #EXTINF:-1,ESPN Premium
@@ -137,8 +136,7 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)
 http://168.228.194.32:58001/play/a0b5/index.m3u8
-#EXTINF:-1 , Fox Sports 2 México (hls)
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
 
@@ -178,13 +176,13 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/St
 #EXTINF:-1, Sonny Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_67000_spa=23.m3u8
 #EXTINF:-1, AXN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=18.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_75000_eng=20.m3u8
 #EXTINF:-1, FX
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_66000_eng=17.m3u8
 #EXTINF:-1, Warner TV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_62000_spa=19.m3u8
 #EXTINF:-1, Animal Planet
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_70000_spa=18.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_70000_spa=5.m3u8
 #EXTINF:-1, History
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_64000_spa=24.m3u8
 #EXTINF:-1, Discovery H&H
@@ -202,19 +200,23 @@ http://181.129.250.45:9060/play/a0kc/index.m3u8
 #EXTINF:-1, Discovery ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_64000_spa=14.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo
-http://181.236.192.254:8000/play/a023/index.m3u8
+http://209.45.80.116:8000/play/a02h/index.m3u8
 #EXTINF:-1,E Entertainment
-http://45.236.104.228:7010/play/a01g/index.m3u8
+http://209.45.80.116:8000/play/a039/index.m3u8
 #EXTINF:-1,Cinemax
-http://45.236.104.228:7010/play/a03c/index.m3u8
+http://209.45.80.116:8000/play/a03l/index.m3u8
+
+#EXTINF:-1,HBO
+http://209.45.80.116:8000/play/a03k/index.m3u8
 #EXTINF:-1,HBO 2
-http://45.236.104.228:7010/play/a00z/index.m3u8
+http://209.45.80.116:8000/play/a02y/index.m3u8
 #EXTINF:-1,HBO Family
-http://45.236.104.228:7010/play/a012/index.m3u8
+http://209.45.80.116:8000/play/a031/index.m3u8
 #EXTINF:-1,HBO Plus
-http://45.236.104.228:7010/play/a010/index.m3u8
+http://209.45.80.116:8000/play/a02z/index.m3u8
 #EXTINF:-1,HBO XTREME SD
-http://45.236.104.228:7010/play/a011/index.m3u8
+http://209.45.80.116:8000/play/a030/index.m3u8
+
 #EXTINF:-1, MTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_61000_spa=16.m3u8
 #EXTINF:-1, Cartoon Network
@@ -366,7 +368,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/St
 #EXTINF:-1, FX
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_66000_eng=22.m3u8
 #EXTINF:-1, AXN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=16.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_75000_eng=48.m3u8
 #EXTINF:-1, Cinecanal
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_72000_eng=45.m3u8
 #EXTINF:-1, TNT
@@ -389,26 +391,6 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 
 
-#EXTINF:-1,Fox Sports
-http://200.113.4.75:7210/play/a00w/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://200.113.4.75:7210/play/a00d/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://200.113.4.75:7210/play/a016/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://200.113.4.75:7210/play/a017/index.m3u8
-#EXTINF:-1,HBO
-http://200.113.4.75:7210/play/a02b/index.m3u8
-#EXTINF:-1,HBO
-http://200.113.4.75:7210/play/a01z/index.m3u8
-#EXTINF:-1,HBO 2
-http://200.113.4.75:7210/play/a00h/index.m3u8
-#EXTINF:-1,HBO Family
-http://200.113.4.75:7210/play/a00k/index.m3u8
-#EXTINF:-1,HBO Plus
-http://200.113.4.75:7210/play/a00i/index.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://200.113.4.75:7210/play/a00j/index.m3u8
 
 
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA", M+ Sagas 
@@ -480,30 +462,7 @@ http://51.91.8.161:18000/M_LaLiga_5/hls/playlist.m3u8
 http://51.91.8.161:18000/DAZN_3/hls/playlist.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4", DAZN 4 
 http://51.91.8.161:18000/DAZN_4/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO", M+ Liga de Campeones 
-http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP2", M+ Liga de Campeones 2 
-http://51.91.8.161:18000/M_Liga_de_Campeones_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3", M+ Liga de Campeones 3 
-http://51.91.8.161:18000/M_Liga_de_Campeones_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP4", M+ Liga de Campeones 4 
-http://51.91.8.161:18000/M_Liga_de_Campeones_4/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP5", M+ Liga de Campeones 5 
-http://51.91.8.161:18000/M_Liga_de_Campeones_5/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6", M+ Liga de Campeones 6 
-http://51.91.8.161:18000/M_Liga_de_Campeones_6/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP7", M+ Liga de Campeones 7 
-http://51.91.8.161:18000/M_Liga_de_Campeones_7/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP8", M+ Liga de Campeones 8 
-http://51.91.8.161:18000/M_Liga_de_Campeones_8/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP9", M+ Liga de Campeones 9 
-http://51.91.8.161:18000/M_Liga_de_Campeones_9/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP10", M+ Liga de Campeones 10 
-http://51.91.8.161:18000/M_Liga_de_Campeones_10/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP11", M+ Liga de Campeones 11 
-http://51.91.8.161:18000/M_Liga_de_Campeones_11/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP12", M+ Liga de Campeones 12 
-http://51.91.8.161:18000/M_Liga_de_Campeones_12/hls/playlist.m3u8
+
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP11", M+ Deportes 4 
 http://51.91.8.161:18000/M_Deportes_4/hls/playlist.m3u8
 
