@@ -50,6 +50,16 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Dis
 #EXTINF:-1, Discovery HGTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
 
+#EXTINF:-1,HBO
+http://209.45.80.116:8000/play/a03k/index.m3u8
+#EXTINF:-1,HBO 2
+http://209.45.80.116:8000/play/a02y/index.m3u8
+#EXTINF:-1,HBO Family
+http://209.45.80.116:8000/play/a031/index.m3u8
+#EXTINF:-1,HBO Plus
+http://209.45.80.116:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://209.45.80.116:8000/play/a030/index.m3u8
 
 
 #EXTINF:-1,ESPN Premium
