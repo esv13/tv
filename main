@@ -17,10 +17,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
 http://204.199.3.2/.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU",PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
- 
 
-#EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" group-title="Deportes",Fox Sports 3
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
  
  
  
@@ -40,10 +37,6 @@ https://musicsrc.cvattv.com.ar/RM37
 https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1, Electrónica
 https://musicsrc.cvattv.com.ar/RM41
-#EXTINF:-1,80s Hits
-http://45.236.104.228:7010/play/a01u/index.m3u8
-#EXTINF:-1,Classic Rock
-http://45.236.104.228:7010/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s 
 http://51.91.8.161:18000/MTV_00s/hls/playlist.m3u8
  
@@ -74,8 +67,15 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://143.244.60.30/NBATV/index.m3u8
 #EXTINF:-1,TNT
 http://143.244.60.30/TNT/index.m3u8
-#EXTINF:-1,TSN 1
-https://ds1.sportea.online/stream/ch14/index.fmp4.m3u8
+#EXTINF:-1,TSN_1
+http://143.244.60.30/TSN_1/index.m3u8
+#EXTINF:-1,TSN_2
+http://143.244.60.30/TSN_2/index.m3u8
+#EXTINF:-1,TSN_3
+http://143.244.60.30/TSN_3/index.m3u8
+#EXTINF:-1,TSN_4
+http://143.244.60.30/TSN_4/index.m3u8
+
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
@@ -375,7 +375,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_599961
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_72000_eng=45.m3u8
 #EXTINF:-1, TNT
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_77000_spa=22.m3u8
-
+#EXTINF:-1, HBO
+http://143.244.60.30/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="" status="timeout",AstroNet (360p)
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
