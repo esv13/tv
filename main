@@ -39,6 +39,12 @@ https://musicsrc.cvattv.com.ar/RM38
 https://musicsrc.cvattv.com.ar/RM41
 #EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s 
 http://51.91.8.161:18000/MTV_00s/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1EOpuU.png", MTV Classic
+http://143.244.60.30/MTVCLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live USA
+http://143.244.60.30/MTVLIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOMYSRo.png", MTV 90s
+http://myott.top/stream/DEKA6YA5JRN/88.m3u8
  
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_62000_spa=19.m3u8
@@ -67,13 +73,15 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://143.244.60.30/NBATV/index.m3u8
 #EXTINF:-1,TNT
 http://143.244.60.30/TNT/index.m3u8
-#EXTINF:-1,TSN_1
+#EXTINF:-1,ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1,TSN1
 http://143.244.60.30/TSN_1/index.m3u8
-#EXTINF:-1,TSN_2
+#EXTINF:-1,TSN2
 http://143.244.60.30/TSN_2/index.m3u8
-#EXTINF:-1,TSN_3
+#EXTINF:-1,TSN3
 http://143.244.60.30/TSN_3/index.m3u8
-#EXTINF:-1,TSN_4
+#EXTINF:-1,TSN4
 http://143.244.60.30/TSN_4/index.m3u8
 
 
@@ -141,7 +149,8 @@ http://168.228.194.32:58001/play/a0b5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
+http://204.12.247.162:8080/premium42/mono.m3u8
 
 #EXTINF:-1, TELEFE
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_64000_spa=28.m3u8
@@ -473,3 +482,13 @@ http://51.91.8.161:18000/M_Deportes_4/hls/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3001
 #EXTINF:-1, just Classical
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4002
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/g05AJfK.png",[$]PREMIERE 1HD
+http://212.224.84.202:2200/ALB-EX/Premiere_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17 
+#EXTINF:0 tvg-logo="https://i.imgur.com/VsBtfCe.png",[$]PREMIERE 2HD 
+http://212.224.84.202:2200/ALB-EX/Premiere_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gvaZX21.png",[$]PREMIERE 3HD 
+http://212.224.84.202:2200/ALB-EX/Premiere_3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17 
+#EXTINF:0 tvg-logo="https://i.imgur.com/alQLNSm.png",[$]PREMIERE 4HD 
+http://212.224.84.202:2200/ALB-EX/Premiere_4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv
+
