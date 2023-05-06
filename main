@@ -55,11 +55,25 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_59
 #EXTINF:-1,ESPN 4
 http://181.129.250.45:9060/play/a0ks/index.m3u8
 #EXTINF:-1,ESPN 4
-http://190.60.37.69:8015/play/a02n/index.m3u8
+http://45.184.111.158:8000/play/a0c3/index.m3u8
+#EXTINF:-1,ESPN CO
+http://45.184.111.158:8000/play/a0cn/index.m3u8
 #EXTINF:-1,Fox Sports 2
 http://209.45.80.116:8000/play/a03g/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://209.45.80.116:8000/play/a03h/index.m3u8
+#EXTINF:-1,12006 FOX SPORT 2
+http://200.24.151.134:8000/play/a00f/index.m3u8
+#EXTINF:-1,12007 FOX SPORT 3
+http://200.24.151.134:8000/play/a00g/index.m3u8
+#EXTINF:-1,12008 ESPN 4
+http://200.24.151.134:8000/play/a00j/index.m3u8
+#EXTINF:-1,12009 ESPN 3
+http://200.24.151.134:8000/play/a00h/index.m3u8
+#EXTINF:-1,12010 ESPN 2
+http://200.24.151.134:8000/play/a00i/index.m3u8
+#EXTINF:-1,12002 ESPN
+http://200.24.151.134:8000/play/a00b/index.m3u8
 
 
 #EXTINF:-1,ESPN Premium
@@ -67,7 +81,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 #EXTINF:-1,TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_67000_spa=27.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="DEPORTES", NBA TV
 http://143.244.60.30/NBATV/index.m3u8
@@ -111,41 +125,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP", M+ Deportes 
-http://51.159.99.183:18000/M_Deportes/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARTHUR", M+ Deportes 1 
-http://51.159.99.183:18000/M_Deportes_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP2", M+ Deportes 2 
-http://51.159.99.183:18000/M_Deportes_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP3", M+ Deportes 3 
-http://51.159.99.183:18000/M_Deportes_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF%2B", M+ Golf 
-http://51.159.99.183:18000/M_Golf/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1", DAZN F1 
-http://51.159.99.183:18000/DAZN_F1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD", DAZN 1 
-http://51.159.99.183:18000/DAZN_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD", DAZN 2 
-http://51.159.99.183:18000/DAZN_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3", DAZN 3 
-http://51.159.99.183:18000/DAZN_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4", DAZN 4 
-http://51.159.99.183:18000/DAZN_4/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP", Eurosport 1 
-http://51.159.99.183:18000/Eurosport_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2", Eurosport 2 
-http://51.159.99.183:18000/Eurosport_2/hls/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Deportes",FOX SPORTS 1 HD (ᴍx)
-http://168.228.194.32:58001/play/a0b5/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
@@ -161,7 +147,14 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-a
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
 
 
-
+#EXTINF:-1,12024 cine premium
+http://200.24.151.134:8000/play/a01d/index.m3u8
+#EXTINF:-1,12025 cine hispano
+http://200.24.151.134:8000/play/a01e/index.m3u8
+#EXTINF:-1,12026 cine familiar
+http://200.24.151.134:8000/play/a01f/index.m3u8
+#EXTINF:-1,12027 cine infantil
+http://200.24.151.134:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
