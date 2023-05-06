@@ -52,16 +52,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_64000_eng=14.m3u8
 #EXTINF:-1,ESPN 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_64000_spa=2.m3u8
-#EXTINF:-1,ESPN 4
-http://181.129.250.45:9060/play/a0ks/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.184.111.158:8000/play/a0c3/index.m3u8
-#EXTINF:-1,ESPN CO
-http://45.184.111.158:8000/play/a0cn/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://209.45.80.116:8000/play/a03g/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://209.45.80.116:8000/play/a03h/index.m3u8
 #EXTINF:-1,12006 FOX SPORT 2
 http://200.24.151.134:8000/play/a00f/index.m3u8
 #EXTINF:-1,12007 FOX SPORT 3
@@ -74,7 +64,16 @@ http://200.24.151.134:8000/play/a00h/index.m3u8
 http://200.24.151.134:8000/play/a00i/index.m3u8
 #EXTINF:-1,12002 ESPN
 http://200.24.151.134:8000/play/a00b/index.m3u8
-
+#EXTINF:-1,ESPN 4
+http://181.129.250.45:9060/play/a0ks/index.m3u8
+#EXTINF:-1,ESPN 4
+http://45.184.111.158:8000/play/a0c3/index.m3u8
+#EXTINF:-1,ESPN CO
+http://45.184.111.158:8000/play/a0cn/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://209.45.80.116:8000/play/a03g/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://209.45.80.116:8000/play/a03h/index.m3u8
 
 #EXTINF:-1,ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_60000_spa=16.m3u8
@@ -147,14 +146,21 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-a
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
 
 
-#EXTINF:-1,12024 cine premium
+#EXTINF:-1,cine premium
 http://200.24.151.134:8000/play/a01d/index.m3u8
-#EXTINF:-1,12025 cine hispano
+#EXTINF:-1,cine hispano
 http://200.24.151.134:8000/play/a01e/index.m3u8
-#EXTINF:-1,12026 cine familiar
+#EXTINF:-1,cine familiar
 http://200.24.151.134:8000/play/a01f/index.m3u8
-#EXTINF:-1,12027 cine infantil
+#EXTINF:-1,cine infantil
 http://200.24.151.134:8000/play/a01g/index.m3u8
+#EXTINF:-1,CINEMA PLATINIUM
+http://200.24.151.134:8000/play/a01u/index.m3u8
+#EXTINF:-1,NAT GEO
+http://200.24.151.134:8000/play/a00x/index.m3u8
+#EXTINF:-1,SYFY
+http://200.24.151.134:8000/play/a01m/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
