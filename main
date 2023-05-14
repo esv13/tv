@@ -64,16 +64,8 @@ http://200.24.151.134:8000/play/a00h/index.m3u8
 http://200.24.151.134:8000/play/a00i/index.m3u8
 #EXTINF:-1,12002 ESPN
 http://200.24.151.134:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.129.250.45:9060/play/a0ks/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.184.111.158:8000/play/a0c3/index.m3u8
 #EXTINF:-1,ESPN CO
 http://45.184.111.158:8000/play/a0cn/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://209.45.80.116:8000/play/a03g/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://209.45.80.116:8000/play/a03h/index.m3u8
 
 #EXTINF:-1,ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_60000_spa=16.m3u8
@@ -117,8 +109,6 @@ http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
@@ -128,8 +118,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
@@ -156,8 +144,7 @@ http://200.24.151.134:8000/play/a01f/index.m3u8
 http://200.24.151.134:8000/play/a01g/index.m3u8
 #EXTINF:-1,CINEMA PLATINIUM
 http://200.24.151.134:8000/play/a01u/index.m3u8
-#EXTINF:-1,NAT GEO
-http://200.24.151.134:8000/play/a00x/index.m3u8
+
 #EXTINF:-1,SYFY
 http://200.24.151.134:8000/play/a01m/index.m3u8
 
