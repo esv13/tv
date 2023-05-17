@@ -192,6 +192,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Dis
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
+#EXTINF:-1,Love Nature
+http://45.170.243.23:4000/play/a01g/index.m3u8
 #EXTINF:-1,History 2
 http://181.129.250.45:9060/play/a0kc/index.m3u8
 #EXTINF:-1, Discovery ID
