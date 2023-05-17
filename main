@@ -89,6 +89,10 @@ http://143.244.60.30/TSN_3/index.m3u8
 #EXTINF:-1,TSN4
 http://143.244.60.30/TSN_4/index.m3u8
 
+#EXTINF:-1,DIRECTV SPORT 1 HD
+http://45.170.225.210:58001/play/a04g/index.m3u8
+#EXTINF:-1,Sky Sports / Espn+
+http://45.170.225.210:58001/play/a043/index.m3u8
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
