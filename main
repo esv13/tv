@@ -110,6 +110,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://190.43.92.145:8000/play/a0wf/index.m3u8
 
 
+#EXTINF:-1, ESPN Deportes US
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
 #EXTINF:-1,DIRECTV SPORT 1 HD
 http://45.170.225.210:58001/play/a04g/index.m3u8
 #EXTINF:-1,Sky Sports / Espn+
