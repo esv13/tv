@@ -65,23 +65,7 @@ http://131.196.12.237:19000/play/a08f/index.m3u8
 http://131.196.12.237:19000/play/a047/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://131.196.12.237:19000/play/a07r/index.m3u8
-#EXTINF:-1,Movistar Deportes
-http://131.196.12.237:19000/play/a08n/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://131.196.12.237:19000/play/a059/index.m3u8
-#EXTINF:-1,Movistar Plus
-http://131.196.12.237:19000/play/a08q/index.m3u8
-#EXTINF:-1,Movistar TV
-http://131.196.12.237:19000/play/a05o/index.m3u8
 
-#EXTINF:-1,TNT
-http://131.196.12.237:8000/play/a07u/index.m3u8
-#EXTINF:-1,TNT
-http://131.196.12.237:8000/play/a06c/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://131.196.12.237:8000/play/a06w/index.m3u8
-#EXTINF:-1,TNT SPORTS 3
-http://131.196.12.237:8000/play/a066/index.m3u8
 
 #EXTINF:-1,12006 FOX SPORT 2
 http://200.24.151.134:8000/play/a00f/index.m3u8
@@ -110,8 +94,6 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://190.43.92.145:8000/play/a0wf/index.m3u8
 
 
-#EXTINF:-1, ESPN Deportes US
-https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
 #EXTINF:-1,DIRECTV SPORT 1 HD
 http://45.170.225.210:58001/play/a04g/index.m3u8
 #EXTINF:-1,Sky Sports / Espn+
@@ -189,6 +171,31 @@ http://131.196.12.237:19000/play/a07y/index.m3u8
 http://131.196.12.237:19000/play/a08i/index.m3u8
 #EXTINF:-1,HBO2
 http://131.196.12.237:19000/play/a096/index.m3u8
+
+
+
+#EXTINF:-1,MTV
+http://50.7.137.106:8080/MTV/index.m3u8?token=test
+#EXTINF:-1,CMTV HD
+http://50.7.137.106:8080/CMTV/index.m3u8?token=test
+#EXTINF:-1,TVI HD
+http://50.7.137.106:8080/TVI/index.m3u8?token=test
+#EXTINF:-1,VH1
+http://50.7.137.106:8080/VH1/index.m3u8?token=test
+#EXTINF:-1,FOX HD
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY HD
+http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
+#EXTINF:-1,AMC HD
+http://50.7.137.106:8080/AMC/index.m3u8?token=test
+#EXTINF:-1,SYFY HD
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+#EXTINF:-1,HOLLYWOOD HD
+http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
+#EXTINF:-1,AXN HD
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1,NAT_GEO_WILD HD
+http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
 
 
 
