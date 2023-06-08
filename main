@@ -44,27 +44,26 @@ http://143.244.60.30/MTVCLASSIC/index.m3u8
 http://143.244.60.30/MTVLIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DOMYSRo.png", MTV 90s
 http://myott.top/stream/DEKA6YA5JRN/88.m3u8
- 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1326613295772692480/idsLk-SY_400x400.png" ,V2Beat TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+
+
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_68000_eng=23.m3u8
 #EXTINF:-1,ESPN 2
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_70000_eng=43.m3u8
 #EXTINF:-1,ESPN 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_65000_spa=15.m3u8
-#EXTINF:-1,ESPN 4
-http://131.196.12.237:19000/play/a06x/index.m3u8
-#EXTINF:-1,ESPN 4
-http://131.196.12.237:19000/play/a065/index.m3u8
-#EXTINF:-1,Fox Sports
-http://131.196.12.237:19000/play/a03k/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://131.196.12.237:19000/play/a04y/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://131.196.12.237:19000/play/a08f/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://131.196.12.237:19000/play/a047/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://131.196.12.237:19000/play/a07r/index.m3u8
+#EXTINF:-1, DeporTV
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_67000=15-avc1_5999616=20.m3u8
+#EXTINF:-1,ESPN Premium
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_67000_spa=34.m3u8
+#EXTINF:-1,TNT Sports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_62000_spa=13.m3u8
+#EXTINF:-1, TyC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
 
 
 #EXTINF:-1,12006 FOX SPORT 2
@@ -81,17 +80,6 @@ http://200.24.151.134:8000/play/a00i/index.m3u8
 http://200.24.151.134:8000/play/a00b/index.m3u8
 #EXTINF:-1,ESPN CO
 http://45.184.111.158:8000/play/a0cn/index.m3u8
-
-#EXTINF:-1,ESPN Premium
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_67000_spa=34.m3u8
-#EXTINF:-1,TNT Sports
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_62000_spa=13.m3u8
-#EXTINF:-1,TyC
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1, TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:-1,TyC
-http://190.43.92.145:8000/play/a0wf/index.m3u8
 
 
 #EXTINF:-1,DIRECTV SPORT 1 HD
@@ -138,7 +126,8 @@ http://204.12.247.162:8080/premium42/mono.m3u8
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_62000_spa=24.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_74000=28.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.gentvoficial.com/img/gentv.jpg"group-title="TDA",GENTV DIGITAL 
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 
 #EXTINF:-1,A&E
@@ -214,9 +203,13 @@ http://200.24.151.134:8000/play/a01f/index.m3u8
 http://200.24.151.134:8000/play/a01g/index.m3u8
 #EXTINF:-1,CINEMA PLATINIUM
 http://200.24.151.134:8000/play/a01u/index.m3u8
+#EXTINF:-1, Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,SYFY
 http://200.24.151.134:8000/play/a01m/index.m3u8
+#EXTINF:-1, Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
@@ -262,14 +255,12 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_62000_eng=18.m3u8
 #EXTINF:-1, Discovery HGTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_76000_spa=19.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TbtvnD/Dwlogo.png" ,DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science",Discovery Science
 http://190.61.91.101:1234/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
-#EXTINF:-1,Nat Geo HD
-http://131.196.12.237:8000/play/a02o/index.m3u8
-#EXTINF:-1,National Geographic
-http://131.196.12.237:8000/play/a04o/index.m3u8
 #EXTINF:-1, MTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_68000_eng=21.m3u8
 #EXTINF:-1, Cartoon Network
