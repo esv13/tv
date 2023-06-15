@@ -166,9 +166,9 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_5999616=5-mp4a_62000_eng=25.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" , Universal Studio 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_65000_eng=11.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", Sony Cine
+#EXTINF:-1 tvg-logo="https://www.sonypictures.com/sites/default/files/styles/max_430_width/public/2021-02/sonycine_networks_thumb_374x266.png?itok=FcaWCkCT", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest?cb=20230305160915&path-prefix=es", Sonny Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.negro.png.9357e75312ad5675ba03c504f00cdc03.png", Sonny Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_69000_spa=18.m3u8
 #EXTINF:-1, AXN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=2.m3u8
