@@ -36,17 +36,10 @@ https://musicsrc.cvattv.com.ar/RM37
 https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1, Electrónica
 https://musicsrc.cvattv.com.ar/RM41
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s 
-http://51.91.8.161:18000/MTV_00s/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1EOpuU.png", MTV Classic
-http://143.244.60.30/MTVCLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLJrxDl.png", MTV Live USA
-http://143.244.60.30/MTVLIVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOMYSRo.png", MTV 90s
-http://myott.top/stream/DEKA6YA5JRN/88.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1326613295772692480/idsLk-SY_400x400.png" ,V2Beat TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" ,Rockland Radio TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w1411481870_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" ,California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 
 #EXTINF:-1,ESPN
@@ -63,23 +56,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_62000_spa=13.m3u8
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-
-
-
-#EXTINF:-1,12006 FOX SPORT 2
-http://200.24.151.134:8000/play/a00f/index.m3u8
-#EXTINF:-1,12007 FOX SPORT 3
-http://200.24.151.134:8000/play/a00g/index.m3u8
-#EXTINF:-1,12008 ESPN 4
-http://200.24.151.134:8000/play/a00j/index.m3u8
-#EXTINF:-1,12009 ESPN 3
-http://200.24.151.134:8000/play/a00h/index.m3u8
-#EXTINF:-1,12010 ESPN 2
-http://200.24.151.134:8000/play/a00i/index.m3u8
-#EXTINF:-1,12002 ESPN
-http://200.24.151.134:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN CO
-http://45.184.111.158:8000/play/a0cn/index.m3u8
 
 
 #EXTINF:-1,DIRECTV SPORT 1 HD
@@ -119,49 +95,27 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
-#EXTINF:0 tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
-http://204.12.247.162:8080/premium42/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1, TELEFE
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_62000_spa=24.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_74000=28.m3u8
-#EXTINF:-1 tvg-logo="http://www.gentvoficial.com/img/gentv.jpg"group-title="TDA",GENTV DIGITAL 
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 
-#EXTINF:-1,A&E
-http://131.196.12.237:19000/play/a07s/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://131.196.12.237:19000/play/a028/index.m3u8
-#EXTINF:-1,Europa Europa
-http://131.196.12.237:19000/play/a06e/index.m3u8
+
 #EXTINF:-1,HBO
-http://131.196.12.237:19000/play/a095/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://131.196.12.237:19000/play/a030/index.m3u8
+http://209.45.80.116:8000/play/a03k/index.m3u8
+#EXTINF:-1,HBO 2
+http://209.45.80.116:8000/play/a02y/index.m3u8
 #EXTINF:-1,HBO Family
-http://131.196.12.237:19000/play/a07x/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://131.196.12.237:19000/play/a08h/index.m3u8
-#EXTINF:-1,HBO HD
-http://131.196.12.237:19000/play/a02t/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://131.196.12.237:19000/play/a074/index.m3u8
+http://209.45.80.116:8000/play/a031/index.m3u8
 #EXTINF:-1,HBO Plus
-http://131.196.12.237:19000/play/a07z/index.m3u8
-#EXTINF:-1,HBO SD
-http://131.196.12.237:19000/play/a052/index.m3u8
-#EXTINF:-1,HBO Signature
-http://131.196.12.237:19000/play/a080/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://131.196.12.237:19000/play/a07y/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://131.196.12.237:19000/play/a08i/index.m3u8
-#EXTINF:-1,HBO2
-http://131.196.12.237:19000/play/a096/index.m3u8
-
-
+http://209.45.80.116:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://209.45.80.116:8000/play/a030/index.m3u8
 
 #EXTINF:-1,MTV
 http://50.7.137.106:8080/MTV/index.m3u8?token=test
@@ -187,32 +141,9 @@ http://50.7.137.106:8080/AXN/index.m3u8?token=test
 http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
 
 
-
-
-#EXTINF:-1, TODAY All Day
-https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
-
-
-#EXTINF:-1,cine premium
-http://200.24.151.134:8000/play/a01d/index.m3u8
-#EXTINF:-1,cine hispano
-http://200.24.151.134:8000/play/a01e/index.m3u8
-#EXTINF:-1,cine familiar
-http://200.24.151.134:8000/play/a01f/index.m3u8
-#EXTINF:-1,cine infantil
-http://200.24.151.134:8000/play/a01g/index.m3u8
-#EXTINF:-1,CINEMA PLATINIUM
-http://200.24.151.134:8000/play/a01u/index.m3u8
 #EXTINF:-1, Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,SYFY
-http://200.24.151.134:8000/play/a01m/index.m3u8
-#EXTINF:-1, Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Premier
@@ -233,9 +164,11 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_59
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=5-mp4a_68000_eng=41.m3u8
 #EXTINF:-1, aMC
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_5999616=5-mp4a_62000_eng=25.m3u8
-#EXTINF:-1, Universal Studio 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" , Universal Studio 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_65000_eng=11.m3u8
-#EXTINF:-1, Sonny Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest?cb=20230305160915&path-prefix=es", Sonny Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_69000_spa=18.m3u8
 #EXTINF:-1, AXN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=2.m3u8
@@ -257,8 +190,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Dis
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_76000_spa=19.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TbtvnD/Dwlogo.png" ,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Discovery Science",Discovery Science
-http://190.61.91.101:1234/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
 #EXTINF:-1, MTV
@@ -273,9 +204,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-avc1_5999616=13-mp4a_66000_spa=23.m3u8
 #EXTINF:-1,Love Nature
 http://45.170.243.23:4000/play/a01g/index.m3u8
-#EXTINF:-1,TMZ
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
-
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo
 http://209.45.80.116:8000/play/a02h/index.m3u8
 #EXTINF:-1,E Entertainment
@@ -283,17 +211,46 @@ http://209.45.80.116:8000/play/a039/index.m3u8
 #EXTINF:-1,Cinemax
 http://209.45.80.116:8000/play/a03l/index.m3u8
 
+#EXTINF:-1, TODAY All Day
+https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
+#EXTINF:-1,TMZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
+#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" ,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/9/14/NBCNewsNow-Logo-White-344x300.png" ,NBC News NOW
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,HBO
-http://209.45.80.116:8000/play/a03k/index.m3u8
-#EXTINF:-1,HBO 2
-http://209.45.80.116:8000/play/a02y/index.m3u8
-#EXTINF:-1,HBO Family
-http://209.45.80.116:8000/play/a031/index.m3u8
-#EXTINF:-1,HBO Plus
-http://209.45.80.116:8000/play/a02z/index.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://209.45.80.116:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="CINE", RAKUTEN TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Undefined",Roku : xplore
+https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2" group-title="Family",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Cine (EU) (Spanish)
+https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
+ 
+#EXTINF:-1 group-title="CANALES" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 group-title="CANALES" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
+Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
+Run Time Thriller y Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
+Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+Run Time Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+
+
 #EXTINF:-1, Discovery ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_66000_spa=8.m3u8
 
@@ -346,35 +303,7 @@ http://45.184.111.156:8000/play/a0dv/index.m3u8
 
  
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="CINE", RAKUTEN TOP FREE
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Undefined",Roku : xplore
-https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2" group-title="Family",Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Cine (EU) (Spanish)
-https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
- 
-#EXTINF:-1 group-title="CANALES" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TU CINE
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 group-title="CANALES" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-Run Time Cine y Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-Run Time Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
-Run Time Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
-Run Time Thriller y Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
-Run Time Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
-Run Time Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
- 
- 
+
  
 
   
@@ -476,12 +405,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3002
 #EXTINF:-1, just Classical
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4002
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/g05AJfK.png",[$]PREMIERE 1HD
-http://212.224.84.202:2200/ALB-EX/Premiere_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17 
-#EXTINF:0 tvg-logo="https://i.imgur.com/VsBtfCe.png",[$]PREMIERE 2HD 
-http://212.224.84.202:2200/ALB-EX/Premiere_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gvaZX21.png",[$]PREMIERE 3HD 
-http://212.224.84.202:2200/ALB-EX/Premiere_3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv Plus 2.0.17 
-#EXTINF:0 tvg-logo="https://i.imgur.com/alQLNSm.png",[$]PREMIERE 4HD 
-http://212.224.84.202:2200/ALB-EX/Premiere_4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null|User-Agent=Rediptv
+
 
