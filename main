@@ -49,6 +49,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_70000_eng=43.m3u8
 #EXTINF:-1,ESPN 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_65000_spa=15.m3u8
+#EXTINF:-1,ESPN 4
+http://201.219.246.114:7000/play/a022/index.m3u8
 #EXTINF:-1, DeporTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_67000=15-avc1_5999616=20.m3u8
 #EXTINF:-1,ESPN Premium
@@ -57,15 +59,23 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_62000_spa=13.m3u8
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-
-#EXTINF:-1, Fox Sports 2
-https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-
-
+#EXTINF:-1, EUROSPORT 1
+http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2",Fox Sports 2
+http://45.173.12.70:8500/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 3",Fox Sports 3
+http://45.173.12.70:8500/play/a01h/index.m3u8
+#EXTINF:-1, Fight Sports
+http://103.105.213.251:8443/live/yqzt_9JY9_NNXFt2Up6Ygg/1685155662/18.m3u8
 #EXTINF:-1,DIRECTV SPORT 1 HD
 http://45.170.225.210:58001/play/a04g/index.m3u8
 #EXTINF:-1,Sky Sports / Espn+
 http://45.170.225.210:58001/play/a043/index.m3u8
+#EXTINF:-1, ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1, ESPN
+http://41.205.93.154/ESPN/index.m3u8
+
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
@@ -84,7 +94,8 @@ http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 
-
+#EXTINF:-1, Poker TV
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 2
@@ -112,18 +123,34 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_74000=28.m3u8
 
-
-
 #EXTINF:-1,HBO
-http://209.45.80.116:8000/play/a03k/index.m3u8
+http://201.219.246.114:7000/play/a02c/index.m3u8
 #EXTINF:-1,HBO 2
-http://209.45.80.116:8000/play/a02y/index.m3u8
+http://201.219.246.114:7000/play/a00w/index.m3u8
 #EXTINF:-1,HBO Family
-http://209.45.80.116:8000/play/a031/index.m3u8
+http://201.219.246.114:7000/play/a00z/index.m3u8
+#EXTINF:-1,HBO POP
+http://201.219.246.114:7000/play/a03e/index.m3u8
 #EXTINF:-1,HBO Plus
-http://209.45.80.116:8000/play/a02z/index.m3u8
+http://201.219.246.114:7000/play/a00x/index.m3u8
 #EXTINF:-1,HBO XTREME SD
-http://209.45.80.116:8000/play/a030/index.m3u8
+http://201.219.246.114:7000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="HBO",HBO
+http://45.173.12.70:8500/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2",HBO 2
+http://45.173.12.70:8500/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD",HBO 2 HD
+http://45.173.12.70:8500/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family",HBO Family
+http://45.173.12.70:8500/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD",HBO Family HD
+http://45.173.12.70:8500/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD",HBO HD
+http://45.173.12.70:8500/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="HBO Plus",HBO Plus
+http://45.173.12.70:8500/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME SD",HBO XTREME SD
+http://45.173.12.70:8500/play/a00v/index.m3u8
 
 #EXTINF:-1,MTV
 http://50.7.137.106:8080/MTV/index.m3u8?token=test
@@ -148,7 +175,14 @@ http://50.7.137.106:8080/AXN/index.m3u8?token=test
 #EXTINF:-1,NAT_GEO_WILD HD
 http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
 
-
+#EXTINF:-1, ROCK Action HD
+http://210.210.155.37/session/bd39b29e-a763-11ec-83ca-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1, ROCK Action SD
+http://210.210.155.37/session/bd39b29e-a763-11ec-83ca-b82a72d63267/dr9445/h/h15/02.m3u8
+#EXTINF:-1, ROCK Entertainment HD
+http://210.210.155.37/session/a9b02618-a763-11ec-83ca-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1, ROCK Entertainment SD
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:-1, Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta Kids
@@ -171,7 +205,8 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55Juhdx.jpg" group-title="CINE", Canal Punto 99 Series Retro
 https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
-
+#EXTINF:-1, Film Stream 电影
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
@@ -235,13 +270,16 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourm
 #EXTINF:-1,Love Nature
 http://45.170.243.23:4000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo
-http://209.45.80.116:8000/play/a02h/index.m3u8
+http://45.173.12.70:8500/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="Nat Geo HD",Nat Geo HD
+http://45.173.12.70:8500/play/a02p/index.m3u8
 #EXTINF:-1,E Entertainment
-http://209.45.80.116:8000/play/a039/index.m3u8
+http://45.173.12.70:8500/play/a014/index.m3u8
 #EXTINF:-1,Cinemax
-http://209.45.80.116:8000/play/a03l/index.m3u8
+http://45.173.12.70:8500/play/a01w/index.m3u8
 
-
+#EXTINF:-1, Beautiful Planet
+https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/852214222884937730/ZJOsZVqS_400x400.jpg" group-title="CURIOSIDAD", CULTURA 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg" group-title="CURIOSIDAD", NASA TV
@@ -258,6 +296,10 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",WTTWDT
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+#EXTINF:-1, Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1, NHK WORLD JAPAN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="CINE", RAKUTEN TOP FREE
