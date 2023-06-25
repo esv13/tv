@@ -36,12 +36,20 @@ https://musicsrc.cvattv.com.ar/RM37
 https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1, Electrónica
 https://musicsrc.cvattv.com.ar/RM41
-#EXTINF:-1 tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" ,Rockland Radio TV
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w1411481870_b2628000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" ,California Music Channel
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVMusic.cl",PlanetaTV Music (720p)
 https://scl.edge.grupoz.cl/music/live/music.m3u8
+
+
+#EXTINF:-1,10030 ESPN 1 HD
+http://45.189.117.202:48000/play/a00r/index.m3u8
+#EXTINF:-1,10029 ESPN 2 HD
+http://45.189.117.202:48000/play/a00l/index.m3u8
+#EXTINF:-1,10019 ESPN3 HD
+http://45.189.117.202:48000/play/a01a/index.m3u8
+#EXTINF:-1,10018 ESPN 4 HD
+http://45.189.117.202:48000/play/a00j/index.m3u8
+
+
 
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_68000_eng=23.m3u8
@@ -75,7 +83,8 @@ http://45.170.225.210:58001/play/a043/index.m3u8
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1, ESPN
 http://41.205.93.154/ESPN/index.m3u8
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXbSWMPISMzgmCJt6gY3YdknCIZDkoAjt9g&usqp=CAU" group-title="beIN SPORTS.",Bt Sports 1
+https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
@@ -555,3 +564,70 @@ http://200.24.159.165:4848/play/a05a/index.m3u8
 #EXTINF:-1,Studio Universal
 http://200.24.159.165:4848/play/a059/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="AWE.us",AWE (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="DemandAfrica.us",Demand Africa (720p)
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseTV.it",Horse TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="HSN.us",HSN (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us",OAN (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us",OAN (720p) [Geo-blocked]
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-id="PopTV.us",Pop TV (720p) [Not 24/7]
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/pop_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.us",QVC Live (720p) [Not 24/7]
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RedseatTheFirst.us",Redseat The First (720p)
+https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us",Sony Movies (Sony Movie Channel)
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us",Sony Movie Channel (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us",SportsGrid (720p)
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PELICULAS GDM TV
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PELICULAS SONY TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,TV PELICULAS DE ACCION
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,TV PELICULAS DE COMEDIAS
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,TV PELICULAS DE DRAMA
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,TV PELICULAS DE EUROPA- En Español 
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,TV PELICULAS DE FAMILIA
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7515217.png" tvg-group="disney", Ant-Man: el Hombre Hormiga
+https://archive.org/download/02_20210719_20210719_1751/01.mp4
+#EXTINF:-1,10015 - FreeTV Extreme
+http://45.189.117.202:48000/play/a00d/index.m3u8
+#EXTINF:-1,10016 FreeTV Music
+http://45.189.117.202:48000/play/a00i/index.m3u8
+#EXTINF:-1,10047 HBO
+http://45.189.117.202:48000/play/a01g/index.m3u8
+#EXTINF:-1,10048 HBO 2
+http://45.189.117.202:48000/play/a01h/index.m3u8
+#EXTINF:-1,Upload Cine Familiar HD
+http://45.189.117.202:48000/play/a02m/index.m3u8
+#EXTINF:-1,Upload Cine Hispano HD
+http://45.189.117.202:48000/play/a02n/index.m3u8
+#EXTINF:-1,Upload Cine Premiun HD
+http://45.189.117.202:48000/play/a02o/index.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://201.219.246.114:7000/play/a033/index.m3u8
+#EXTINF:-1,DISCOVERY WORD
+http://201.219.246.114:7000/play/a034/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://201.219.246.114:7000/play/a01a/index.m3u8
