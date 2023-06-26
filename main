@@ -49,10 +49,8 @@ http://45.189.117.202:48000/play/a01a/index.m3u8
 #EXTINF:-1,10018 ESPN 4 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
 
-#EXTINF:-1,TNT Sports
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-#EXTINF:-1, TyC SPORTS
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
+#EXTINF:-1,NatGeo
+https://www.youtube.com/watch?v=306xLRnW3Cc
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_68000_eng=23.m3u8
 #EXTINF:-1,ESPN 2
