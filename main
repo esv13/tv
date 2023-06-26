@@ -50,7 +50,7 @@ http://45.189.117.202:48000/play/a01a/index.m3u8
 http://45.189.117.202:48000/play/a00j/index.m3u8
 
 #EXTINF:-1,NatGeo
-https://www.youtube.com/watch?v=306xLRnW3Cc
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687843608/ei/tx6aZI6QOaaX4dUPnOu96A0/ip/24.232.129.172/id/306xLRnW3Cc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qEK7B-dt-5BBNOL9CFuTbKxPPS4BhRyVRVnpnSy1SqUP0B2hdxy68-U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMbdd2I8wJM5llncbYs3aC0xnLjmPcAzxS6TCDMs1qTeAiAgKhJsr8l_EdTQNlmGEDX4sk1KLxGwOxpjLHpkdPFxVg%3D%3D/file/index.m3u8
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_68000_eng=23.m3u8
 #EXTINF:-1,ESPN 2
