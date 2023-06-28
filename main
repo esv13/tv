@@ -48,35 +48,12 @@ http://45.189.117.202:48000/play/a00l/index.m3u8
 http://45.189.117.202:48000/play/a01a/index.m3u8
 #EXTINF:-1,10018 ESPN 4 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
-
-#EXTINF:-1,NatGeoWild
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687844035/ei/YyCaZIq-EsGD-LAP4dKQgAc/ip/24.232.129.172/id/6zGV59Ldp3s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qEK7Bz4pu-FpLKGRLHrZ2wWCq3XnogZDYDMrvG28kcdJwVAf2TFbhqU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP7UpF-3zgYxLpXN6XG26trwWD_0rnNSfhZGOUtQHDk8AiEApdQZLvXPGX8xlA7x97_7-YGtWQZ63aACCnsos1csdnQ%3D/file/index.m3u8
-#EXTINF:-1,NatGeo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687843608/ei/tx6aZI6QOaaX4dUPnOu96A0/ip/24.232.129.172/id/306xLRnW3Cc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qEK7B-dt-5BBNOL9CFuTbKxPPS4BhRyVRVnpnSy1SqUP0B2hdxy68-U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMbdd2I8wJM5llncbYs3aC0xnLjmPcAzxS6TCDMs1qTeAiAgKhJsr8l_EdTQNlmGEDX4sk1KLxGwOxpjLHpkdPFxVg%3D%3D/file/index.m3u8
-#EXTINF:-1,ESPN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_68000_eng=23.m3u8
-#EXTINF:-1,ESPN 2
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_70000_eng=43.m3u8
-#EXTINF:-1,ESPN 3
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_65000_spa=15.m3u8
 #EXTINF:-1,ESPN 4
 http://201.219.246.114:7000/play/a022/index.m3u8
-#EXTINF:-1, DeporTV
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_67000=15-avc1_5999616=20.m3u8
-#EXTINF:-1,ESPN Premium
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_5999616=5-mp4a_67000_spa=34.m3u8
-#EXTINF:-1,TNT Sports
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_62000_spa=13.m3u8
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1, EUROSPORT 1
 http://54.39.17.6/eurosport/mono.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2",Fox Sports 2
-http://45.173.12.70:8500/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 3",Fox Sports 3
-http://45.173.12.70:8500/play/a01h/index.m3u8
-#EXTINF:-1, Fight Sports
-http://103.105.213.251:8443/live/yqzt_9JY9_NNXFt2Up6Ygg/1685155662/18.m3u8
 #EXTINF:-1,DIRECTV SPORT 1 HD
 http://45.170.225.210:58001/play/a04g/index.m3u8
 #EXTINF:-1,Sky Sports / Espn+
@@ -85,7 +62,7 @@ http://45.170.225.210:58001/play/a043/index.m3u8
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1, ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXbSWMPISMzgmCJt6gY3YdknCIZDkoAjt9g&usqp=CAU" group-title="beIN SPORTS.",Bt Sports 1
+#EXTINF:0 tvg-logo="https://es.wikipedia.org/wiki/Radiotelevisi%C3%B3n_Nacional_de_Afganist%C3%A1n#/media/Archivo:RTA_Afghanistan_Logo.svg" group-title="beIN SPORTS.",Bt Sports 1
 https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
