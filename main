@@ -40,13 +40,13 @@ https://musicsrc.cvattv.com.ar/RM41
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 
-#EXTINF:-1,10030 ESPN 1 HD
+#EXTINF:-1,ESPN 1 HD
 http://45.189.117.202:48000/play/a00r/index.m3u8
-#EXTINF:-1,10029 ESPN 2 HD
+#EXTINF:-1,ESPN 2 HD
 http://45.189.117.202:48000/play/a00l/index.m3u8
-#EXTINF:-1,10019 ESPN3 HD
+#EXTINF:-1,ESPN3 HD
 http://45.189.117.202:48000/play/a01a/index.m3u8
-#EXTINF:-1,10018 ESPN 4 HD
+#EXTINF:-1,ESPN 4 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-1,ESPN 4
 http://201.219.246.114:7000/play/a022/index.m3u8
@@ -102,14 +102,9 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
 
-#EXTINF:-1, TV Pública
-https://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1, TELEFE
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_62000_spa=24.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_2499584=17-mp4a_74000=28.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
 
 #EXTINF:-1,HBO
 http://201.219.246.114:7000/play/a02c/index.m3u8
@@ -185,8 +180,6 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="CINE", Solive
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="CINE", CHIQUILINES
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/4226980d-98bb-4fe2-af57-94dcd2167174/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 group-title="Movies", Xtrema Cartoons
@@ -203,68 +196,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1,DREAMWORKS
 http://190.60.39.198:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_81000_eng=11.m3u8
-#EXTINF:-1, TNT
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_66000_eng=2.m3u8
-#EXTINF:-1, TNT Series
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_5999616=6-mp4a_69000_spa=25.m3u8
-#EXTINF:-1, Cinecanal
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_79000_eng=25.m3u8
-#EXTINF:-1, Space
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_60000_spa=18.m3u8
-#EXTINF:-1, Universal Tv
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=5-mp4a_68000_eng=41.m3u8
-#EXTINF:-1, aMC
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_5999616=5-mp4a_62000_eng=25.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" , Universal Studio 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_65000_eng=11.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypictures.com/sites/default/files/styles/max_430_width/public/2021-02/sonycine_networks_thumb_374x266.png?itok=FcaWCkCT", Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.negro.png.9357e75312ad5675ba03c504f00cdc03.png", Sonny Channel
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_69000_spa=18.m3u8
-#EXTINF:-1, AXN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_66000_eng=2.m3u8
-#EXTINF:-1, FX
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_66000_spa=25.m3u8
-#EXTINF:-1, Warner TV
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_59000_spa=22.m3u8
-#EXTINF:-1, Animal Planet
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_64000_spa=16.m3u8
-#EXTINF:-1, History
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_67000_spa=14.m3u8
-#EXTINF:-1, Discovery H&H
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
-#EXTINF:-1, Discovery
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_74000_eng=32.m3u8
-#EXTINF:-1, Discovery Turbo
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_62000_eng=18.m3u8
-#EXTINF:-1, Discovery HGTV
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_76000_spa=19.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9TbtvnD/Dwlogo.png" ,DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29FmZW3.png", NBC Universo
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/1939.m3u8
-#EXTINF:-1, MTV
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_68000_eng=21.m3u8
-#EXTINF:-1, Cartoon Network
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
-#EXTINF:-1, Disney Channel
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_5999616=8-mp4a_69000_spa=15.m3u8
-#EXTINF:-1, Nickelodeon
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999616=8-mp4a_65000_eng=48.m3u8
-#EXTINF:-1, El Gourmet  
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-avc1_5999616=13-mp4a_66000_spa=23.m3u8
-#EXTINF:-1,Love Nature
-http://45.170.243.23:4000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="Nat Geo",Nat Geo
-http://45.173.12.70:8500/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="Nat Geo HD",Nat Geo HD
-http://45.173.12.70:8500/play/a02p/index.m3u8
-#EXTINF:-1,E Entertainment
-http://45.173.12.70:8500/play/a014/index.m3u8
-#EXTINF:-1,Cinemax
-http://45.173.12.70:8500/play/a01w/index.m3u8
+
 
 #EXTINF:-1, Beautiful Planet
 https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -319,9 +251,6 @@ Run Time Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 
 
-#EXTINF:-1, Discovery ID
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_5999616=6-mp4a_66000_spa=8.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",The Weather Channel Español
 https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
@@ -339,9 +268,6 @@ https://linear-252.frequency.stream/252/hls/master/playlist.m3u8
 https://linear-246.frequency.stream/246/hls/master/playlist.m3u8
 #EXTINF:-1, VIX USA
 https://linear-11.frequency.stream/dist/vix/11/hls/master/playlist.m3u8
-#EXTINF:-1, Flow
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
-
 
 
 
@@ -358,64 +284,7 @@ https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://45.184.111.156:8000/play/a0bh/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://45.184.111.156:8000/play/a0cn/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://45.184.111.156:8000/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://45.184.111.156:8000/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 3   
-http://45.184.111.156:8000/play/a0dv/index.m3u8
 
- 
-
-
- 
-
-  
-#EXTINF:-1, 23 ABC
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?IMDSFULL
-#EXTINF:-1, ABC 2 Atlanta GA
-https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
-#EXTINF:-1, ABC 2 Baton Rouge LA
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1, ABC 4 Seattle WA
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1, ABC 7 Denver CO
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1, ABC 7 Washington DC
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1, ABC 9 Orlando FL
-https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:-1, ABC 13 Las Vegas NV
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1, ABC 15 Phoenix AZ
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
- 
- 
-
-
- 
-#EXTINF:-1 ,Cinemax
-https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8 
-#EXTINF:-1 ,HBO
-https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1 ,HBO 2
-https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-1 ,HBO +
-https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF:-1 ,HBO Extreme
-https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF:-1 ,HBO Family
-https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF:-1 ,HBO Mundi
-https://delivery.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
-#EXTINF:-1 ,Cinemax
-https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-#EXTINF:-1 ,HBO Pop
-https://delivery.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8 
  
 #EXTINF:-1,MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
@@ -430,20 +299,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 
-#EXTINF:-1, Sony
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_69000_spa=3.m3u8
-#EXTINF:-1, STAR+
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_81000_eng=38.m3u8
-#EXTINF:-1, Universal Studio 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_64000_eng=29.m3u8
-#EXTINF:-1, FX
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_66000_eng=22.m3u8
-#EXTINF:-1, AXN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_75000_eng=16.m3u8
-#EXTINF:-1, Cinecanal
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_79000_eng=46.m3u8
-#EXTINF:-1, TNT
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_66000_eng=5.m3u8
 
 
 #EXTINF:-1 tvg-id="" status="timeout",AstroNet (360p)
@@ -593,20 +448,14 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 http://45.189.117.202:48000/play/a00d/index.m3u8
 #EXTINF:-1,10016 FreeTV Music
 http://45.189.117.202:48000/play/a00i/index.m3u8
-#EXTINF:-1,10047 HBO
-http://45.189.117.202:48000/play/a01g/index.m3u8
-#EXTINF:-1,10048 HBO 2
-http://45.189.117.202:48000/play/a01h/index.m3u8
+
 #EXTINF:-1,Upload Cine Familiar HD
 http://45.189.117.202:48000/play/a02m/index.m3u8
 #EXTINF:-1,Upload Cine Hispano HD
 http://45.189.117.202:48000/play/a02n/index.m3u8
 #EXTINF:-1,Upload Cine Premiun HD
 http://45.189.117.202:48000/play/a02o/index.m3u8
-#EXTINF:-1,DISCOVERY THEATER
-http://201.219.246.114:7000/play/a033/index.m3u8
-#EXTINF:-1,DISCOVERY WORD
-http://201.219.246.114:7000/play/a034/index.m3u8
+
 #EXTINF:-1,Discovery Channel
 http://201.219.246.114:7000/play/a01a/index.m3u8
 #EXTINF:-1,AE Mundo
@@ -708,8 +557,6 @@ http://201.219.246.114:7000/play/a01c/index.m3u8
 http://200.123.15.181:6011/play/a011/index.m3u8
 #EXTINF:-1,AMC HD
 http://200.123.15.181:6011/play/a02s/index.m3u8
-#EXTINF:-1,ATV
-http://200.123.15.181:6011/play/a01i/index.m3u8
 #EXTINF:-1,AXN
 http://200.123.15.181:6011/play/a01q/index.m3u8
 #EXTINF:-1,AZ Cinema HD
@@ -718,8 +565,6 @@ http://200.123.15.181:6011/play/a034/index.m3u8
 http://200.123.15.181:6011/play/a00u/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://200.123.15.181:6011/play/a036/index.m3u8
-#EXTINF:-1,BabyFirst
-http://200.123.15.181:6011/play/a02h/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://200.123.15.181:6011/play/a02c/index.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -796,16 +641,10 @@ http://200.123.15.181:6011/play/a02p/index.m3u8
 http://200.123.15.181:6011/play/a01w/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://200.123.15.181:6011/play/a021/index.m3u8
-#EXTINF:-1,Panamericana TV
-http://200.123.15.181:6011/play/a01h/index.m3u8
 #EXTINF:-1,Paramount HD
 http://200.123.15.181:6011/play/a031/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://200.123.15.181:6011/play/a019/index.m3u8
 #EXTINF:-1,STAR CHANNEL
 http://200.123.15.181:6011/play/a02a/index.m3u8
-#EXTINF:-1,Sin Limites
-http://200.123.15.181:6011/play/a01l/index.m3u8
 #EXTINF:-1,Sony
 http://200.123.15.181:6011/play/a01p/index.m3u8
 #EXTINF:-1,Space
@@ -836,3 +675,12 @@ http://200.123.15.181:6011/play/a00q/index.m3u8
 http://200.123.15.181:6011/play/a00o/index.m3u8
 #EXTINF:-1,Warner
 http://200.123.15.181:6011/play/a00v/index.m3u8
+
+#EXTINF:-1,10047 HBO
+http://45.189.117.202:48000/play/a01g/index.m3u8
+#EXTINF:-1,10048 HBO 2
+http://45.189.117.202:48000/play/a01h/index.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://201.219.246.114:7000/play/a033/index.m3u8
+#EXTINF:-1,DISCOVERY WORD
+http://201.219.246.114:7000/play/a034/index.m3u8
