@@ -42,6 +42,8 @@ https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 #EXTINF:-1,ESPN 1 HD
 http://45.189.117.202:48000/play/a00r/index.m3u8
+#EXTINF:-1,ESPN
+http://200.123.15.181:6011/play/a00y/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://45.189.117.202:48000/play/a00l/index.m3u8
 #EXTINF:-1,ESPN3 HD
