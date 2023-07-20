@@ -180,6 +180,24 @@ http://50.7.137.106:8080/AXN/index.m3u8?token=test
 #EXTINF:-1,NAT_GEO_WILD HD
 http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
 
+#EXTM3U
+#EXTINF:-1,BAND SPORTS
+http://187.95.95.243/Band-Sports/index.m3u8
+#EXTINF:-1,PARAMOUNT
+http://187.95.95.243/paramount/index.m3u8
+#EXTINF:-1,STAR
+http://187.95.95.243/Star/index.m3u8
+#EXTINF:-1,AE
+http://187.95.95.243/AE/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://187.95.95.243/Nickelodeon/index.m3u8
+##EXTINF:-1,MTV
+http://187.95.95.243/mtv/mono.m3u8
+#EXTINF:-1,HISTORY
+http://187.95.95.243/History/index.m3u8
+
+
+
 #EXTINF:-1, ROCK Action HD
 http://210.210.155.37/session/bd39b29e-a763-11ec-83ca-b82a72d63267/dr9445/h/h15/01.m3u8
 #EXTINF:-1, ROCK Action SD
