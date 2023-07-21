@@ -59,14 +59,34 @@ https://musicsrc.cvattv.com.ar/RM41
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 
+#EXTINF:-1,ESPN 2 HD
+http://45.172.16.186:4000/play/a062/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://45.172.16.186:4000/play/a060/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://45.172.16.186:4000/play/a06i/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.172.16.186:4000/play/a04q/index.m3u8
+#EXTINF:-1,ESPN
+http://45.177.53.7:8000/play/a0cs/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.177.53.7:8000/play/a0cq/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.177.53.7:8000/play/a0ch/index.m3u8
+#EXTINF:-1,ESPN 4
+http://45.177.53.7:8000/play/a0cx/index.m3u8
 #EXTINF:-1,ESPN 1 HD
 http://45.189.117.202:48000/play/a00r/index.m3u8
 #EXTINF:-1,ESPN
 http://200.123.15.181:6011/play/a00y/index.m3u8
+#EXTINF:-1,ESPN
+http://45.189.117.202:48000/play/a02w/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://45.189.117.202:48000/play/a00l/index.m3u8
 #EXTINF:-1,ESPN3 HD
 http://45.189.117.202:48000/play/a01a/index.m3u8
+#EXTINF:-1, ESPN3
+http://201.219.246.114:7000/play/a02q/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-1,ESPN 4
@@ -75,6 +95,8 @@ http://201.219.246.114:7000/play/a022/index.m3u8
 
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1,TyC Sports HD
+http://45.172.16.186:4000/play/a076/index.m3u8
 #EXTINF:-1, EUROSPORT 1
 http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1,DIRECTV SPORT 1 HD
@@ -652,7 +674,10 @@ http://181.78.105.146:2000/play/a01l/index.m3u8
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1,320 History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
-
+#EXTINF:-1, CINE FAMILIAR
+http://45.189.117.202:48000/play/a02l/index.m3u8
+#EXTINF:-1, CINE PREMIUM
+http://45.189.117.202:48000/play/a02m/index.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 1
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 2
@@ -661,8 +686,40 @@ http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 http://45.189.117.202:48000/play/a01g/index.m3u8
 #EXTINF:-1,10048 HBO 2
 http://45.189.117.202:48000/play/a01h/index.m3u8
+#EXTINF:-1, HBO Family
+http://201.219.246.114:7000/play/a00z/index.m3u8
 #EXTINF:-1, HBO
 http://201.219.246.114:7000/play/a02c/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://45.172.16.186:4000/play/a06q/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://45.172.16.186:4000/play/a051/index.m3u8
+#EXTINF:-1,HBO HD
+http://45.172.16.186:4000/play/a06j/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://45.172.16.186:4000/play/a05l/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://45.172.16.186:4000/play/a052/index.m3u8
+#EXTINF:-1, Star +
+http://201.219.246.114:7000/play/a00b/index.m3u8
+#EXTINF:-1, CINEMAX
+http://45.189.117.202:48000/play/a02a/index.m3u8
+#EXTINF:-1, Disney Jr
+http://45.189.117.202:48000/play/a02j/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://201.219.246.114:7000/play/a00d/index.m3u8
+#EXTINF:-1, History
+http://45.177.53.7:8000/play/a0d7/index.m3u8
+#EXTINF:-1,History Channel HD 4000
+http://45.172.16.186:4000/play/a05d/index.m3u8
+#EXTINF:-1, HISTORY2
+http://45.189.117.202:48000/play/a02k/index.m3u8
+#EXTINF:-1, AXN
+http://201.219.246.114:7000/play/a02f/index.m3u8
+#EXTINF:-1, Space
+http://201.219.246.114:7000/play/a02g/index.m3u8
+#EXTINF:-1, FX
+http://201.219.246.114:7000/play/a02h/index.m3u8
 #EXTINF:-1, SyFy
 http://201.219.246.114:7000/play/a03z/index.m3u8
 #EXTINF:-1, E!
@@ -671,8 +728,32 @@ http://201.219.246.114:7000/play/a01d/index.m3u8
 http://201.219.246.114:7000/play/a035/index.m3u8
 #EXTINF:-1, DHE
 http://201.219.246.114:7000/play/a036/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://45.172.16.186:4000/play/a04h/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://45.172.16.186:4000/play/a05g/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.172.16.186:4000/play/a05z/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://45.172.16.186:4000/play/a04o/index.m3u8
 #EXTINF:-1, TRUtv
 http://201.219.246.114:7000/play/a03a/index.m3u8
+#EXTINF:-1,Paramount HD
+http://45.172.16.186:4000/play/a06m/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://45.172.16.186:4000/play/a081/index.m3u8
+#EXTINF:-1,Sony HD
+http://45.172.16.186:4000/play/a05f/index.m3u8
+#EXTINF:-1,Space HD
+http://45.172.16.186:4000/play/a05i/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://45.172.16.186:4000/play/a072/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://45.172.16.186:4000/play/a06n/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://45.172.16.186:4000/play/a06g/index.m3u8
+#EXTINF:-1, H&H HD 
+http://45.172.16.186:4000/play/a04d/index.m3u8
 #EXTINF:-1,DISCOVERY THEATER
 http://201.219.246.114:7000/play/a033/index.m3u8
 #EXTINF:-1,DISCOVERY WORD
