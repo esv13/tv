@@ -38,6 +38,8 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ALF
+https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
  
 #EXTINF:-1, Grandes del Rock
 https://musicsrc.cvattv.com.ar/RM18
@@ -752,6 +754,8 @@ http://45.172.16.186:4000/play/a072/index.m3u8
 http://45.172.16.186:4000/play/a06n/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://45.172.16.186:4000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1, H&H HD 
 http://45.172.16.186:4000/play/a04d/index.m3u8
 #EXTINF:-1,DISCOVERY THEATER
