@@ -71,15 +71,7 @@ http://45.189.117.202:48000/play/a01a/index.m3u8
 http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-1,ESPN 4
 http://201.219.246.114:7000/play/a022/index.m3u8
-http://187.189.125.28:8000/play/a055/index.m3u8
-#EXTINF:-1,ESPN EXTRA
-http://187.189.125.28:8000/play/a04d/index.m3u8
-#EXTINF:-1,ESPN2
-http://187.189.125.28:8000/play/a05x/index.m3u8
-#EXTINF:-1,ESPN3
-http://187.189.125.28:8000/play/a059/index.m3u8
-#EXTINF:-1,NBA INGLES
-http://187.189.125.28:8000/play/a05b/index.m3u8
+
 
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
@@ -660,25 +652,11 @@ http://181.78.105.146:2000/play/a01l/index.m3u8
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1,320 History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1,HISTORY
-http://187.189.125.28:8000/play/a02f/index.m3u8
-#EXTINF:-1,HISTORY 2
-http://187.189.125.28:8000/play/a016/index.m3u8
-#EXTINF:-1,FILM & ARTS
-http://187.189.125.28:8000/play/a01a/index.m3u8
-#EXTINF:-1,ARTS
-http://187.189.125.28:8000/play/a07q/index.m3u8
-#EXTINF:-1,E!
-http://187.189.125.28:8000/play/a055/index.m3u8
-#EXTINF:-1,CMAX
-http://187.189.125.28:8000/play/a05z/index.m3u8
-#EXTINF:-1,MTV
-http://187.189.125.28:8000/play/a02a/index.m3u8
-#EXTINF:-1,MTV 00S
-http://187.189.125.28:8000/play/a07k/index.m3u8
-#EXTINF:-1,MTV HITS
-http://187.189.125.28:8000/play/a07i/index.m3u8
 
+#EXTINF:-1,BEIN BOX OFFICE 1
+http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
+#EXTINF:-1,BEIN BOX OFFICE 2
+http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 #EXTINF:-1,10047 HBO
 http://45.189.117.202:48000/play/a01g/index.m3u8
 #EXTINF:-1,10048 HBO 2
