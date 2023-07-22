@@ -61,20 +61,7 @@ https://musicsrc.cvattv.com.ar/RM41
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 
-#EXTINF:-1,ESPN 2 HD
-http://45.172.16.186:4000/play/a062/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.172.16.186:4000/play/a060/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://45.172.16.186:4000/play/a06i/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.172.16.186:4000/play/a04q/index.m3u8
-#EXTINF:-1,ESPN
-http://45.177.53.7:8000/play/a0cs/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.177.53.7:8000/play/a0cq/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.177.53.7:8000/play/a0ch/index.m3u8
+
 #EXTINF:-1,ESPN 4
 http://45.177.53.7:8000/play/a0cx/index.m3u8
 #EXTINF:-1,ESPN 1 HD
@@ -708,22 +695,9 @@ http://45.189.117.202:48000/play/a01h/index.m3u8
 http://201.219.246.114:7000/play/a00z/index.m3u8
 #EXTINF:-1, HBO
 http://201.219.246.114:7000/play/a02c/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://45.172.16.186:4000/play/a06q/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://45.172.16.186:4000/play/a051/index.m3u8
-#EXTINF:-1,HBO HD
-http://45.172.16.186:4000/play/a06j/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://45.172.16.186:4000/play/a05l/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://45.172.16.186:4000/play/a052/index.m3u8
+
 #EXTINF:-1, Star +
 http://201.219.246.114:7000/play/a00b/index.m3u8
-#EXTINF:-1, CINEMAX
-http://45.189.117.202:48000/play/a02a/index.m3u8
-#EXTINF:-1, Disney Jr
-http://45.189.117.202:48000/play/a02j/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://201.219.246.114:7000/play/a00d/index.m3u8
 #EXTINF:-1, History
@@ -746,34 +720,13 @@ http://201.219.246.114:7000/play/a01d/index.m3u8
 http://201.219.246.114:7000/play/a035/index.m3u8
 #EXTINF:-1, DHE
 http://201.219.246.114:7000/play/a036/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://45.172.16.186:4000/play/a04h/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://45.172.16.186:4000/play/a05g/index.m3u8
-#EXTINF:-1,TNT HD
-http://45.172.16.186:4000/play/a05z/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://45.172.16.186:4000/play/a04o/index.m3u8
+
 #EXTINF:-1, TRUtv
 http://201.219.246.114:7000/play/a03a/index.m3u8
-#EXTINF:-1,Paramount HD
-http://45.172.16.186:4000/play/a06m/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://45.172.16.186:4000/play/a081/index.m3u8
-#EXTINF:-1,Sony HD
-http://45.172.16.186:4000/play/a05f/index.m3u8
-#EXTINF:-1,Space HD
-http://45.172.16.186:4000/play/a05i/index.m3u8
-#EXTINF:-1,Stingray Concerts HD
-http://45.172.16.186:4000/play/a072/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://45.172.16.186:4000/play/a06n/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://45.172.16.186:4000/play/a06g/index.m3u8
+
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1, H&H HD 
-http://45.172.16.186:4000/play/a04d/index.m3u8
+
 #EXTINF:-1,DISCOVERY THEATER
 http://201.219.246.114:7000/play/a033/index.m3u8
 #EXTINF:-1,DISCOVERY WORD
