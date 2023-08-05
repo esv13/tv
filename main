@@ -24,6 +24,8 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?Playli
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1, TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" country="AR", CANAL 13  Sin Publicidad
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 
