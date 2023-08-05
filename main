@@ -756,3 +756,5 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_He
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_499712=5-mp4a_64000_spa=47.m3u8
 #EXTINF:-1,TNT Sports
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_499712=22-mp4a_66000_spa=21.m3u8
+#EXTINF:-1, DeporTV
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_69000=22-avc1_2499584=19.m3u8
