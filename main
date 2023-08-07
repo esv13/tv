@@ -18,6 +18,13 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1,AFV en Español (720p) [Not 24/7]
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
+
+
+#EXTINF:-1, HBO Family
+http://201.219.246.114:7000/play/a00z/index.m3u8
+#EXTINF:-1, HBO
+http://201.219.246.114:7000/play/a02c/index.m3u8
+
 #EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p)
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAnimal.ar",Xtrema Animal (360p)
@@ -71,20 +78,24 @@ https://musicsrc.cvattv.com.ar/RM41
 #EXTINF:-1 tvg-id="PlanetaTVMusic.cl",PlanetaTV Music (720p)
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
-
-
+#EXTINF:-1,ESPN 
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1,ESPN 
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_69000_eng=36.m3u8
 #EXTINF:-1,ESPN 2
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_72000_eng=46.m3u8
 #EXTINF:-1,ESPN 3
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_79000_spa=28.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-1,ESPN Premium
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_499712=5-mp4a_64000_spa=47.m3u8
 #EXTINF:-1,TNT Sports
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_499712=22-mp4a_66000_spa=21.m3u8
 #EXTINF:-1, FOX Sports 2
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_65000_spa=13.m3u8
+#EXTINF:-1, TyC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1, DeporTV
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_69000=22-avc1_5999616=20.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
@@ -111,6 +122,18 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_599961
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_62000_spa=4.m3u8
 #EXTINF:-1, Warner TV
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=14.m3u8
+#EXTINF:-1, TRUtv
+http://201.219.246.114:7000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1, SyFy
+http://201.219.246.114:7000/play/a03z/index.m3u8
+#EXTINF:-1, E!
+http://201.219.246.114:7000/play/a01d/index.m3u8
+#EXTINF:-1, aMC
+http://201.219.246.114:7000/play/a035/index.m3u8
+#EXTINF:-1, DHE
+http://201.219.246.114:7000/play/a036/index.m3u8
 #EXTINF:-1, Animal Planet
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_67000_spa=22.m3u8
 #EXTINF:-1, History
@@ -129,6 +152,10 @@ http://201.219.246.114:7000/play/a033/index.m3u8
 http://201.219.246.114:7000/play/a034/index.m3u8
 #EXTINF:-1, TV Pública
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_5999616=18.m3u8
+#EXTINF:-1, TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="1357" tvg-name="El Nueve" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png", El Nueve | AR
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1, El Gourmet 
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
 #EXTINF:-1, Cartoon Network
@@ -140,55 +167,6 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disn
 #EXTINF:-1, Discovery Kids
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_5999616=6-mp4a_69000_spa=20.m3u8
 
-#EXTINF:-1 tvg-id="1357" tvg-name="El Nueve" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png", El Nueve | AR
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1, TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" country="AR", CANAL 13  Sin Publicidad
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-
-
-
-
-#EXTINF:-1,ESPN
-http://181.78.22.27:8098/play/a01d/index.m3u8
-#EXTINF:-1,ESPN 2
-http://181.78.22.27:8098/play/a011/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://181.78.22.27:8098/play/a01c/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.78.22.27:8098/play/a03p/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.78.22.27:8098/play/a02a/index.m3u8
-#EXTINF:-1,ESPN CO
-http://181.78.22.27:8098/play/a02u/index.m3u8
-#EXTINF:-1,ESPN 1 HD
-http://45.189.117.202:48000/play/a00r/index.m3u8
-#EXTINF:-1,ESPN
-http://200.123.15.181:6011/play/a00y/index.m3u8
-#EXTINF:-1,ESPN
-http://45.189.117.202:48000/play/a02w/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.189.117.202:48000/play/a00l/index.m3u8
-#EXTINF:-1,ESPN3 HD
-http://45.189.117.202:48000/play/a01a/index.m3u8
-#EXTINF:-1, ESPN3
-http://201.219.246.114:7000/play/a02q/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.189.117.202:48000/play/a00j/index.m3u8
-#EXTINF:-1,ESPN +
-http://38.7.131.2:8000/play/a071/index.m3u8
-
-#EXTINF:-1, TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1,TyC Sports HD
-http://45.172.16.186:4000/play/a076/index.m3u8
-#EXTINF:-1, DeporTV
-https://ythls.onrender.com/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
 
 #EXTINF:-1, EUROSPORT 1
 http://54.39.17.6/eurosport/mono.m3u8
@@ -239,6 +217,53 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+
+#EXTINF:0 type="stream" channelId="-1" group="NACIONALES" logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png" country="AR", CANAL 13  Sin Publicidad
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1,ESPN
+http://181.78.22.27:8098/play/a01d/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.78.22.27:8098/play/a011/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://181.78.22.27:8098/play/a01c/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.78.22.27:8098/play/a03p/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.78.22.27:8098/play/a02a/index.m3u8
+#EXTINF:-1,ESPN CO
+http://181.78.22.27:8098/play/a02u/index.m3u8
+#EXTINF:-1,ESPN 1 HD
+http://45.189.117.202:48000/play/a00r/index.m3u8
+#EXTINF:-1,ESPN
+http://200.123.15.181:6011/play/a00y/index.m3u8
+#EXTINF:-1,ESPN
+http://45.189.117.202:48000/play/a02w/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.189.117.202:48000/play/a00l/index.m3u8
+#EXTINF:-1,ESPN3 HD
+http://45.189.117.202:48000/play/a01a/index.m3u8
+#EXTINF:-1, ESPN3
+http://201.219.246.114:7000/play/a02q/index.m3u8
+
+#EXTINF:-1,ESPN +
+http://38.7.131.2:8000/play/a071/index.m3u8
+
+
+#EXTINF:-1,TyC Sports HD
+http://45.172.16.186:4000/play/a076/index.m3u8
+#EXTINF:-1, DeporTV
+https://ythls.onrender.com/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
 #EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
@@ -259,34 +284,6 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.usa.us.m
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 
-#EXTINF:-1,HBO
-http://201.219.246.114:7000/play/a02c/index.m3u8
-#EXTINF:-1,HBO 2
-http://201.219.246.114:7000/play/a00w/index.m3u8
-#EXTINF:-1,HBO Family
-http://201.219.246.114:7000/play/a00z/index.m3u8
-#EXTINF:-1,HBO POP
-http://201.219.246.114:7000/play/a03e/index.m3u8
-#EXTINF:-1,HBO Plus
-http://201.219.246.114:7000/play/a00x/index.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://201.219.246.114:7000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="HBO",HBO
-http://45.173.12.70:8500/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2",HBO 2
-http://45.173.12.70:8500/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2 HD",HBO 2 HD
-http://45.173.12.70:8500/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://45.173.12.70:8500/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD",HBO Family HD
-http://45.173.12.70:8500/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="HBO HD",HBO HD
-http://45.173.12.70:8500/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="HBO Plus",HBO Plus
-http://45.173.12.70:8500/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="HBO XTREME SD",HBO XTREME SD
-http://45.173.12.70:8500/play/a00v/index.m3u8
 
 #EXTINF:-1,MTV
 http://50.7.137.106:8080/MTV/index.m3u8?token=test
@@ -781,10 +778,6 @@ http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 http://45.189.117.202:48000/play/a01g/index.m3u8
 #EXTINF:-1,10048 HBO 2
 http://45.189.117.202:48000/play/a01h/index.m3u8
-#EXTINF:-1, HBO Family
-http://201.219.246.114:7000/play/a00z/index.m3u8
-#EXTINF:-1, HBO
-http://201.219.246.114:7000/play/a02c/index.m3u8
 
 #EXTINF:-1, Star +
 http://201.219.246.114:7000/play/a00b/index.m3u8
@@ -811,9 +804,5 @@ http://201.219.246.114:7000/play/a035/index.m3u8
 #EXTINF:-1, DHE
 http://201.219.246.114:7000/play/a036/index.m3u8
 
-#EXTINF:-1, TRUtv
-http://201.219.246.114:7000/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
