@@ -79,19 +79,27 @@ https://musicsrc.cvattv.com.ar/RM41
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 #EXTINF:-1,ESPN 
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-#EXTINF:-1,ESPN 
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_69000_eng=36.m3u8
+#EXTINF:-1,ESPN SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=5-mp4a_69000_eng=36.m3u8
 #EXTINF:-1,ESPN 2
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_72000_eng=46.m3u8
+#EXTINF:-1,ESPN 2 SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=5-mp4a_72000_eng=46.m3u8
 #EXTINF:-1,ESPN 3
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_79000_spa=28.m3u8
+#EXTINF:-1,ESPN 3 SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_2499584=11-mp4a_79000_spa=28.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-1,ESPN Premium
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_499712=5-mp4a_64000_spa=47.m3u8
+#EXTINF:-1,ESPN Premium SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_2499584=50-mp4a_64000_spa=47.m3u8
 #EXTINF:-1,TNT Sports
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_499712=22-mp4a_66000_spa=21.m3u8
+#EXTINF:-1,TNT Sports SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_2499584=18-mp4a_66000_spa=21.m3u8
 #EXTINF:-1, FOX Sports 2
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_65000_spa=13.m3u8
 #EXTINF:-1, TyC SPORTS
@@ -99,15 +107,25 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1, DeporTV
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_69000=22-avc1_5999616=20.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_69000_eng=3.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_63000_spa=13.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_2499584=7-mp4a_63000_spa=13.m3u8
 #EXTINF:-1, TNT
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_61000_spa=13.m3u8
+#EXTINF:-1, TNT SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_2499584=17-mp4a_64000_spa=2.m3u8
 #EXTINF:-1, TNT Series
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_2499584=6-mp4a_69000_spa=25.m3u8
+#EXTINF:-1, TNT Series SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_2499584=5-mp4a_69000_spa=25.m3u8
 #EXTINF:-1, Cinecanal
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_64000_spa=21.m3u8
+#EXTINF:-1, Cinecanal SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_2499584=9-mp4a_64000_spa=21.m3u8
 #EXTINF:-1, Space
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_68000_spa=31.m3u8
+#EXTINF:-1, Space SD
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_2499584=6-mp4a_68000_spa=31.m3u8
 #EXTINF:-1, Universal Tv
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=5-mp4a_68000_eng=23.m3u8
 #EXTINF:-1, aMC
