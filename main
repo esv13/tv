@@ -20,44 +20,6 @@ https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1, HBO Family
-http://201.219.246.114:7000/play/a00z/index.m3u8
-#EXTINF:-1, HBO
-http://201.219.246.114:7000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p)
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar",Xtrema Animal (360p)
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnime.ar",Xtrema Anime (360p)
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAsia.ar",Xtrema Cine Asia (268p)
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar",Xtrema Cartoons (360p)
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaComedy.ar",Xtrema Cine Comedy (344p)
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaDrama.ar",Xtrema Cine Drama (360p)
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaEuropa.ar",Xtrema Cine Europa (360p)
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaFamily.ar",Xtrema Cine Family (274p)
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaHindi.ar",Xtrema Cine Hindi (272p)
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaLatina.ar",Xtrema Cine Latino (360p)
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar",Xtrema Retro Cartoons (360p)
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroSeries.ar",Xtrema Retro Series (360p)
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSeries.ar",Xtrema Series (360p)
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSuspenso.ar",Xtrema Cine Suspenso (360p)
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar",Xtrema Cine Terror (270p)
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
 
 #EXTINF:-1, Grandes del Rock
 https://musicsrc.cvattv.com.ar/RM18
@@ -108,10 +70,69 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_249958
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1, DeporTV
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_69000=22-avc1_5999616=20.m3u8
+
+
+#EXTINF:-1, EUROSPORT 1
+http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1,DIRECTV SPORT 1 HD
+http://45.170.225.210:58001/play/a04g/index.m3u8
+#EXTINF:-1,Sky Sports / Espn+
+http://45.170.225.210:58001/play/a043/index.m3u8
+#EXTINF:-1, ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1, ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:0 tvg-logo="https://es.wikipedia.org/wiki/Radiotelevisi%C3%B3n_Nacional_de_Afganist%C3%A1n#/media/Archivo:RTA_Afghanistan_Logo.svg" group-title="beIN SPORTS.",Bt Sports 1
+https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1,346 NBA
+http://187.251.240.18:1099/play/a06r/index.m3u8
+#EXTINF:-1,347 NFL NETWORK
+http://187.251.240.18:1099/play/a06s/index.m3u8
+#EXTINF:-1,SKY
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
+http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373458328.png", NBC-SPORTS-BOSTON
+http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1614263071499.png", NBC-SPORTS-CALIFORNIA
+http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373647536.png", NBC-SPORTS-CHICAGO 
+http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-WASHINGTON
+http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-PHILADELPHIA
+http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
+#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
+http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+
+#EXTINF:-1, Poker TV
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_63000_spa=13.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel SD
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_2499584=7-mp4a_63000_spa=13.m3u8
+#EXTINF:-1, HBO Family
+http://201.219.246.114:7000/play/a00z/index.m3u8
+#EXTINF:-1, HBO
+http://201.219.246.114:7000/play/a02c/index.m3u8
 #EXTINF:-1, TNT
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_61000_spa=13.m3u8
 #EXTINF:-1, TNT SD
@@ -218,54 +239,39 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disn
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
 
 
-#EXTINF:-1, EUROSPORT 1
-http://54.39.17.6/eurosport/mono.m3u8
-#EXTINF:-1,DIRECTV SPORT 1 HD
-http://45.170.225.210:58001/play/a04g/index.m3u8
-#EXTINF:-1,Sky Sports / Espn+
-http://45.170.225.210:58001/play/a043/index.m3u8
-#EXTINF:-1, ESPN
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1, ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:0 tvg-logo="https://es.wikipedia.org/wiki/Radiotelevisi%C3%B3n_Nacional_de_Afganist%C3%A1n#/media/Archivo:RTA_Afghanistan_Logo.svg" group-title="beIN SPORTS.",Bt Sports 1
-https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1,346 NBA
-http://187.251.240.18:1099/play/a06r/index.m3u8
-#EXTINF:-1,347 NFL NETWORK
-http://187.251.240.18:1099/play/a06s/index.m3u8
-#EXTINF:-1,SKY
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
 
-#EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-BY-AREA 
-http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373458328.png", NBC-SPORTS-BOSTON
-http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1614263071499.png", NBC-SPORTS-CALIFORNIA
-http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373647536.png", NBC-SPORTS-CHICAGO 
-http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-WASHINGTON
-http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1602373726316.png", NBC-SPORTS-PHILADELPHIA
-http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
-#EXTINF: -1 group-title = "SPORT" tvg-logo = "https://innovatv.live/posters/1607317110571.png", ELEVEN-SPORTS 
-http://66.70.176.103:8081/USA%7CCBSPORTSNET/USA%7CCBSPORTSNET/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
-
-#EXTINF:-1, Poker TV
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnimal.ar",Xtrema Animal (360p)
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnime.ar",Xtrema Anime (360p)
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAsia.ar",Xtrema Cine Asia (268p)
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar",Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaDrama.ar",Xtrema Cine Drama (360p)
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaEuropa.ar",Xtrema Cine Europa (360p)
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaHindi.ar",Xtrema Cine Hindi (272p)
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaLatina.ar",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSeries.ar",Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar",Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar",Xtrema Cine Terror (270p)
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
 
 
