@@ -133,6 +133,14 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_C
 http://201.219.246.114:7000/play/a00z/index.m3u8
 #EXTINF:-1, HBO
 http://201.219.246.114:7000/play/a02c/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://23.237.104.26:8080/HBO_SIGNATURE/manifest.m3u8
+#EXTINF:-1,HBO COMEDY
+http://23.237.104.26:8080/HBO_COMEDY/manifest.m3u8
+#EXTINF:-1,LIFETIME MOVIE NETWORK
+http://23.237.104.26:8080/LMN/manifest.m3u8
+#EXTINF:-1,HALLMARK MOVIES AND MYSTERIES
+http://23.237.104.26:8080/HALLMARK_MOVIES_AND_MYSTERIES/playlist.m3u8
 #EXTINF:-1, TNT
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_61000_spa=13.m3u8
 #EXTINF:-1, TNT SD
