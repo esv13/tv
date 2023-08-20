@@ -41,13 +41,13 @@ https://musicsrc.cvattv.com.ar/RM41
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 #EXTINF:-1,ESPN 
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_69000_eng=36.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_69000_spa=36.m3u8
 #EXTINF:-1,ESPN SD
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=5-mp4a_69000_eng=36.m3u8
 #EXTINF:-1,ESPN 2
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_72000_eng=46.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_72000_spa=45.m3u8
 #EXTINF:-1,ESPN 2 SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=5-mp4a_72000_eng=46.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=5-mp4a_72000_spa=45.m3u8
 #EXTINF:-1,ESPN 3
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_79000_spa=28.m3u8
 #EXTINF:-1,ESPN 3 SD
