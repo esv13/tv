@@ -94,14 +94,8 @@ http://45.170.225.210:58001/play/a04g/index.m3u8
 http://45.170.225.210:58001/play/a043/index.m3u8
 #EXTINF:-1, ESPN
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1, ESPN
-http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:0 tvg-logo="https://es.wikipedia.org/wiki/Radiotelevisi%C3%B3n_Nacional_de_Afganist%C3%A1n#/media/Archivo:RTA_Afghanistan_Logo.svg" group-title="beIN SPORTS.",Bt Sports 1
 https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1,346 NBA
-http://187.251.240.18:1099/play/a06r/index.m3u8
-#EXTINF:-1,347 NFL NETWORK
-http://187.251.240.18:1099/play/a06s/index.m3u8
 #EXTINF:-1,SKY
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
