@@ -41,7 +41,9 @@ https://musicsrc.cvattv.com.ar/RM41
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 #EXTINF:-1,ESPN 
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_69000_spa=36.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_65000_eng=14.m3u8
+#EXTINF:-1,ESPN 
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_67000_spa=32.m3u8
 #EXTINF:-1,ESPN SD
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=5-mp4a_69000_eng=36.m3u8
 #EXTINF:-1,ESPN 2
@@ -210,17 +212,17 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Anima
 #EXTINF:-1, Animal Planet SD
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_2499584=7-mp4a_69000_spa=13.m3u8
 #EXTINF:-1, History
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=8-mp4a_69000_spa=18.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
 #EXTINF:-1, History SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_69000_spa=18.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_59000_spa=11.m3u8
 #EXTINF:-1, Discovery
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_66000_spa=12.m3u8
 #EXTINF:-1, Discovery SD
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_66000_spa=12.m3u8
 #EXTINF:-1,Discovery H&H
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_499712=6-mp4a_56000_spa=17.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
 #EXTINF:-1,Discovery H&H SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_56000_spa=17.m3u8
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_63000_spa=3.m3u8
 #EXTINF:-1, Discovery Turbo
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_63000_eng=8.m3u8
 #EXTINF:-1, Discovery Turbo SD
