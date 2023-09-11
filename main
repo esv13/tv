@@ -823,8 +823,6 @@ http://201.219.246.114:7000/play/a00b/index.m3u8
 http://201.219.246.114:7000/play/a00d/index.m3u8
 #EXTINF:-1, History
 http://45.177.53.7:8000/play/a0d7/index.m3u8
-#EXTINF:-1,History Channel HD 4000
-http://45.172.16.186:4000/play/a05d/index.m3u8
 #EXTINF:-1, HISTORY2
 http://45.189.117.202:48000/play/a02k/index.m3u8
 #EXTINF:-1, AXN
