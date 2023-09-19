@@ -134,71 +134,60 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_599961
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_61000_spa=19.m3u8
 #EXTINF:-1, FX
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_69000_spa=45.m3u8
-
 #EXTINF:-1, Warner TV
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=14.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=19.m3u8
 #EXTINF:-1, Warner TV
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_2499584=6-mp4a_67000_spa=30.m3u8
-#EXTINF:-1, TRUtv
-http://201.219.246.114:7000/play/a03a/index.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_62000_spa=19.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1, SyFy
-http://201.219.246.114:7000/play/a03z/index.m3u8
 #EXTINF:-1, E!
 http://201.219.246.114:7000/play/a01d/index.m3u8
-#EXTINF:-1, aMC
-http://201.219.246.114:7000/play/a035/index.m3u8
 #EXTINF:-1, DHE
 http://201.219.246.114:7000/play/a036/index.m3u8
 #EXTINF:-1, Animal Planet
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_67000_spa=22.m3u8
-#EXTINF:-1, Animal Planet SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_2499584=7-mp4a_69000_spa=13.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_67000_spa=22.m3u8
 #EXTINF:-1, History
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
 #EXTINF:-1, History SD
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_59000_spa=11.m3u8
 #EXTINF:-1, Discovery
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_66000_spa=12.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_66000_spa=12.m3u8
 #EXTINF:-1, Discovery SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_66000_spa=12.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_66000_spa=12.m3u8
 #EXTINF:-1,Discovery H&H
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
 #EXTINF:-1,Discovery H&H SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_63000_spa=3.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_63000_spa=3.m3u8
 #EXTINF:-1, Discovery Turbo
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_63000_eng=8.m3u8
-#EXTINF:-1, Discovery Turbo SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_2499584=5-mp4a_63000_eng=8.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_63000_eng=8.m3u8
 #EXTINF:-1, Discovery HGTV
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
 #EXTINF:-1, Discovery HGTV SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_2499584=5-mp4a_72000_spa=15.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_2499584=5-mp4a_72000_spa=15.m3u8
 #EXTINF:-1,DISCOVERY THEATER
 http://201.219.246.114:7000/play/a033/index.m3u8
 #EXTINF:-1,DISCOVERY WORD
 http://201.219.246.114:7000/play/a034/index.m3u8
 #EXTINF:-1, TV Pública
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_5999616=18.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_5999616=18.m3u8
 #EXTINF:-1, TV Pública SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_2499584=26.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_2499584=26.m3u8
 #EXTINF:-1, TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="1357" tvg-name="El Nueve" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png", El Nueve | AR
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1, El Gourmet 
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
 #EXTINF:-1, Cartoon Network
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
 #EXTINF:-1, Cartoon Network SD
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
 #EXTINF:-1, Nickelodeon
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_2499584=7-mp4a_69000_spa=4.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999616=8-mp4a_70000_spa=30.m3u8
 #EXTINF:-1, Disney Channel
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_2499584=7-mp4a_63000_spa=4.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_2499584=7-mp4a_63000_spa=4.m3u8
 #EXTINF:-1, Discovery Kids
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
 
 
 
