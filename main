@@ -88,12 +88,20 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 #EXTINF:-1, Poker TV
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
+#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png", FOX Sports
+https://f2play.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1 tvg-id="Fox.Sports.2.Latin.America.(Cono.Sur).(FOXSP2).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png", FOX Sports 2
+https://f2play.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Sur).(FOXSP3).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png", FOX Sports 3
+https://f2play.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_64000_eng=12.m3u8
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
+http://179.1.87.75:8098/play/a00v/index.m3u8
 #EXTINF:-1,HBO SIGNATURE
 http://23.237.104.26:8080/HBO_SIGNATURE/manifest.m3u8
 #EXTINF:-1,HBO COMEDY
@@ -776,16 +784,4 @@ https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="2500" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="MUSICA" , Vevo 2K
 https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV SEPTIEMBRE", Megalodon 2
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV SEPTIEMBRE", Mision Imposible
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV SEPTIEMBRE", Proyecto Extraccion
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV SEPTIEMBRE", Escarabajo Azul
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV SEPTIEMBRE", Doble Discurso
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="NEOX TV SEPTIEMBRE", Agente Stone
-https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
