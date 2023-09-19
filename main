@@ -56,7 +56,8 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1, DeporTV
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_69000=22-avc1_5999616=20.m3u8
-
+#EXTINF:-1, TELEFE Deportes
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 
 #EXTINF:-1, ESPN
 http://143.244.60.30/ESPN/index.m3u8
