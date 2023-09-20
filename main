@@ -57,10 +57,14 @@ https://edzetacl.cloud/stream/tlat/125.m3u8
 https://edzetacl.cloud/stream/tlat/12.m3u8
 #EXTINF:-1, FOX Sports 2
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
+#EXTINF:-1, DAZN F1
+https://edzetacl.cloud/stream/tlat/199.m3u8
 #EXTINF:-1, La Liga 1
 https://edzetacl.cloud/stream/tlat/34.m3u8
 #EXTINF:-1, Afizzionados
 https://edzetacl.cloud/stream/tlat/30.m3u8
+#EXTINF:-1, Movistar Deportes
+https://edzetacl.cloud/stream/tlat/194.m3u8
 #EXTINF:-1,ESPN 
 https://edzetacl.cloud/stream/tlat/27.m3u8
 #EXTINF:-1,ESPN 2
@@ -68,6 +72,8 @@ https://edzetacl.cloud/stream/tlat/28.m3u8
 #EXTINF:-1,ESPN 3
 https://edzetacl.cloud/stream/tlat/29.m3u8
 #EXTINF:-1,ESPN Extra
+https://edzetacl.cloud/stream/tlat/159.m3u8
+#EXTINF:-1,ESPN Extra US
 https://edzetacl.cloud/stream/tlat/16.m3u8
 #EXTINF:-1,ESPN DEPORTES
 https://edzetacl.cloud/stream/tlat/15.m3u8
@@ -83,6 +89,10 @@ https://edzetacl.cloud/stream/tlat/26.m3u8
 https://edzetacl.cloud/stream/tlat/13.m3u8
 #EXTINF:-1, FOX Sports 3
 https://edzetacl.cloud/stream/tlat/14.m3u8
+#EXTINF:-1, FOX Sports Premium
+https://edzetacl.cloud/stream/tlat/157.m3u8
+#EXTINF:-1, FOX Sports 3 Mx
+https://edzetacl.cloud/stream/tlat/182.m3u8
 #EXTINF:-1, DSports
 https://edzetacl.cloud/stream/tlat/20.m3u8
 #EXTINF:-1, DSports 2
@@ -101,6 +111,8 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1,ESPN DEPORTES
+https://edzetacl.cloud/stream/tlat/161.m3u8
 #EXTINF:-1,ESPN
 https://edzetacl.cloud/stream/tlat/17.m3u8
 #EXTINF:-1,ESPN 2
@@ -114,8 +126,14 @@ https://edzetacl.cloud/stream/tlat/9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
 https://edzetacl.cloud/stream/tlat/60.m3u8
+#EXTINF:-1, TUDN - México
+https://edzetacl.cloud/stream/tlat/200.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
+#EXTINF:-1, NFL
+https://edzetacl.cloud/stream/tlat/151.m3u8
+#EXTINF:-1, TIGO Sports
+https://edzetacl.cloud/stream/tlat/178.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
 http://177.53.153.21:8001/play/a00i/index.m3u8
 #EXTINF:-1, ESPN
@@ -274,6 +292,8 @@ https://edzetacl.cloud/stream/tlat/101.m3u8
 https://edzetacl.cloud/stream/tlat/102.m3u8
 #EXTINF:-1, Discovery Science
 https://edzetacl.cloud/stream/tlat/139.m3u8
+#EXTINF:-1, Food
+https://edzetacl.cloud/stream/tlat/187.m3u8
 #EXTINF:-1, E!
 https://edzetacl.cloud/stream/tlat/103.m3u8
 #EXTINF:-1, LifeTime
@@ -286,20 +306,24 @@ https://edzetacl.cloud/stream/tlat/120.m3u8
 https://edzetacl.cloud/stream/tlat/35.m3u8
 #EXTINF:-1, MTV Hits
 https://edzetacl.cloud/stream/tlat/88.m3u8
+#EXTINF:-1, MTV Live
+https://edzetacl.cloud/stream/tlat/211.m3u8
 #EXTINF:-1, H W
 https://edzetacl.cloud/stream/tlat/89.m3u8
+#EXTINF:-1, HBO
+https://edzetacl.cloud/stream/tlat/207.m3u8
+#EXTINF:-1, HBO2
+https://edzetacl.cloud/stream/tlat/208.m3u8
 #EXTINF:-1, Star Channel
 https://edzetacl.cloud/stream/tlat/42.m3u8
-#EXTINF:-1, TNT
-https://edzetacl.cloud/stream/tlat/41.m3u8
 #EXTINF:-1, Warner TV
 https://edzetacl.cloud/stream/tlat/40.m3u8
 #EXTINF:-1, Space
-https://edzetacl.cloud/stream/tlat/39.m3u8
+https://edzetacl.cloud/stream/tlat/216.m3u8
 #EXTINF:-1, CineCanal
 https://edzetacl.cloud/stream/tlat/44.m3u8
 #EXTINF:-1, CineMax
-https://edzetacl.cloud/stream/tlat/43.m3u8
+https://edzetacl.cloud/stream/tlat/215.m3u8
 #EXTINF:-1, A&E
 https://edzetacl.cloud/stream/tlat/99.m3u8
 #EXTINF:-1, iSat
@@ -310,54 +334,82 @@ https://edzetacl.cloud/stream/tlat/91.m3u8
 https://edzetacl.cloud/stream/tlat/70.m3u8
 #EXTINF:-1, Caricaturatube
 https://edzetacl.cloud/stream/tlat/71.m3u8
+#EXTINF:-1, Golden
+https://edzetacl.cloud/stream/tlat/162.m3u8
 #EXTINF:-1, Golden Plus
 https://edzetacl.cloud/stream/tlat/73.m3u8
 #EXTINF:-1, Golden Edge
 https://edzetacl.cloud/stream/tlat/74.m3u8
 #EXTINF:-1, Golden Premier
 https://edzetacl.cloud/stream/tlat/75.m3u8
+#EXTINF:-1, NEXT HD
+https://edzetacl.cloud/stream/tlat/181.m3u8
+#EXTINF:-1, TNT 
+https://edzetacl.cloud/stream/tlat/172.m3u8
 #EXTINF:-1, TNT Series
 https://edzetacl.cloud/stream/tlat/76.m3u8
+#EXTINF:-1, TNT Novelas
+https://edzetacl.cloud/stream/tlat/209.m3u8
 #EXTINF:-1, SONY Channel
 https://edzetacl.cloud/stream/tlat/77.m3u8
 #EXTINF:-1, SONY Cine
 https://edzetacl.cloud/stream/tlat/68.m3u8
 #EXTINF:-1, AXN
-https://edzetacl.cloud/stream/tlat/78.m3u8
+https://edzetacl.cloud/stream/tlat/217.m3u8
+#EXTINF:-1, FX
+https://edzetacl.cloud/stream/tlat/221.m3u8
 #EXTINF:-1, Universal Tv
 https://edzetacl.cloud/stream/tlat/79.m3u8
 #EXTINF:-1, STUDIO Universal
-https://edzetacl.cloud/stream/tlat/80.m3u8
+https://edzetacl.cloud/stream/tlat/218.m3u8
 #EXTINF:-1, MP
 https://edzetacl.cloud/stream/tlat/81.m3u8
 #EXTINF:-1, aMC
 https://edzetacl.cloud/stream/tlat/82.m3u8
+#EXTINF:-1, aMC
+https://edzetacl.cloud/stream/tlat/155.m3u8
 #EXTINF:-1, Paramount
 https://edzetacl.cloud/stream/tlat/83.m3u8
-#EXTINF:-1, ?
+#EXTINF:-1, 5
+https://edzetacl.cloud/stream/tlat/204.m3u8
+#EXTINF:-1, Cine ?
 https://edzetacl.cloud/stream/tlat/38.m3u8
-#EXTINF:-1, ?2
+#EXTINF:-1, Cine ?2
 https://edzetacl.cloud/stream/tlat/37.m3u8
-#EXTINF:-1, ?3
+#EXTINF:-1, Cine ?3
 https://edzetacl.cloud/stream/tlat/138.m3u8
-#EXTINF:-1, ?4
+#EXTINF:-1, Cine ?4
 https://edzetacl.cloud/stream/tlat/141.m3u8
+#EXTINF:-1, Cine ?5
+https://edzetacl.cloud/stream/tlat/196.m3u8
 #EXTINF:-1, SYFY
 https://edzetacl.cloud/stream/tlat/58.m3u8
 #EXTINF:-1, Alf
 https://edzetacl.cloud/stream/tlat/128.m3u8
+#EXTINF:-1, FUTURAMA
+https://edzetacl.cloud/stream/tlat/166.m3u8
+#EXTINF:-1, Dragon Ball
+https://edzetacl.cloud/stream/tlat/191.m3u8
 #EXTINF:-1, Cine Latino
 https://edzetacl.cloud/stream/tlat/84.m3u8
 #EXTINF:-1, TLC
 https://edzetacl.cloud/stream/tlat/100.m3u8
+#EXTINF:-1, TCM
+https://edzetacl.cloud/stream/tlat/152.m3u8
 #EXTINF:-1, DHE
 https://edzetacl.cloud/stream/tlat/107.m3u8
+#EXTINF:-1, DW
+https://edzetacl.cloud/stream/tlat/170.m3u8
+#EXTINF:-1, TV Pública
+https://edzetacl.cloud/stream/tlat/185.m3u8
 #EXTINF:-1, Canal 13
 https://edzetacl.cloud/stream/tlat/46.m3u8
 #EXTINF:-1, TELEFE
 https://edzetacl.cloud/stream/tlat/45.m3u8
 #EXTINF:-1, CNÑ
 https://edzetacl.cloud/stream/tlat/143.m3u8
+#EXTINF:-1, FOX News
+https://edzetacl.cloud/stream/tlat/164.m3u8
 #EXTINF:-1, Clic
 https://edzetacl.cloud/stream/tlat/127.m3u8
 #EXTINF:-1, Nickelodeon
