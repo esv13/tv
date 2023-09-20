@@ -1,3 +1,5 @@
+
+
 #EXTM3U
  
 #EXTINF:-1, Love Nature
@@ -51,6 +53,8 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Pre
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_61000_spa=2.m3u8
 #EXTINF:-1, FOX Sports 2
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
+#EXTINF:-1, FOX Sports 
+https://edzetacl.cloud/stream/tlat/72.m3u8
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="FUTBOL ARG", TyC SPORTS Internacional
@@ -151,6 +155,8 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_59
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_62000_spa=19.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1, SONY Cine
+https://edzetacl.cloud/stream/tlat/68.m3u8
 #EXTINF:-1, E!
 http://201.219.246.114:7000/play/a01d/index.m3u8
 #EXTINF:-1, DHE
@@ -199,6 +205,49 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_599961
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_2499584=7-mp4a_63000_spa=4.m3u8
 #EXTINF:-1, Discovery Kids
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
+
+#EXTINF:-1, Nat Geo Mundo
+https://edzetacl.cloud/stream/tlat/69.m3u8
+#EXTINF:-1, MTV
+https://edzetacl.cloud/stream/tlat/87.m3u8
+#EXTINF:-1, MTV Hits
+https://edzetacl.cloud/stream/tlat/88.m3u8
+#EXTINF:-1, H W
+https://edzetacl.cloud/stream/tlat/89.m3u8
+#EXTINF:-1, iSat
+https://edzetacl.cloud/stream/tlat/86.m3u8
+#EXTINF:-1, Central Comedy
+https://edzetacl.cloud/stream/tlat/91.m3u8
+#EXTINF:-1, FX
+https://edzetacl.cloud/stream/tlat/70.m3u8
+#EXTINF:-1, Caricaturatube
+https://edzetacl.cloud/stream/tlat/71.m3u8
+#EXTINF:-1, Golden Plus
+https://edzetacl.cloud/stream/tlat/73.m3u8
+#EXTINF:-1, Golden Edge
+https://edzetacl.cloud/stream/tlat/74.m3u8
+#EXTINF:-1, Golden Premier
+https://edzetacl.cloud/stream/tlat/75.m3u8
+#EXTINF:-1, TNT Series
+https://edzetacl.cloud/stream/tlat/76.m3u8
+#EXTINF:-1, SONY Channel
+https://edzetacl.cloud/stream/tlat/77.m3u8
+#EXTINF:-1, SONY Cine
+https://edzetacl.cloud/stream/tlat/68.m3u8
+#EXTINF:-1, AXN
+https://edzetacl.cloud/stream/tlat/78.m3u8
+#EXTINF:-1, Universal Tv
+https://edzetacl.cloud/stream/tlat/79.m3u8
+#EXTINF:-1, STUDIO Universal
+https://edzetacl.cloud/stream/tlat/80.m3u8
+#EXTINF:-1, MP
+https://edzetacl.cloud/stream/tlat/81.m3u8
+#EXTINF:-1, aMC
+https://edzetacl.cloud/stream/tlat/82.m3u8
+#EXTINF:-1, Paramount
+https://edzetacl.cloud/stream/tlat/83.m3u8
+#EXTINF:-1, Cine Latino
+https://edzetacl.cloud/stream/tlat/84.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
