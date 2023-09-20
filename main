@@ -66,6 +66,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://edzetacl.cloud/stream/tlat/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
+http://177.53.153.21:8001/play/a00i/index.m3u8
 #EXTINF:-1, ESPN
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1, EUROSPORT 1
@@ -238,6 +240,33 @@ http://187.95.95.243/AE/index.m3u8
 http://187.95.95.243/mtv/mono.m3u8
 #EXTINF:-1,HISTORY
 http://187.95.95.243/History/index.m3u8
+
+
+#EXTINF:-1 tvg-id="hbo-mundi.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Oeste
+http://187.188.232.236:1020/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Premiere Este
+http://38.7.131.2:8000/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-id="576dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Premiere Oeste
+http://38.7.131.2:8000/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Crime Este
+http://38.7.131.2:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Crime Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36355.m3u8
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Cinema Este
+http://190.149.66.90:4000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="1577dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Cinema Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36358.m3u8
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Comedy Este
+http://38.7.131.2:8000/play/a0f2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Comedy Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36354.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Reality Este
+http://38.7.131.2:8000/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Reality Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36357.m3u8
+
+
+
 
 #EXTINF:-1,ESPN
 http://181.78.22.27:8098/play/a01d/index.m3u8
