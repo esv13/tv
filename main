@@ -151,8 +151,6 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_69000_spa=45.m3u8
 #EXTINF:-1, Warner TV
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=19.m3u8
-#EXTINF:-1, Warner TV
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_62000_spa=19.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1, SONY Cine
@@ -197,8 +195,6 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?Playli
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
 #EXTINF:-1, Cartoon Network
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
-#EXTINF:-1, Cartoon Network SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
 #EXTINF:-1, Nickelodeon
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999616=8-mp4a_70000_spa=30.m3u8
 #EXTINF:-1, Disney Channel
@@ -206,14 +202,53 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney
 #EXTINF:-1, Discovery Kids
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
 
+
+#EXTINF:-1, History 
+https://edzetacl.cloud/stream/tlat/49.m3u8
+#EXTINF:-1, History 
+https://edzetacl.cloud/stream/tlat/106.m3u8
+#EXTINF:-1, History 2
+https://edzetacl.cloud/stream/tlat/50.m3u8
+#EXTINF:-1, Nat Geo
+https://edzetacl.cloud/stream/tlat/92.m3u8
 #EXTINF:-1, Nat Geo Mundo
 https://edzetacl.cloud/stream/tlat/69.m3u8
+#EXTINF:-1, Animal Planet
+https://edzetacl.cloud/stream/tlat/94.m3u8
+#EXTINF:-1, Discovery
+https://edzetacl.cloud/stream/tlat/95.m3u8
+#EXTINF:-1, Discovery Turbo
+https://edzetacl.cloud/stream/tlat/96.m3u8
+#EXTINF:-1, Discovery THEATER
+https://edzetacl.cloud/stream/tlat/101.m3u8
+#EXTINF:-1, Discovery WORLD
+https://edzetacl.cloud/stream/tlat/102.m3u8
+#EXTINF:-1, E!
+https://edzetacl.cloud/stream/tlat/103.m3u8
+#EXTINF:-1, LifeTime
+https://edzetacl.cloud/stream/tlat/104.m3u8
 #EXTINF:-1, MTV
 https://edzetacl.cloud/stream/tlat/87.m3u8
+#EXTINF:-1, MTV 00s
+https://edzetacl.cloud/stream/tlat/120.m3u8
 #EXTINF:-1, MTV Hits
 https://edzetacl.cloud/stream/tlat/88.m3u8
 #EXTINF:-1, H W
 https://edzetacl.cloud/stream/tlat/89.m3u8
+#EXTINF:-1, Star Channel
+https://edzetacl.cloud/stream/tlat/42.m3u8
+#EXTINF:-1, TNT
+https://edzetacl.cloud/stream/tlat/41.m3u8
+#EXTINF:-1, Warner TV
+https://edzetacl.cloud/stream/tlat/40.m3u8
+#EXTINF:-1, Space
+https://edzetacl.cloud/stream/tlat/39.m3u8
+#EXTINF:-1, CineCanal
+https://edzetacl.cloud/stream/tlat/44.m3u8
+#EXTINF:-1, CineMax
+https://edzetacl.cloud/stream/tlat/43.m3u8
+#EXTINF:-1, A&E
+https://edzetacl.cloud/stream/tlat/99.m3u8
 #EXTINF:-1, iSat
 https://edzetacl.cloud/stream/tlat/86.m3u8
 #EXTINF:-1, Central Comedy
@@ -246,8 +281,24 @@ https://edzetacl.cloud/stream/tlat/81.m3u8
 https://edzetacl.cloud/stream/tlat/82.m3u8
 #EXTINF:-1, Paramount
 https://edzetacl.cloud/stream/tlat/83.m3u8
+#EXTINF:-1, SYFY
+https://edzetacl.cloud/stream/tlat/58.m3u8
 #EXTINF:-1, Cine Latino
 https://edzetacl.cloud/stream/tlat/84.m3u8
+#EXTINF:-1, TLC
+https://edzetacl.cloud/stream/tlat/100.m3u8
+#EXTINF:-1, DHE
+https://edzetacl.cloud/stream/tlat/107.m3u8
+#EXTINF:-1, Canal 13
+https://edzetacl.cloud/stream/tlat/46.m3u8
+#EXTINF:-1, TELEFE
+https://edzetacl.cloud/stream/tlat/45.m3u8
+#EXTINF:-1, Nickelodeon
+https://edzetacl.cloud/stream/tlat/110.m3u8
+#EXTINF:-1, Cartoon Network
+https://edzetacl.cloud/stream/tlat/114.m3u8
+#EXTINF:-1, Cartoonito
+https://edzetacl.cloud/stream/tlat/115.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
