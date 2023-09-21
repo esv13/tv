@@ -304,6 +304,8 @@ https://edzetacl.cloud/stream/tlat/102.m3u8
 https://edzetacl.cloud/stream/tlat/139.m3u8
 #EXTINF:-1, Discovery HGTV
 https://edzetacl.cloud/stream/tlat/263.m3u8
+#EXTINF:-1, Discovery Familia
+https://edzetacl.cloud/stream/tlat/262.m3u8
 #EXTINF:-1, E!
 https://edzetacl.cloud/stream/tlat/103.m3u8
 #EXTINF:-1, DMax
