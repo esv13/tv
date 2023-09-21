@@ -185,12 +185,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,TNT Sports Br
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png", FOX Sports
-https://f2play.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1 tvg-id="Fox.Sports.2.Latin.America.(Cono.Sur).(FOXSP2).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png", FOX Sports 2
-https://f2play.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Sur).(FOXSP3).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png", FOX Sports 3
-https://f2play.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
@@ -279,8 +274,7 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_599961
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_2499584=7-mp4a_63000_spa=4.m3u8
 #EXTINF:-1, Discovery Kids
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
-#EXTINF:-1, BitMe
-https://edzetacl.cloud/stream/tlat/131.m3u8
+
 
 #EXTINF:-1, History 
 https://edzetacl.cloud/stream/tlat/234.m3u8
@@ -298,6 +292,8 @@ https://edzetacl.cloud/stream/tlat/94.m3u8
 https://edzetacl.cloud/stream/tlat/263.m3u8
 #EXTINF:-1, Discovery
 https://edzetacl.cloud/stream/tlat/228.m3u8
+#EXTINF:-1, Discovery h&h
+https://edzetacl.cloud/stream/tlat/229.m3u8
 #EXTINF:-1, Discovery Turbo
 https://edzetacl.cloud/stream/tlat/96.m3u8
 #EXTINF:-1, Discovery Theater
@@ -308,14 +304,14 @@ https://edzetacl.cloud/stream/tlat/102.m3u8
 https://edzetacl.cloud/stream/tlat/139.m3u8
 #EXTINF:-1, Discovery HGTV
 https://edzetacl.cloud/stream/tlat/263.m3u8
+#EXTINF:-1, E!
+https://edzetacl.cloud/stream/tlat/103.m3u8
 #EXTINF:-1, DMax
 https://edzetacl.cloud/stream/tlat/303.m3u8
 #EXTINF:-1, Odisea
 https://edzetacl.cloud/stream/tlat/285.m3u8
 #EXTINF:-1, Food
 https://edzetacl.cloud/stream/tlat/187.m3u8
-#EXTINF:-1, E!
-https://edzetacl.cloud/stream/tlat/103.m3u8
 #EXTINF:-1, LifeTime
 https://edzetacl.cloud/stream/tlat/104.m3u8
 #EXTINF:-1, RetroTV
@@ -476,6 +472,8 @@ https://edzetacl.cloud/stream/tlat/110.m3u8
 https://edzetacl.cloud/stream/tlat/269.m3u8
 #EXTINF:-1, Cartoonito
 https://edzetacl.cloud/stream/tlat/115.m3u8
+#EXTINF:-1, BitMe
+https://edzetacl.cloud/stream/tlat/131.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
@@ -560,7 +558,12 @@ http://181.78.22.27:8098/play/a02a/index.m3u8
 http://181.78.22.27:8098/play/a02u/index.m3u8
 #EXTINF:-1,ESPN +
 http://38.7.131.2:8000/play/a071/index.m3u8
-
+#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png", FOX Sports
+https://f2play.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1 tvg-id="Fox.Sports.2.Latin.America.(Cono.Sur).(FOXSP2).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png", FOX Sports 2
+https://f2play.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Sur).(FOXSP3).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png", FOX Sports 3
+https://f2play.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p)
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
