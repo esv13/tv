@@ -54,6 +54,8 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports
 #EXTINF:-1, NBA
 https://edzetacl.cloud/stream/tlat/125.m3u8
 #EXTINF:-1, FOX Sports
+https://edzetacl.cloud/stream/tlat/177.m3u8
+#EXTINF:-1, FOX Sports
 https://edzetacl.cloud/stream/tlat/12.m3u8
 #EXTINF:-1, FOX Sports 2
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
@@ -303,7 +305,7 @@ https://edzetacl.cloud/stream/tlat/101.m3u8
 #EXTINF:-1, Discovery World
 https://edzetacl.cloud/stream/tlat/102.m3u8
 #EXTINF:-1, Discovery Science
-https://edzetacl.cloud/stream/tlat/139.m3u8
+https://edzetacl.cloud/stream/tlat/230.m3u8
 #EXTINF:-1, Discovery HGTV
 https://edzetacl.cloud/stream/tlat/263.m3u8
 #EXTINF:-1, Discovery Familia
@@ -324,6 +326,8 @@ https://edzetacl.cloud/stream/tlat/104.m3u8
 https://edzetacl.cloud/stream/tlat/388.m3u8
 #EXTINF:-1, MTV
 https://edzetacl.cloud/stream/tlat/87.m3u8
+#EXTINF:-1, MTV 00s
+https://edzetacl.cloud/stream/tlat/121.m3u8
 #EXTINF:-1, MTV 00s
 https://edzetacl.cloud/stream/tlat/120.m3u8
 #EXTINF:-1, MTV Classic
