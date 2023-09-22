@@ -140,6 +140,8 @@ https://edzetacl.cloud/stream/tlat/10.m3u8
 #EXTINF:-1,TNT Sports
 https://edzetacl.cloud/stream/tlat/9.m3u8
 
+#EXTINF:-1, Claro Sports 2
+https://edzetacl.cloud/stream/tlat/294.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
 https://edzetacl.cloud/stream/tlat/60.m3u8
 #EXTINF:-1, TUDN - México
@@ -318,6 +320,8 @@ https://edzetacl.cloud/stream/tlat/103.m3u8
 https://edzetacl.cloud/stream/tlat/303.m3u8
 #EXTINF:-1, Odisea
 https://edzetacl.cloud/stream/tlat/285.m3u8
+#EXTINF:-1, MEGA HD
+https://edzetacl.cloud/stream/tlat/297.m3u8
 #EXTINF:-1, Food
 https://edzetacl.cloud/stream/tlat/187.m3u8
 #EXTINF:-1, LifeTime
@@ -410,6 +414,8 @@ https://edzetacl.cloud/stream/tlat/155.m3u8
 https://edzetacl.cloud/stream/tlat/265.m3u8
 #EXTINF:-1, M+ Acción
 https://edzetacl.cloud/stream/tlat/295.m3u8
+#EXTINF:-1, M+ Drama
+https://edzetacl.cloud/stream/tlat/291.m3u8
 #EXTINF:-1, 5
 https://edzetacl.cloud/stream/tlat/204.m3u8
 #EXTINF:-1, Cine ?
@@ -470,6 +476,8 @@ https://edzetacl.cloud/stream/tlat/45.m3u8
 https://edzetacl.cloud/stream/tlat/274.m3u8
 #EXTINF:-1, TN
 https://edzetacl.cloud/stream/tlat/284.m3u8
+#EXTINF:-1, NBC
+https://edzetacl.cloud/stream/tlat/288.m3u8
 #EXTINF:-1, CNÑ
 https://edzetacl.cloud/stream/tlat/143.m3u8
 #EXTINF:-1, FOX News
