@@ -36,7 +36,18 @@ https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1, Electrónica
 https://musicsrc.cvattv.com.ar/RM41
 
-
+#EXTINF:-1,ESPN 
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_67000_spa=32.m3u8
+#EXTINF:-1,ESPN 2
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_72000_spa=45.m3u8
+#EXTINF:-1,ESPN 3
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_79000_spa=28.m3u8
+#EXTINF:-1,ESPN Premium
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_499712=5-mp4a_64000_spa=47.m3u8
+#EXTINF:-1,TNT Sports
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_61000_spa=2.m3u8
+#EXTINF:-1, FOX Sports 2
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
 #EXTINF:-1,ESPN
 https://edzetacl.cloud/stream/tlat/17.m3u8
 #EXTINF:-1,ESPN 2
@@ -164,19 +175,67 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1, Poker TV
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1, Bein sports xtra Ñ
-https://edzetacl.cloud/stream/tlat/23.m3u8
-#EXTINF:-1,TNT Sports Br
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,TNT Sports Br
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1,TNT Sports Br
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1,TNT Sports Br
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_64000_eng=12.m3u8
+#EXTINF:-1, TNT
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_60000_spa=34.m3u8
+#EXTINF:-1, TNT Series
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_5999616=6-mp4a_63000_spa=14.m3u8
+#EXTINF:-1, Cinecanal
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_64000_spa=21.m3u8
+#EXTINF:-1, Space
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_68000_spa=24.m3u8
+#EXTINF:-1, Universal Tv
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=5-mp4a_65000_spa=17.m3u8
+#EXTINF:-1, aMC
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_5999616=5-mp4a_72000_spa=45.m3u8
+#EXTINF:-1, Universal Studio 
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_64000_spa=11.m3u8
+#EXTINF:-1, Sonny Channel
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_62000_spa=8.m3u8
+#EXTINF:-1, AXN
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_61000_spa=19.m3u8
+#EXTINF:-1, FX
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_69000_spa=45.m3u8
+#EXTINF:-1, Warner TV
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=19.m3u8
+#EXTINF:-1, Animal Planet
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_67000_spa=22.m3u8
+#EXTINF:-1, History
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
+#EXTINF:-1, History SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_59000_spa=11.m3u8
+#EXTINF:-1, Discovery
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_66000_spa=12.m3u8
+#EXTINF:-1, Discovery SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_66000_spa=12.m3u8
+#EXTINF:-1,Discovery H&H
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
+#EXTINF:-1,Discovery H&H SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_63000_spa=3.m3u8
+#EXTINF:-1, Discovery Turbo
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_63000_eng=8.m3u8
+#EXTINF:-1, Discovery HGTV
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
+#EXTINF:-1, Discovery HGTV SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_2499584=5-mp4a_72000_spa=15.m3u8
+#EXTINF:-1, El Gourmet 
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
+#EXTINF:-1, Cartoon Network
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
+#EXTINF:-1, Nickelodeon
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999616=8-mp4a_70000_spa=30.m3u8
+#EXTINF:-1, Disney Channel
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_2499584=7-mp4a_63000_spa=4.m3u8
+#EXTINF:-1, Discovery Kids
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
+#EXTINF:-1, TV Pública
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_5999616=18.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
@@ -494,6 +553,20 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36357.m3u8
 
 
 
+
+#EXTINF:-1, Poker TV
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1, Bein sports xtra Ñ
+https://edzetacl.cloud/stream/tlat/23.m3u8
+#EXTINF:-1,TNT Sports Br
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,TNT Sports Br
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,TNT Sports Br
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1,TNT Sports Br
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1,ESPN
 http://181.78.22.27:8098/play/a01d/index.m3u8
@@ -1045,74 +1118,8 @@ http://201.219.246.114:7000/play/a035/index.m3u8
 #EXTINF:-1, DHE
 http://201.219.246.114:7000/play/a036/index.m3u8
 
-#EXTINF:-1,ESPN 
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_2499584=6-mp4a_67000_spa=32.m3u8
-#EXTINF:-1,ESPN 2
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_72000_spa=45.m3u8
-#EXTINF:-1,ESPN 3
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_79000_spa=28.m3u8
-#EXTINF:-1,ESPN Premium
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_499712=5-mp4a_64000_spa=47.m3u8
-#EXTINF:-1,TNT Sports
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_61000_spa=2.m3u8
-#EXTINF:-1, FOX Sports 2
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_64000_eng=12.m3u8
-#EXTINF:-1, TNT
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT-avc1_5999616=18-mp4a_60000_spa=34.m3u8
-#EXTINF:-1, TNT Series
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries-avc1_5999616=6-mp4a_63000_spa=14.m3u8
-#EXTINF:-1, Cinecanal
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal-avc1_5999616=10-mp4a_64000_spa=21.m3u8
-#EXTINF:-1, Space
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_5999616=7-mp4a_68000_spa=24.m3u8
-#EXTINF:-1, Universal Tv
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal-avc1_5999616=5-mp4a_65000_spa=17.m3u8
-#EXTINF:-1, aMC
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC-avc1_5999616=5-mp4a_72000_spa=45.m3u8
-#EXTINF:-1, Universal Studio 
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_5999616=6-mp4a_64000_spa=11.m3u8
-#EXTINF:-1, Sonny Channel
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony-avc1_5999616=6-mp4a_62000_spa=8.m3u8
-#EXTINF:-1, AXN
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN-avc1_5999616=8-mp4a_61000_spa=19.m3u8
-#EXTINF:-1, FX
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-mp4a_69000_spa=45.m3u8
-#EXTINF:-1, Warner TV
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=19.m3u8
-#EXTINF:-1, Animal Planet
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_67000_spa=22.m3u8
-#EXTINF:-1, History
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
-#EXTINF:-1, History SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_59000_spa=11.m3u8
-#EXTINF:-1, Discovery
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_66000_spa=12.m3u8
-#EXTINF:-1, Discovery SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_66000_spa=12.m3u8
-#EXTINF:-1,Discovery H&H
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
-#EXTINF:-1,Discovery H&H SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_63000_spa=3.m3u8
-#EXTINF:-1, Discovery Turbo
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_63000_eng=8.m3u8
-#EXTINF:-1, Discovery HGTV
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
-#EXTINF:-1, Discovery HGTV SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_2499584=5-mp4a_72000_spa=15.m3u8
-#EXTINF:-1, El Gourmet 
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
-#EXTINF:-1, Cartoon Network
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499584=5-mp4a_64000_spa=8.m3u8
-#EXTINF:-1, Nickelodeon
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999616=8-mp4a_70000_spa=30.m3u8
-#EXTINF:-1, Disney Channel
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel-avc1_2499584=7-mp4a_63000_spa=4.m3u8
-#EXTINF:-1, Discovery Kids
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids-avc1_2499584=5-mp4a_69000_spa=20.m3u8
-#EXTINF:-1, TV Pública
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_5999616=18.m3u8
+
+
 
 
 #EXTINF:-1 channel-id="pluto-5873fc21cad696fb37aa9054" tvg-id="5873fc21cad696fb37aa9054" tvg-chno="2480" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="MUSICA" , Live Music Replay
