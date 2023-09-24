@@ -176,7 +176,24 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-
+#EXTINF:-1, History
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
+#EXTINF:-1, History SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_59000_spa=11.m3u8
+#EXTINF:-1, Discovery
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_66000_spa=12.m3u8
+#EXTINF:-1, Discovery SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_66000_spa=12.m3u8
+#EXTINF:-1,Discovery H&H
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
+#EXTINF:-1,Discovery H&H SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_63000_spa=3.m3u8
+#EXTINF:-1, Discovery Turbo
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_63000_eng=8.m3u8
+#EXTINF:-1, Discovery HGTV
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
+#EXTINF:-1, Discovery HGTV SD
+https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_2499584=5-mp4a_72000_spa=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_5999616=8-mp4a_64000_eng=12.m3u8
 #EXTINF:-1, TNT
@@ -203,24 +220,6 @@ https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=8-
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=19.m3u8
 #EXTINF:-1, Animal Planet
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_67000_spa=22.m3u8
-#EXTINF:-1, History
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
-#EXTINF:-1, History SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_2499584=7-mp4a_59000_spa=11.m3u8
-#EXTINF:-1, Discovery
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_5999616=6-mp4a_66000_spa=12.m3u8
-#EXTINF:-1, Discovery SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery-avc1_2499584=5-mp4a_66000_spa=12.m3u8
-#EXTINF:-1,Discovery H&H
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_5999616=6-mp4a_63000_spa=3.m3u8
-#EXTINF:-1,Discovery H&H SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health-avc1_2499584=5-mp4a_63000_spa=3.m3u8
-#EXTINF:-1, Discovery Turbo
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo-avc1_5999616=6-mp4a_63000_eng=8.m3u8
-#EXTINF:-1, Discovery HGTV
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_5999616=6-mp4a_72000_spa=15.m3u8
-#EXTINF:-1, Discovery HGTV SD
-https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV-avc1_2499584=5-mp4a_72000_spa=15.m3u8
 #EXTINF:-1, El Gourmet 
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
 #EXTINF:-1, Cartoon Network
