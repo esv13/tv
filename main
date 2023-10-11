@@ -54,6 +54,8 @@ https://edzetacl.cloud/stream/tlat/17.m3u8
 https://edzetacl.cloud/stream/tlat/18.m3u8
 #EXTINF:-1,ESPN 3
 https://edzetacl.cloud/stream/tlat/19.m3u8
+#EXTINF:-1,ESPN 4
+https://edzetacl.cloud/stream/tlat/137.m3u8
 #EXTINF:-1,ESPN Premium
 https://edzetacl.cloud/stream/tlat/10.m3u8
 #EXTINF:-1,TNT Sports
@@ -64,6 +66,8 @@ https://edzetacl.cloud/stream/tlat/125.m3u8
 https://edzetacl.cloud/stream/tlat/177.m3u8
 #EXTINF:-1, FOX Sports
 https://edzetacl.cloud/stream/tlat/12.m3u8
+#EXTINF:-1, FOX Sports 2
+https://edzetacl.cloud/stream/tlat/13.m3u8
 
 #EXTINF:-1, FOX Sports 3
 https://edzetacl.cloud/stream/tlat/248.m3u8
@@ -283,8 +287,6 @@ https://edzetacl.cloud/stream/tlat/69.m3u8
 #EXTINF:-1, Animal Planet
 https://edzetacl.cloud/stream/tlat/94.m3u8
 #EXTINF:-1, Discovery
-https://edzetacl.cloud/stream/tlat/263.m3u8
-#EXTINF:-1, Discovery
 https://edzetacl.cloud/stream/tlat/228.m3u8
 #EXTINF:-1, Discovery h&h
 https://edzetacl.cloud/stream/tlat/229.m3u8
@@ -400,6 +402,8 @@ https://edzetacl.cloud/stream/tlat/82.m3u8
 https://edzetacl.cloud/stream/tlat/155.m3u8
 #EXTINF:-1, Paramount
 https://edzetacl.cloud/stream/tlat/265.m3u8
+#EXTINF:-1, usa
+https://edzetacl.cloud/stream/tlat/58.m3u8
 #EXTINF:-1, M+ Acción
 https://edzetacl.cloud/stream/tlat/295.m3u8
 #EXTINF:-1, M+ Drama
@@ -434,6 +438,8 @@ https://edzetacl.cloud/stream/tlat/191.m3u8
 https://edzetacl.cloud/stream/tlat/398.m3u8
 #EXTINF:-1, Bob Esponja
 https://edzetacl.cloud/stream/tlat/404.m3u8
+#EXTINF:-1, South Park
+https://edzetacl.cloud/stream/tlat/146.m3u8
 #EXTINF:-1, Ben 10
 https://edzetacl.cloud/stream/tlat/354.m3u8
 #EXTINF:-1, Dinosaurios
