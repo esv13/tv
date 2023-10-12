@@ -432,6 +432,8 @@ https://edzetacl.cloud/stream/tlat/329.m3u8
 https://edzetacl.cloud/stream/tlat/128.m3u8
 #EXTINF:-1, FUTURAMA
 https://edzetacl.cloud/stream/tlat/166.m3u8
+#EXTINF:-1, Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1, Dragon Ball
 https://edzetacl.cloud/stream/tlat/191.m3u8
 #EXTINF:-1, Los Picapiedras
