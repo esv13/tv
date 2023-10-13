@@ -1145,3 +1145,89 @@ https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 
 
+#EXTINF:-1 channel-id="frndly-31" tvg-id="frndly-31" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="51529",A&E
+http://108.54.104.36:8183/play/a_e.m3u8
+#EXTINF:-1 channel-id="frndly-44" tvg-id="frndly-44" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="45754",MeTV
+http://108.54.104.36:8183/play/me_tv.m3u8
+#EXTINF:-1 channel-id="frndly-33" tvg-id="frndly-33" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="14771",HISTORY
+http://108.54.104.36:8183/play/history.m3u8
+#EXTINF:-1 channel-id="frndly-55" tvg-id="frndly-55" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="18633",ION
+http://108.54.104.36:8183/play/ion.m3u8
+#EXTINF:-1 channel-id="frndly-1" tvg-id="frndly-1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="66268",Hallmark Channel
+http://108.54.104.36:8183/play/hallmark_channel.m3u8
+#EXTINF:-1 channel-id="frndly-2" tvg-id="frndly-2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="46710",Hallmark Movies & Mysteries
+http://108.54.104.36:8183/play/hallmark_movies___mysteries.m3u8
+#EXTINF:-1 channel-id="frndly-15" tvg-id="frndly-15" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="66143",UPtv
+http://108.54.104.36:8183/play/up_tv.m3u8
+#EXTINF:-1 channel-id="frndly-82" tvg-id="frndly-82" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="119266",MeTV+
+http://108.54.104.36:8183/play/me_tv_plus.m3u8
+#EXTINF:-1 channel-id="frndly-34" tvg-id="frndly-34" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="60150",Lifetime
+http://108.54.104.36:8183/play/lifetime.m3u8
+#EXTINF:-1 channel-id="frndly-35" tvg-id="frndly-35" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="92261",LMN
+http://108.54.104.36:8183/play/lmn.m3u8
+#EXTINF:-1 channel-id="frndly-10" tvg-id="frndly-10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="58812",Weather Channel
+http://108.54.104.36:8183/play/the_weather_channel.m3u8
+#EXTINF:-1 channel-id="frndly-76" tvg-id="frndly-76" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="56193",AccuWeather
+http://108.54.104.36:8183/play/accuweather.m3u8
+#EXTINF:-1 channel-id="frndly-6" tvg-id="frndly-6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="68827",Game Show Network
+http://108.54.104.36:8183/play/game_show_network.m3u8
+#EXTINF:-1 channel-id="frndly-17" tvg-id="frndly-17" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="82773",INSP
+http://108.54.104.36:8183/play/insp.m3u8
+#EXTINF:-1 channel-id="frndly-57" tvg-id="frndly-57" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="89922",Grit
+http://108.54.104.36:8183/play/grit.m3u8
+#EXTINF:-1 channel-id="frndly-30" tvg-id="frndly-30" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="82892",Great American Family
+http://108.54.104.36:8183/play/great_american_family.m3u8
+#EXTINF:-1 channel-id="frndly-3" tvg-id="frndly-3" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="105723",Hallmark Drama
+http://108.54.104.36:8183/play/hallmark_drama.m3u8
+#EXTINF:-1 channel-id="frndly-48" tvg-id="frndly-48" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122695",Start TV
+http://108.54.104.36:8183/play/start_tv.m3u8
+#EXTINF:-1 channel-id="frndly-85" tvg-id="frndly-85" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="78850",Justice Central
+http://108.54.104.36:8183/play/justice_central.m3u8
+#EXTINF:-1 channel-id="frndly-56" tvg-id="frndly-56" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="112568",ION Mystery
+http://108.54.104.36:8183/play/ion_mystery.m3u8
+#EXTINF:-1 channel-id="frndly-18" tvg-id="frndly-18" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="71764",BYUtv
+http://108.54.104.36:8183/play/byutv.m3u8
+#EXTINF:-1 channel-id="frndly-47" tvg-id="frndly-47" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="120460",Heroes & Icons
+http://108.54.104.36:8183/play/heroes___icons.m3u8
+#EXTINF:-1 channel-id="frndly-46" tvg-id="frndly-46" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122694",Catchy Comedy
+http://108.54.104.36:8183/play/catchy_comedy.m3u8
+#EXTINF:-1 channel-id="frndly-22" tvg-id="frndly-22" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="73413",FETV
+http://108.54.104.36:8183/play/fetv.m3u8
+#EXTINF:-1 channel-id="frndly-4" tvg-id="frndly-4" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="70113",Pixl
+http://108.54.104.36:8183/play/pixl.m3u8
+#EXTINF:-1 channel-id="frndly-20" tvg-id="frndly-20" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="82563",Get TV
+http://108.54.104.36:8183/play/get_tv.m3u8
+#EXTINF:-1 channel-id="frndly-40" tvg-id="frndly-40" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="48999",Military HISTORY
+http://108.54.104.36:8183/play/military_history.m3u8
+#EXTINF:-1 channel-id="frndly-23" tvg-id="frndly-23" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="113430",Circle
+http://108.54.104.36:8183/play/circle.m3u8
+#EXTINF:-1 channel-id="frndly-45" tvg-id="frndly-45" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122968",Story Television
+http://108.54.104.36:8183/play/story_tv.m3u8
+#EXTINF:-1 channel-id="frndly-29" tvg-id="frndly-29" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="90858",Great American Living
+http://108.54.104.36:8183/play/great_american_living.m3u8
+#EXTINF:-1 channel-id="frndly-42" tvg-id="frndly-42" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122068",Family Movie Classics
+http://108.54.104.36:8183/play/family_movie_channel.m3u8
+#EXTINF:-1 channel-id="frndly-54" tvg-id="frndly-54" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="81275",MOVIES!
+http://108.54.104.36:8183/play/movies_.m3u8
+#EXTINF:-1 channel-id="frndly-32" tvg-id="frndly-32" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="58988",FYI
+http://108.54.104.36:8183/play/fyi.m3u8
+#EXTINF:-1 channel-id="frndly-7" tvg-id="frndly-7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="46737",Outdoor Channel
+http://108.54.104.36:8183/play/outdoor_channel.m3u8
+#EXTINF:-1 channel-id="frndly-83" tvg-id="frndly-83" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="60111",Pursuit
+http://108.54.104.36:8183/play/pursuithd.m3u8
+#EXTINF:-1 channel-id="frndly-84" tvg-id="frndly-84" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="121424",WAYPOINT TV
+http://108.54.104.36:8183/play/waypoint.m3u8
+#EXTINF:-1 channel-id="frndly-39" tvg-id="frndly-39" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="48543",Crime + Investigation
+http://108.54.104.36:8183/play/crime_investigation.m3u8
+#EXTINF:-1 channel-id="frndly-16" tvg-id="frndly-16" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="110951",Curiosity Channel
+http://108.54.104.36:8183/play/curiositystream.m3u8
+#EXTINF:-1 channel-id="frndly-36" tvg-id="frndly-36" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="65732",VICE
+http://108.54.104.36:8183/play/vice.m3u8
+#EXTINF:-1 channel-id="frndly-12" tvg-id="frndly-12" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="60222",QVC
+http://108.54.104.36:8183/play/qvc.m3u8
+#EXTINF:-1 channel-id="frndly-19" tvg-id="frndly-19" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="81289",Recipe.TV
+http://108.54.104.36:8183/play/recipe_tv.m3u8
+#EXTINF:-1 channel-id="frndly-11" tvg-id="frndly-11" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="50338",BabyFirst
+http://108.54.104.36:8183/play/babyfirst_tv.m3u8
+#EXTINF:-1 channel-id="frndly-21" tvg-id="frndly-21" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="99988",Local Now
+http://108.54.104.36:8183/play/local_now.m3u8
