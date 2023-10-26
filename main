@@ -1231,3 +1231,60 @@ http://108.54.104.36:8183/play/recipe_tv.m3u8
 http://108.54.104.36:8183/play/babyfirst_tv.m3u8
 #EXTINF:-1 channel-id="frndly-21" tvg-id="frndly-21" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="99988",Local Now
 http://108.54.104.36:8183/play/local_now.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 1)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650da729e4b0892675128a77/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 2)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650da881e4b0892675128a96/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 3)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650da91ce4b0892675128a9f/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 4)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650dacaae4b0892675128abf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 5)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650dae56e4b0892675128ad1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 6)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650db68ce4b0892675128b61/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 7)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650db7d5e4b0892675128b9f/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 8)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650db84fe4b0892675128bac/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 9)
+https://fapi.streann.com/loadbalancer/services/public/channels-secure/650db967e4b0892675128bca/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 1)
+https://redirector.dps.live/hls/13gopan1/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 2)
+https://redirector.dps.live/hls/13gopan2/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 3)
+https://redirector.dps.live/hls/13gopan3/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 4)
+https://redirector.dps.live/hls/13gopan4/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 5)
+https://redirector.dps.live/hls/13gopan5/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 6)
+https://redirector.dps.live/hls/13gopan6/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 7)
+https://redirector.dps.live/hls/13gopan7/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 8)
+https://redirector.dps.live/hls/13gopan8/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 9)
+https://redirector.dps.live/hls/13gopan9/playlist.m3u8
+#EXTINF:-1 tvd-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Canal 13 (Señal Extra 10)
+https://redirector.dps.live/hls/13gopan10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Chilevisión/Pluto TV (Puro Oro)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Chilevisión/Pluto TV (Solo Chilenos)
+https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 1)
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 2)
+https://mdstrm.com/live-stream-playlist/652965f88778ed225312948a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 3)
+https://mdstrm.com/live-stream-playlist/651b0e0d92a4aa1d87b62b32.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 4)
+https://mdstrm.com/live-stream-playlist/6513060ce1b75408a92f9f8f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 5)
+https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
