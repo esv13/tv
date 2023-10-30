@@ -49,7 +49,11 @@ https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 #EXTINF:-1, FOX Sports 2
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
 #EXTINF:-1, TyC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
+
 
 #EXTINF:-1, DeporTV
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv-mp4a_69000=22-avc1_499712=18.m3u8
