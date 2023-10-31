@@ -49,10 +49,15 @@ https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 #EXTINF:-1, FOX Sports 2
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
 #EXTINF:-1, TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-
+#EXTINF:-1,TYC Sports Play
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1,TYC Sports Play
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_14.m3u8
+#EXTINF:-1,TYC Sports Play
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1,TYC Sports Play
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index_14.m3u8
 
 
 #EXTINF:-1, DeporTV
@@ -91,8 +96,6 @@ http://143.244.60.30/ESPN/index.m3u8
 http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:0 tvg-logo="https://es.wikipedia.org/wiki/Radiotelevisi%C3%B3n_Nacional_de_Afganist%C3%A1n#/media/Archivo:RTA_Afghanistan_Logo.svg" group-title="beIN SPORTS.",Bt Sports 1
 https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1,SKY
-http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg" group-title="DEPORTIVOS", PAC 12
@@ -166,6 +169,62 @@ https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Disc
 #EXTINF:-1, TV Pública
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica-mp4a_69000=24-avc1_5999616=18.m3u8
 
+#EXTINF:-1,MTV
+http://50.7.137.106:8080/MTV/index.m3u8?token=test
+#EXTINF:-1,TVI HD
+http://50.7.137.106:8080/TVI/index.m3u8?token=test
+#EXTINF:-1,VH1
+http://50.7.137.106:8080/VH1/index.m3u8?token=test
+#EXTINF:-1,FOX HD
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY HD
+http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
+#EXTINF:-1,AMC HD
+http://50.7.137.106:8080/AMC/index.m3u8?token=test
+#EXTINF:-1,SYFY HD
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+#EXTINF:-1,HOLLYWOOD HD
+http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
+#EXTINF:-1,AXN HD
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1 group-title="Amerika_*Latino_MIX1",🇧🇷My time movie networkᴴᴰ
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino_MIX1",🇪🇸My time movie networkᴴᴰ
+https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
+http://179.1.87.75:8098/play/a00v/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://23.237.104.26:8080/HBO_SIGNATURE/manifest.m3u8
+#EXTINF:-1,HBO COMEDY
+http://23.237.104.26:8080/HBO_COMEDY/manifest.m3u8
+#EXTINF:-1,LIFETIME MOVIE NETWORK
+http://23.237.104.26:8080/LMN/manifest.m3u8
+#EXTINF:-1,HALLMARK MOVIES AND MYSTERIES
+http://23.237.104.26:8080/HALLMARK_MOVIES_AND_MYSTERIES/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1, E!
+http://201.219.246.114:7000/play/a01d/index.m3u8
+#EXTINF:-1, DHE
+http://201.219.246.114:7000/play/a036/index.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+http://201.219.246.114:7000/play/a033/index.m3u8
+#EXTINF:-1,DISCOVERY WORD
+http://201.219.246.114:7000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+#EXTINF:-1, TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+
+
+
 
 #EXTINF:-1,Bloomberg Quicktake .MX -TCL
 https://bloomberg-quicktake-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -201,35 +260,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-tcl/pl
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1,Beutiful Planet .AU -TCL
 https://answermedia-beautiful-planet-1-au.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
-http://179.1.87.75:8098/play/a00v/index.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://23.237.104.26:8080/HBO_SIGNATURE/manifest.m3u8
-#EXTINF:-1,HBO COMEDY
-http://23.237.104.26:8080/HBO_COMEDY/manifest.m3u8
-#EXTINF:-1,LIFETIME MOVIE NETWORK
-http://23.237.104.26:8080/LMN/manifest.m3u8
-#EXTINF:-1,HALLMARK MOVIES AND MYSTERIES
-http://23.237.104.26:8080/HALLMARK_MOVIES_AND_MYSTERIES/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1, E!
-http://201.219.246.114:7000/play/a01d/index.m3u8
-#EXTINF:-1, DHE
-http://201.219.246.114:7000/play/a036/index.m3u8
-
-#EXTINF:-1,DISCOVERY THEATER
-http://201.219.246.114:7000/play/a033/index.m3u8
-#EXTINF:-1,DISCOVERY WORD
-http://201.219.246.114:7000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1, TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1, Stingray Qello
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3042
@@ -267,37 +297,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 
-
-#EXTINF:-1,MTV
-http://50.7.137.106:8080/MTV/index.m3u8?token=test
-#EXTINF:-1,TVI HD
-http://50.7.137.106:8080/TVI/index.m3u8?token=test
-#EXTINF:-1,VH1
-http://50.7.137.106:8080/VH1/index.m3u8?token=test
-#EXTINF:-1,FOX HD
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
-#EXTINF:-1,DISCOVERY HD
-http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
-#EXTINF:-1,AMC HD
-http://50.7.137.106:8080/AMC/index.m3u8?token=test
-#EXTINF:-1,SYFY HD
-http://50.7.137.106:8080/SYFY/index.m3u8?token=test
-#EXTINF:-1,HOLLYWOOD HD
-http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
-#EXTINF:-1,AXN HD
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
-
-
-#EXTINF:-1,PARAMOUNT
-http://187.95.95.243/paramount/index.m3u8
-#EXTINF:-1,STAR
-http://187.95.95.243/Star/index.m3u8
-#EXTINF:-1,AE
-http://187.95.95.243/AE/index.m3u8
-##EXTINF:-1,MTV
-http://187.95.95.243/mtv/mono.m3u8
-#EXTINF:-1,HISTORY
-http://187.95.95.243/History/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo-mundi.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Oeste
@@ -902,97 +901,5 @@ https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="2500" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="MUSICA" , Vevo 2K
 https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
-
-
-#EXTINF:-1 channel-id="frndly-31" tvg-id="frndly-31" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="51529",A&E
-http://108.54.104.36:8183/play/a_e.m3u8
-#EXTINF:-1 channel-id="frndly-44" tvg-id="frndly-44" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="45754",MeTV
-http://108.54.104.36:8183/play/me_tv.m3u8
-#EXTINF:-1 channel-id="frndly-33" tvg-id="frndly-33" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="14771",HISTORY
-http://108.54.104.36:8183/play/history.m3u8
-#EXTINF:-1 channel-id="frndly-55" tvg-id="frndly-55" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="18633",ION
-http://108.54.104.36:8183/play/ion.m3u8
-#EXTINF:-1 channel-id="frndly-1" tvg-id="frndly-1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="66268",Hallmark Channel
-http://108.54.104.36:8183/play/hallmark_channel.m3u8
-#EXTINF:-1 channel-id="frndly-2" tvg-id="frndly-2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="46710",Hallmark Movies & Mysteries
-http://108.54.104.36:8183/play/hallmark_movies___mysteries.m3u8
-#EXTINF:-1 channel-id="frndly-15" tvg-id="frndly-15" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="66143",UPtv
-http://108.54.104.36:8183/play/up_tv.m3u8
-#EXTINF:-1 channel-id="frndly-82" tvg-id="frndly-82" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="119266",MeTV+
-http://108.54.104.36:8183/play/me_tv_plus.m3u8
-#EXTINF:-1 channel-id="frndly-34" tvg-id="frndly-34" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="60150",Lifetime
-http://108.54.104.36:8183/play/lifetime.m3u8
-#EXTINF:-1 channel-id="frndly-35" tvg-id="frndly-35" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="92261",LMN
-http://108.54.104.36:8183/play/lmn.m3u8
-#EXTINF:-1 channel-id="frndly-10" tvg-id="frndly-10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="58812",Weather Channel
-http://108.54.104.36:8183/play/the_weather_channel.m3u8
-#EXTINF:-1 channel-id="frndly-76" tvg-id="frndly-76" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="56193",AccuWeather
-http://108.54.104.36:8183/play/accuweather.m3u8
-#EXTINF:-1 channel-id="frndly-6" tvg-id="frndly-6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="68827",Game Show Network
-http://108.54.104.36:8183/play/game_show_network.m3u8
-#EXTINF:-1 channel-id="frndly-17" tvg-id="frndly-17" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="82773",INSP
-http://108.54.104.36:8183/play/insp.m3u8
-#EXTINF:-1 channel-id="frndly-57" tvg-id="frndly-57" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="89922",Grit
-http://108.54.104.36:8183/play/grit.m3u8
-#EXTINF:-1 channel-id="frndly-30" tvg-id="frndly-30" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="82892",Great American Family
-http://108.54.104.36:8183/play/great_american_family.m3u8
-#EXTINF:-1 channel-id="frndly-3" tvg-id="frndly-3" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="105723",Hallmark Drama
-http://108.54.104.36:8183/play/hallmark_drama.m3u8
-#EXTINF:-1 channel-id="frndly-48" tvg-id="frndly-48" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122695",Start TV
-http://108.54.104.36:8183/play/start_tv.m3u8
-#EXTINF:-1 channel-id="frndly-85" tvg-id="frndly-85" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="78850",Justice Central
-http://108.54.104.36:8183/play/justice_central.m3u8
-#EXTINF:-1 channel-id="frndly-56" tvg-id="frndly-56" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="112568",ION Mystery
-http://108.54.104.36:8183/play/ion_mystery.m3u8
-#EXTINF:-1 channel-id="frndly-18" tvg-id="frndly-18" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="71764",BYUtv
-http://108.54.104.36:8183/play/byutv.m3u8
-#EXTINF:-1 channel-id="frndly-47" tvg-id="frndly-47" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="120460",Heroes & Icons
-http://108.54.104.36:8183/play/heroes___icons.m3u8
-#EXTINF:-1 channel-id="frndly-46" tvg-id="frndly-46" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122694",Catchy Comedy
-http://108.54.104.36:8183/play/catchy_comedy.m3u8
-#EXTINF:-1 channel-id="frndly-22" tvg-id="frndly-22" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="73413",FETV
-http://108.54.104.36:8183/play/fetv.m3u8
-#EXTINF:-1 channel-id="frndly-4" tvg-id="frndly-4" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="70113",Pixl
-http://108.54.104.36:8183/play/pixl.m3u8
-#EXTINF:-1 channel-id="frndly-20" tvg-id="frndly-20" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="82563",Get TV
-http://108.54.104.36:8183/play/get_tv.m3u8
-#EXTINF:-1 channel-id="frndly-40" tvg-id="frndly-40" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="48999",Military HISTORY
-http://108.54.104.36:8183/play/military_history.m3u8
-#EXTINF:-1 channel-id="frndly-23" tvg-id="frndly-23" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="113430",Circle
-http://108.54.104.36:8183/play/circle.m3u8
-#EXTINF:-1 channel-id="frndly-45" tvg-id="frndly-45" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122968",Story Television
-http://108.54.104.36:8183/play/story_tv.m3u8
-#EXTINF:-1 channel-id="frndly-29" tvg-id="frndly-29" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="90858",Great American Living
-http://108.54.104.36:8183/play/great_american_living.m3u8
-#EXTINF:-1 channel-id="frndly-42" tvg-id="frndly-42" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="122068",Family Movie Classics
-http://108.54.104.36:8183/play/family_movie_channel.m3u8
-#EXTINF:-1 channel-id="frndly-54" tvg-id="frndly-54" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="81275",MOVIES!
-http://108.54.104.36:8183/play/movies_.m3u8
-#EXTINF:-1 channel-id="frndly-32" tvg-id="frndly-32" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="58988",FYI
-http://108.54.104.36:8183/play/fyi.m3u8
-#EXTINF:-1 channel-id="frndly-7" tvg-id="frndly-7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="46737",Outdoor Channel
-http://108.54.104.36:8183/play/outdoor_channel.m3u8
-#EXTINF:-1 channel-id="frndly-83" tvg-id="frndly-83" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="60111",Pursuit
-http://108.54.104.36:8183/play/pursuithd.m3u8
-#EXTINF:-1 channel-id="frndly-84" tvg-id="frndly-84" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="121424",WAYPOINT TV
-http://108.54.104.36:8183/play/waypoint.m3u8
-#EXTINF:-1 channel-id="frndly-39" tvg-id="frndly-39" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="48543",Crime + Investigation
-http://108.54.104.36:8183/play/crime_investigation.m3u8
-#EXTINF:-1 channel-id="frndly-16" tvg-id="frndly-16" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="110951",Curiosity Channel
-http://108.54.104.36:8183/play/curiositystream.m3u8
-#EXTINF:-1 channel-id="frndly-36" tvg-id="frndly-36" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="65732",VICE
-http://108.54.104.36:8183/play/vice.m3u8
-#EXTINF:-1 channel-id="frndly-12" tvg-id="frndly-12" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="60222",QVC
-http://108.54.104.36:8183/play/qvc.m3u8
-#EXTINF:-1 channel-id="frndly-19" tvg-id="frndly-19" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="81289",Recipe.TV
-http://108.54.104.36:8183/play/recipe_tv.m3u8
-#EXTINF:-1 channel-id="frndly-11" tvg-id="frndly-11" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="50338",BabyFirst
-http://108.54.104.36:8183/play/babyfirst_tv.m3u8
-#EXTINF:-1 channel-id="frndly-21" tvg-id="frndly-21" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/conten.." tvc-guide-stationid="99988",Local Now
-http://108.54.104.36:8183/play/local_now.m3u8
-
-
-
-
 
 
