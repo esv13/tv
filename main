@@ -17,6 +17,8 @@ http://204.199.3.2/.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1,AFV en Español (720p) [Not 24/7]
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1, TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 #EXTINF:-1, Grandes del Rock
@@ -50,21 +52,25 @@ https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1, TyC SPORTS 
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
-#EXTINF:-1, TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_2.m3u8
-#EXTINF:-1, TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_3.m3u8
 
-#EXTINF:-1,TYC Sports Play
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-#EXTINF:-1,TYC Sports Play
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_14.m3u8
-#EXTINF:-1,TYC Sports Play
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-#EXTINF:-1,TYC Sports Play
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index_14.m3u8
+
+
+#EXTINF:-1,ESPN
+http://181.78.78.105:8000/play/a08b/index.m3u8
+#EXTINF:-1,ESPN 2 Latin HD
+http://181.78.78.105:8000/play/a03s/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.78.78.105:8000/play/a079/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.78.78.105:8000/play/a08n/index.m3u8
+#EXTINF:-1,ESPN CO
+http://181.78.78.105:8000/play/a0gj/index.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://181.78.78.105:8000/play/a0jt/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://181.78.78.105:8000/play/a08g/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://181.78.78.105:8000/play/a08h/index.m3u8
 
 
 #EXTINF:-1, DeporTV
@@ -109,6 +115,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?Playl
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="VIP SPORT 2" logo="https://i.postimg.cc/P5FPcT6H/20221004-174618.png", KOZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
+#EXTINF:-1, Yachting
+https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://adsports.ae/images/app_icon.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -118,6 +126,23 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1,ANIMAL_PLANET HD
+https://varun-iptv.netlify.app/m3u/ANIMAL_PLANET.m3u8
+#EXTINF:-1,HGTV HD
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1,DISCOVERY_TURBO
+https://varun-iptv.netlify.app/m3u/DISCOVERY_TURBO.m3u8
+#EXTINF:-1,INVESTIGATION_DISCOVERY HD
+https://varun-iptv.netlify.app/m3u/INVESTIGATION_DISC..
+#EXTINF:-1,Tlc HD
+https://varun-iptv.netlify.app/m3u/Tlc.m3u8
+#EXTINF:-1,EuroSport HD
+https://varun-iptv.netlify.app/m3u/EuroSport.m3u8
+#EXTINF:-1,DMAX HD
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+
+
 
 #EXTINF:-1, History
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
@@ -163,6 +188,10 @@ https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX-avc1_5999616=
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner-avc1_5999616=7-mp4a_60000_spa=19.m3u8
 #EXTINF:-1, Animal Planet
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet-avc1_5999616=8-mp4a_67000_spa=22.m3u8
+
+#EXTINF:-1,E Entertainment
+http://181.78.78.105:8000/play/a088/index.m3u8
+
 #EXTINF:-1, El Gourmet 
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet-mp4a_63000_spa=3-avc1_5999616=13.m3u8
 #EXTINF:-1, Cartoon Network
@@ -217,19 +246,10 @@ http://23.237.104.26:8080/HALLMARK_MOVIES_AND_MYSTERIES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1, E!
-http://201.219.246.114:7000/play/a01d/index.m3u8
-#EXTINF:-1, DHE
-http://201.219.246.114:7000/play/a036/index.m3u8
 
-#EXTINF:-1,DISCOVERY THEATER
-http://201.219.246.114:7000/play/a033/index.m3u8
-#EXTINF:-1,DISCOVERY WORD
-http://201.219.246.114:7000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1, TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
 
 
 
