@@ -80,6 +80,11 @@ https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1 tvg-id="Tdp.es" tvg-logo="" group-title="Sport" tvg-chno=" ",TVE Teledeporte
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="GolPlay.es" tvg-logo="" group-title="Sport" tvg-chno=" ",Gol Play
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
@@ -107,6 +112,16 @@ http://177.53.153.21:8001/play/a00i/index.m3u8
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1, EUROSPORT 1
 http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1, EUROSPORT 1
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:238_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport" tvg-chno=" ",Eurosport 1 (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:43_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png" group-title="Lifestyle" tvg-chno=" ",Esport 3
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport" tvg-chno=" ",Eurosport 2 (España)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:59_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",Extrême Sports Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://es.wikipedia.org/wiki/Radiotelevisi%C3%B3n_Nacional_de_Afganist%C3%A1n#/media/Archivo:RTA_Afghanistan_Logo.svg" group-title="beIN SPORTS.",Bt Sports 1
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
@@ -133,8 +148,6 @@ https://varun-iptv.netlify.app/m3u/ANIMAL_PLANET.m3u8
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1,DISCOVERY_TURBO
 https://varun-iptv.netlify.app/m3u/DISCOVERY_TURBO.m3u8
-#EXTINF:-1,INVESTIGATION_DISCOVERY HD
-https://varun-iptv.netlify.app/m3u/INVESTIGATION_DISC..
 #EXTINF:-1,Tlc HD
 https://varun-iptv.netlify.app/m3u/Tlc.m3u8
 #EXTINF:-1,EuroSport HD
@@ -143,7 +156,8 @@ https://varun-iptv.netlify.app/m3u/EuroSport.m3u8
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
 
-
+#EXTINF:-1, MTV 00s
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:259_HD.smil/index.m3u8
 #EXTINF:-1, History
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel-avc1_5999616=8-mp4a_59000_spa=11.m3u8
 #EXTINF:-1, History SD
@@ -243,10 +257,11 @@ http://23.237.104.26:8080/HBO_COMEDY/manifest.m3u8
 http://23.237.104.26:8080/LMN/manifest.m3u8
 #EXTINF:-1,HALLMARK MOVIES AND MYSTERIES
 http://23.237.104.26:8080/HALLMARK_MOVIES_AND_MYSTERIES/playlist.m3u8
-
+#EXTINF:-1, Cine Feel Good
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
+https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8
 #EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 
@@ -316,6 +331,56 @@ https://edzetacl.cloud/stream/tlat/284.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16217_dark_360w_270h.png",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Général" tvg-chno="2",TVE La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1, Antena 3
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:277_HD.smil/index.m3u8
+#EXTINF:-1, FOX España
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/index.m3u8
+#EXTINF:-1, Central Comedy España
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:254_HD.smil/index.m3u8
+#EXTINF:-1, SYFY España
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:253_HD.smil/index.m3u8
+#EXTINF:-1, Nat Geo Wild España
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/index.m3u8
+#EXTINF:-1, Nat Geo España
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/index.m3u8
+#EXTINF:-1, DViaje TV
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:255_HD.smil/index.m3u8
+#EXTINF:-1,Warner TV (España)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Cine Hollywood
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",Odisea
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Lifestyle" tvg-chno=" ",Decasa
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Lifestyle" tvg-chno=" ",Canal Cocina
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Xtrm
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",AMC (España)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Sundance TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Divertissement" tvg-chno=" ",Break
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",Historia
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Découverte" tvg-chno=" ",!Buen Viaje!
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Break
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",Calle 13
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Cinéma-Séries" tvg-chno=" ",BOM Cine
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Général" tvg-chno=" ",ETB 3
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Divertissement" tvg-chno=" ",Enfamilia
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:102_HD.smil/manifest.m3u8
+
 
 #EXTINF:-1, Clarity 4K
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
