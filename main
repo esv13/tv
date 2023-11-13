@@ -983,13 +983,6 @@ http://201.219.246.114:7000/play/a035/index.m3u8
 #EXTINF:-1, DHE
 http://201.219.246.114:7000/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",(NSFW) Private HD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",(NSFW) EroX HD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" " tvg-chno=" ",(NSFW) EroXXX HD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/index.m3u8
-
 
 
 
