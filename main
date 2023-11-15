@@ -221,6 +221,9 @@ https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publi
 #EXTINF:-1 tvg-id="236dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Nacionales", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
+#EXTINF:-1 tvg-id="CiudadMagica.ar",Ciudad Mágica (720p) [Not 24/7]
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+
 #EXTINF:-1,MTV
 http://50.7.137.106:8080/MTV/index.m3u8?token=test
 #EXTINF:-1,TVI HD
@@ -268,7 +271,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 
 
 
-
+#EXTINF:-1 tvg-id="WDRFernsehenDuisburg.de",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
 
 #EXTINF:-1,Bloomberg Quicktake .MX -TCL
 https://bloomberg-quicktake-1-mx.tcl.wurl.tv/playlist.m3u8
