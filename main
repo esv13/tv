@@ -39,15 +39,15 @@ https://musicsrc.cvattv.com.ar/RM38
 https://musicsrc.cvattv.com.ar/RM41
 
 #EXTINF:-1,ESPN 
-https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_1499136=41-mp4a_62000_eng=10.m3u8
+https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_1499136=41-mp4a_67000_spa=32.m3u8
 #EXTINF:-1,ESPN 2
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_72000_spa=45.m3u8
 #EXTINF:-1,ESPN 3
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_79000_spa=28.m3u8
 #EXTINF:-1,ESPN Premium
-https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_499712=5-mp4a_64000_spa=47.m3u8
+https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_1499136=52-mp4a_64000_spa=47.m3u8
 #EXTINF:-1,TNT Sports
-https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_7999488=22-mp4a_61000_spa=2.m3u8
+https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_499712=24-mp4a_60000_spa=12.m3u8
 #EXTINF:-1, FOX Sports 2
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV-avc1_5999616=8-mp4a_62000_spa=23.m3u8
 #EXTINF:-1, TyC SPORTS
