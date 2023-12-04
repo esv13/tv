@@ -19,7 +19,28 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 #EXTINF:-1, TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
+#EXTINF:-1,MTV
+http://50.7.137.106:8080/MTV/index.m3u8?token=test
+#EXTINF:-1,TVI HD
+http://50.7.137.106:8080/TVI/index.m3u8?token=test
+#EXTINF:-1,VH1
+http://50.7.137.106:8080/VH1/index.m3u8?token=test
+#EXTINF:-1,FOX HD
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY HD
+http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
+#EXTINF:-1,AMC HD
+http://50.7.137.106:8080/AMC/index.m3u8?token=test
+#EXTINF:-1,SYFY HD
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+#EXTINF:-1,HOLLYWOOD HD
+http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
+#EXTINF:-1,AXN HD
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1 group-title="Amerika_*Latino_MIX1",🇧🇷My time movie networkᴴᴰ
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Amerika_*Latino_MIX1",🇪🇸My time movie networkᴴᴰ
+https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1, Grandes del Rock
 https://musicsrc.cvattv.com.ar/RM18
@@ -296,28 +317,7 @@ https://stmv5.livecastv.com/radioestacion/radioestacion/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadMagica.ar",Ciudad Mágica (720p) [Not 24/7]
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 
-#EXTINF:-1,MTV
-http://50.7.137.106:8080/MTV/index.m3u8?token=test
-#EXTINF:-1,TVI HD
-http://50.7.137.106:8080/TVI/index.m3u8?token=test
-#EXTINF:-1,VH1
-http://50.7.137.106:8080/VH1/index.m3u8?token=test
-#EXTINF:-1,FOX HD
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
-#EXTINF:-1,DISCOVERY HD
-http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
-#EXTINF:-1,AMC HD
-http://50.7.137.106:8080/AMC/index.m3u8?token=test
-#EXTINF:-1,SYFY HD
-http://50.7.137.106:8080/SYFY/index.m3u8?token=test
-#EXTINF:-1,HOLLYWOOD HD
-http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
-#EXTINF:-1,AXN HD
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
-#EXTINF:-1 group-title="Amerika_*Latino_MIX1",🇧🇷My time movie networkᴴᴰ
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX1",🇪🇸My time movie networkᴴᴰ
-https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+
 
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://storage.googleapis.com/openscreenshot/g%2FU%2FY/MyE-Y0YUg.png", +Cine * | CL
