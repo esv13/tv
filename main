@@ -1013,3 +1013,81 @@ http://45.4.3.75:7577/play/a141/index.m3u8
 http://45.4.3.75:7577/play/a13z/index.m3u8
 #EXTINF:-1,Warner
 http://45.4.3.75:7577/play/a146/index.m3u8
+
+
+
+#EXTINF:-1,ABC HD USA
+http://38.96.178.201/live/ABCHD/index.m3u8
+#EXTINF:-1,Animal Planet HD USA
+http://38.96.178.201/live/AnimalPlanet/index.m3u8
+#EXTINF:-1,BBC America HD USA
+http://38.96.178.201/live/BBCAmerica/index.m3u8
+#EXTINF:-1,BTV HD
+http://38.96.178.201/live/BTV/index.m3u8
+#EXTINF:-1,CBS HD USA
+http://38.96.178.201/live/CBS/index.m3u8
+#EXTINF:-1,CBS Sports HD USA
+http://38.96.178.201/live/CBSSports/index.m3u8
+#EXTINF:-1,CNN HD USA
+http://38.96.178.201/live/CNNHD/index.m3u8
+#EXTINF:-1,Cartoon Network HD USA
+http://38.96.178.201/live/CartoonNetwork/index.m3u8
+#EXTINF:-1,Comedy Central HD USA
+http://38.96.178.201/live/ComedyCentral/index.m3u8
+#EXTINF:-1,Discovery HD USA
+http://38.96.178.201/live/Discovery/index.m3u8
+#EXTINF:-1,Disney HD USA
+http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1,DisneyXD HD USA
+http://38.96.178.201/live/DisneyXD/index.m3u8
+#EXTINF:-1,ESPN News HD USA
+http://38.96.178.201/live/ESPNews/index.m3u8
+#EXTINF:-1,ESPN HD USA
+http://38.96.178.201/live/ESPNHD/index.m3u8
+#EXTINF:-1,ESPN 2 HD USA
+http://38.96.178.201/live/ESPN2/index.m3u8
+#EXTINF:-1,ESPN U HD USA
+http://38.96.178.201/live/ESPNU/index.m3u8
+#EXTINF:-1,Food Network HD USA
+http://38.96.178.201/live/FoodNetwork/index.m3u8
+#EXTINF:-1,FOX HD USA
+http://38.96.178.201/live/FOXHD/index.m3u8
+#EXTINF:-1,Fox News HD USA
+http://38.96.178.201/live/FOXNEWS/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD USA
+http://38.96.178.201/live/FS1/index.m3u8
+#EXTINF:-1,Fox Sports 2 HD USA
+http://38.96.178.201/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1,Fox Soccer Plus HD USA
+http://38.96.178.201/live/FoxSoccerPlus/index.m3u8
+#EXTINF:-1,HISTORY HD USA
+http://38.96.178.201/live/History/index.m3u8
+#EXTINF:-1,MLB HD USA
+http://38.96.178.201/live/MLB/index.m3u8
+#EXTINF:-1,NBA TV HD USA
+http://38.96.178.201/live/NBA/index.m3u8
+#EXTINF:-1,NBC HD USA
+http://38.96.178.201/live/NBCHD/index.m3u8
+#EXTINF:-1,NickJr HD USA
+http://38.96.178.201/live/NickJr/index.m3u8
+#EXTINF:-1,PBS KIDS HD USA
+http://38.96.178.201/live/PBSKIDS/index.m3u8
+#EXTINF:-1,STV HD USA
+http://38.96.178.201/live/STV/index.m3u8
+#EXTINF:-1,SYFY HD USA
+http://38.96.178.201/live/SYFYHD/index.m3u8
+#EXTINF:-1,TBS HD USA
+http://38.96.178.201/live/TBS/index.m3u8
+#EXTINF:-1,Teen Nick HD USA
+http://38.96.178.201/live/TeenNick/index.m3u8
+#EXTINF:-1,Tennis Channel HD USA
+http://38.96.178.201/live/TENNIS/index.m3u8
+#EXTINF:-1,TNT HD USA
+http://38.96.178.201/live/TNTHD/index.m3u8
+#EXTINF:-1,Universal Kids HD USA
+http://38.96.178.201/live/UniversalKids/index.m3u8
+#EXTINF:-1,USA HD
+http://38.96.178.201/live/USA/index.m3u8
+#EXTINF:-1,Zing HD
+http://38.96.178.201/live/Zing/index.m3u8
+
