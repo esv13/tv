@@ -49,8 +49,6 @@ http://38.56.109.19/play/a01p/index.m3u8
 http://38.56.109.19/play/a00s/index.m3u8
 #EXTINF:-1,CINE PREMIUN
 http://38.56.109.19/play/a016/index.m3u8
-#EXTINF:-1,CONECTADOS
-http://38.56.109.19/play/CONECTADOS/index.m3u8
 #EXTINF:-1,D PELICULA
 http://38.56.109.19/play/a00v/index.m3u8
 #EXTINF:-1,DC
@@ -77,46 +75,28 @@ http://38.56.109.19/play/a009/index.m3u8
 http://38.56.109.19/play/a00a/index.m3u8
 #EXTINF:-1,FOX3
 http://38.56.109.19/play/a00b/index.m3u8
-#EXTINF:-1,FRANCE 24
-http://38.56.109.19/play/a00e/index.m3u8
 #EXTINF:-1,FX
 http://38.56.109.19/play/a00w/index.m3u8
 #EXTINF:-1,Fuego tv
 http://38.56.109.19/play/Fuego Tv/index.m3u8
 #EXTINF:-1,G PLUS
 http://38.56.109.19/play/a00u/index.m3u8
-#EXTINF:-1,G TVPERU
-http://38.56.109.19/play/G TVPERU/index.m3u8
 #EXTINF:-1,HISTORY
 http://38.56.109.19/play/a00d/index.m3u8
 #EXTINF:-1,HISTORY 2
 http://38.56.109.19/play/a00j/index.m3u8
-#EXTINF:-1,LAS ESTRELLAS
-http://38.56.109.19/play/a017/index.m3u8
-#EXTINF:-1,MILENIAL
-http://38.56.109.19/play/a006/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://38.56.109.19/play/a00c/index.m3u8
 #EXTINF:-1,NICK
 http://38.56.109.19/play/a00p/index.m3u8
 #EXTINF:-1,NICK JR
 http://38.56.109.19/play/a00o/index.m3u8
-#EXTINF:-1,PASIONES
-http://38.56.109.19/play/a00k/index.m3u8
-#EXTINF:-1,RT
-http://38.56.109.19/play/a01q/index.m3u8
 #EXTINF:-1,SONY
 http://38.56.109.19/play/a014/index.m3u8
 #EXTINF:-1,SONY MOVIES
 http://38.56.109.19/play/a00q/index.m3u8
 #EXTINF:-1,TCM
 http://38.56.109.19/play/tTCM/index.m3u8
-#EXTINF:-1,TELELIMA
-http://38.56.109.19/play/a01s/index.m3u8
-#EXTINF:-1,TELEMUNDO
-http://38.56.109.19/play/a00y/index.m3u8
-#EXTINF:-1,TELENOVELAS
-http://38.56.109.19/play/TELENOVELAS/index.m3u8
 #EXTINF:-1,TLC
 http://38.56.109.19/play/a012/index.m3u8
 #EXTINF:-1,TNT
