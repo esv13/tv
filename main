@@ -499,8 +499,6 @@ http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,Lifetime
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1,Mas Chic
-http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1,MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1,MTV
@@ -517,10 +515,6 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 #EXTINF:-1,PARAMOUNT
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1,RT
-http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
-#EXTINF:-1,RTVE
-http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
 #EXTINF:-1,SONY CHANNEL
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1,SONY MOVIES
@@ -531,22 +525,12 @@ http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1,Studio Universal
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1,TELE SUR
-http://168.227.22.18:1935/live/mobile-117/playlist.m3u8
 #EXTINF:-1,TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,TNT SERIES
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1,TNT SPORTS HD
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1,TVU Salvador
-http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
-#EXTINF:-1,TVE
-http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
-#EXTINF:-1,TVE STAR
-http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
-#EXTINF:-1,TN23
-http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
 #EXTINF:-1,TRU TV
 http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
 #EXTINF:-1,TOONCAST
@@ -561,12 +545,6 @@ http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1,WB Anime
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1,ZOOMOO
-http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-#EXTINF:-1,7
-http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
-#EXTINF:-1,11
-http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
 
 
 
@@ -623,12 +601,6 @@ http://45.4.3.75:7577/play/a13q/index.m3u8
 http://45.4.3.75:7577/play/a14o/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://45.4.3.75:7577/play/a14p/index.m3u8
-#EXTINF:-1,France 24
-http://45.4.3.75:7577/play/a14t/index.m3u8
-#EXTINF:-1,GOL TV
-http://45.4.3.75:7577/play/a14b/index.m3u8
-#EXTINF:-1,GamaTV
-http://45.4.3.75:7577/play/a158/index.m3u8
 #EXTINF:-1,Globo Internacional
 http://45.4.3.75:7577/play/a15a/index.m3u8
 #EXTINF:-1,HBO
