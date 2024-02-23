@@ -31,6 +31,37 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 http://190.149.66.90:4000/play/a056/index.m3u8
 
 
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26817
+
+#EXTINF:-1  group-title="Bics DEPORTES", FOX SPORTS PREMIUM SD
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
+#EXTINF:-1  group-title="Bics DEPORTES", SUD | FOX SPORTS 2
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/978
+#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | FOX SPORTS 3 SD
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/981
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 4
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/977
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 5
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/976
+#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | ESPN 7
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/979
+#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | D Sports
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/990
+#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | D Sports
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/991
+
+#EXTINF:-1 group-title="Bics Extra", DISCOVERY H&H
+#EXTVLCOPT--http-reconnect=true
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
+
+
+
+#EXTINF:-1, DMAX SPAIN
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+
+
+
 
 #EXTINF:-1, PARAMOUNTCH
 http://38.56.109.19/play/a011/index.m3u8
