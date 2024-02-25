@@ -30,6 +30,44 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Cinema Este
 http://190.149.66.90:4000/play/a056/index.m3u8
 
+#EXTINF:-1,ESPN
+http://38.56.109.19/play/ESPN/index.m3u8
+#EXTINF:-1,ESPN2
+http://38.56.109.19/play/a007/index.m3u8
+#EXTINF:-1,ESPN3
+http://38.56.109.19/play/a008/index.m3u8
+#EXTINF:-1,ESPN4
+http://38.56.109.19/play/a009/index.m3u8
+#EXTINF:-1,ESPN5
+http://38.56.109.19/play/a00n/index.m3u8
+#EXTINF:-1,ESPN6
+http://38.56.109.19/play/a00b/index.m3u8
+#EXTINF:-1,ESPN7
+http://38.56.109.19/play/a00a/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://177.222.108.82:2500/play/a0gy/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.222.108.82:2500/play/a0hp/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://177.222.108.82:2500/play/a0i0/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://177.222.108.82:2500/play/a0hl/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://177.222.108.82:2500/play/a0hh/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://177.222.108.82:2500/play/a0hy/index.m3u8
+#EXTINF:-1,ESPN 4
+http://177.222.108.82:2500/play/a0it/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://177.222.108.82:2500/play/a0ig/index.m3u8
+#EXTINF:-1,Food Network HD
+http://177.222.108.82:2500/play/a0h2/index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://177.222.108.82:2500/play/a0is/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://177.222.108.82:2500/play/a0hz/index.m3u8
+
 
 #EXTINF:-1  group-title="Bics DEPORTES", ESPN 
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26817
@@ -50,6 +88,14 @@ http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/979
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/990
 #EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | D Sports
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/991
+
+#EXTINF:-1,Fox Sports 1 HD
+http://181.78.208.254:8010/play/a05u/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://181.78.208.254:8010/play/a04c/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://181.78.208.254:8010/play/a00q/index.m3u8
+
 
 #EXTINF:-1 group-title="Bics Extra", DISCOVERY H&H
 #EXTVLCOPT--http-reconnect=true
@@ -79,20 +125,7 @@ http://181.78.208.254:8010/play/a02q/index.m3u8
 http://38.56.109.19/play/a013/index.m3u8
 #EXTINF:-1,E!
 http://38.56.109.19/play/E!/index.m3u8
-#EXTINF:-1,ESPN
-http://38.56.109.19/play/ESPN/index.m3u8
-#EXTINF:-1,ESPN EXTRA
-http://38.56.109.19/play/a00n/index.m3u8
-#EXTINF:-1,ESPN2
-http://38.56.109.19/play/a007/index.m3u8
-#EXTINF:-1,ESPN3
-http://38.56.109.19/play/a008/index.m3u8
-#EXTINF:-1,ESPN4
-http://38.56.109.19/play/a009/index.m3u8
-#EXTINF:-1,FOX2
-http://38.56.109.19/play/a00a/index.m3u8
-#EXTINF:-1,FOX3
-http://38.56.109.19/play/a00b/index.m3u8
+
 #EXTINF:-1,FX
 http://38.56.109.19/play/a00w/index.m3u8
 #EXTINF:-1,G PLUS
@@ -160,28 +193,7 @@ http://177.222.108.82:2500/play/a0id/index.m3u8
 http://177.222.108.82:2500/play/a0hv/index.m3u8
 #EXTINF:-1,E! HD
 http://177.222.108.82:2500/play/a0gz/index.m3u8
-#EXTINF:-1,ESPN HD
-http://177.222.108.82:2500/play/a0gy/index.m3u8
-#EXTINF:-1,ESPN HD
-http://177.222.108.82:2500/play/a0hp/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://177.222.108.82:2500/play/a0i0/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://177.222.108.82:2500/play/a0hl/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://177.222.108.82:2500/play/a0hh/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://177.222.108.82:2500/play/a0hy/index.m3u8
-#EXTINF:-1,ESPN 4
-http://177.222.108.82:2500/play/a0it/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://177.222.108.82:2500/play/a0ig/index.m3u8
-#EXTINF:-1,Food Network HD
-http://177.222.108.82:2500/play/a0h2/index.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://177.222.108.82:2500/play/a0is/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://177.222.108.82:2500/play/a0hz/index.m3u8
+
 #EXTINF:-1,Golden HD
 http://177.222.108.82:2500/play/a0gv/index.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -228,13 +240,6 @@ http://177.222.108.82:2500/play/a0h5/index.m3u8
 
 
 
-
-#EXTINF:-1,Fox Sports 1 HD
-http://181.78.208.254:8010/play/a05u/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://181.78.208.254:8010/play/a04c/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://181.78.208.254:8010/play/a00q/index.m3u8
 
 
 #EXTINF:-1,HBO
@@ -838,8 +843,6 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
 #EXTINF:-1 group-title="Bics DEPORTES",DEP | TYC Sports Internacional HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
 
-#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | FOX SPORTS 3 SD
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/981
 
 
 
