@@ -919,3 +919,13 @@ http://200.52.148.194:8000/play/a031/index.m3u8
 http://200.52.148.194:8000/play/a033/index.m3u8
 #EXTINF:-1,HBO2 HD
 http://200.52.148.194:8000/play/a030/index.m3u8
+#EXTINF:-1,Golden
+http://200.52.148.194:8000/play/a04k/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://200.52.148.194:8000/play/a02v/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://200.52.148.194:8000/play/a02u/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://200.52.148.194:8000/play/a0a2/index.m3u8
+#EXTINF:-1,National Geographic
+http://200.52.148.194:8000/play/a03n/index.m3u8
