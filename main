@@ -929,3 +929,87 @@ http://200.52.148.194:8000/play/a02u/index.m3u8
 http://200.52.148.194:8000/play/a0a2/index.m3u8
 #EXTINF:-1,National Geographic
 http://200.52.148.194:8000/play/a03n/index.m3u8
+
+
+
+
+
+#EXTINF:-1, PARAMOUNTCH
+http://38.56.109.19/play/a011/index.m3u8
+#EXTINF:-1,A&E
+http://38.56.109.19/play/a01b/index.m3u8
+#EXTINF:-1,AMC
+http://38.56.109.19/play/a01d/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://38.56.109.19/play/a00h/index.m3u8
+#EXTINF:-1,AXN
+http://38.56.109.19/play/a01c/index.m3u8
+#EXTINF:-1,CARTOON
+http://38.56.109.19/play/a01p/index.m3u8
+#EXTINF:-1,CINE CANAL
+http://38.56.109.19/play/a00s/index.m3u8
+#EXTINF:-1,CINEMAX
+http://38.56.109.19/play/a01j/index.m3u8
+#EXTINF:-1,CLOVER
+http://38.56.109.19/play/CLOVER/index.m3u8
+#EXTINF:-1,DISCOVERY
+http://38.56.109.19/play/a013/index.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://38.56.109.19/play/a01m/index.m3u8
+#EXTINF:-1,E!
+http://38.56.109.19/play/E!/index.m3u8
+#EXTINF:-1,ESPN
+http://38.56.109.19/play/ESPN/index.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://38.56.109.19/play/a00n/index.m3u8
+#EXTINF:-1,ESPN2
+http://38.56.109.19/play/a007/index.m3u8
+#EXTINF:-1,ESPN3
+http://38.56.109.19/play/a008/index.m3u8
+#EXTINF:-1,ESPN4
+http://38.56.109.19/play/a009/index.m3u8
+#EXTINF:-1,El Gourmet
+http://38.56.109.19/play/a01o/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://38.56.109.19/play/a01h/index.m3u8
+#EXTINF:-1,FOX2
+http://38.56.109.19/play/a00a/index.m3u8
+#EXTINF:-1,FOX3
+http://38.56.109.19/play/a00b/index.m3u8
+#EXTINF:-1,FX
+http://38.56.109.19/play/a00w/index.m3u8
+#EXTINF:-1,HISTORY
+http://38.56.109.19/play/a00d/index.m3u8
+#EXTINF:-1,HISTORY 2
+http://38.56.109.19/play/a00j/index.m3u8
+#EXTINF:-1,Lifetime
+http://38.56.109.19/play/a01a/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://38.56.109.19/play/a00c/index.m3u8
+#EXTINF:-1,SONY
+http://38.56.109.19/play/a014/index.m3u8
+#EXTINF:-1,SONY MOVIES
+http://38.56.109.19/play/a00q/index.m3u8
+#EXTINF:-1,SPACE
+http://38.56.109.19/play/a01k/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://38.56.109.19/play/a01f/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://38.56.109.19/play/a01n/index.m3u8
+#EXTINF:-1,TCM
+http://38.56.109.19/play/a019/index.m3u8
+#EXTINF:-1,TLC
+http://38.56.109.19/play/a012/index.m3u8
+#EXTINF:-1,TNT
+http://38.56.109.19/play/a00i/index.m3u8
+#EXTINF:-1,TNT NOVELAS
+http://38.56.109.19/play/a01e/index.m3u8
+#EXTINF:-1,TNT SERIES
+http://38.56.109.19/play/a01g/index.m3u8
+#EXTINF:-1,UNIVERSAL
+http://38.56.109.19/play/a00r/index.m3u8
+#EXTINF:-1,USA
+http://38.56.109.19/play/a00l/index.m3u8
+#EXTINF:-1,WB
+http://38.56.109.19/play/a016/index.m3u8
+
