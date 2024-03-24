@@ -17,7 +17,22 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
-
+#EXTINF:-1,ESPN
+http://191.97.49.195:8000/play/a016/index.m3u8
+#EXTINF:-1,ESPN 2
+http://191.97.49.195:8000/play/a00v/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://191.97.49.195:8000/play/a015/index.m3u8
+#EXTINF:-1,ESPN 3
+http://191.97.49.195:8000/play/a02b/index.m3u8
+#EXTINF:-1,ESPN 4
+http://191.97.49.195:8000/play/a01t/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://191.97.49.195:8000/play/a03t/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://191.97.49.195:8000/play/a04h/index.m3u8
+#EXTINF:-1,ESPN HD
+http://191.97.49.195:8000/play/a041/index.m3u8
 
 
 
