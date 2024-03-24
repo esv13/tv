@@ -805,60 +805,39 @@ http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN Extra  MX
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 PE
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1  SD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 PE HD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX SD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 2 AR
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185666
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 2 MX HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 3  AR HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/21220
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 3 MX HD  ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN Deportes SD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN Extra BRA
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/168997
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Deportes
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 ARG HD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 HD BRA
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 MEX HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 3 ARG HD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 3 HD MEX
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | SKY Sports 16 HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/149063
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports AR
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports ARG
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports 3 HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TUDN HD USA  ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TUDN USA FHD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TUDN USA
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TYC Sports Internacional HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png" group-title="TyC Sports",TyC Sports 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="TyC Sports",TyC Sports Internacional
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="TyC Sports",TyC Sports Internacional (op 2)
+http://177.53.153.21:8001/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 1
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 11
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 12
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
 
 #EXTINF:-1,ARENA SPORT 1
@@ -1428,6 +1407,52 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Disc
 
 
 
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV",El Gourmet
+https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT Novelas
+https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT Series
+https://router.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT
+https://router.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Space
+https://router.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Cinecanal
+https://router.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Star+
+https://router.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", FX
+https://router.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO
+https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO 2
+https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO+
+https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO Family
+https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO Xtreme
+https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO Mundi
+https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO Pop
+https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO Signature
+https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="C-TV", Universal TV
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="C-TV", Nickelodeon
+https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="C-TV", Cartoon Network
+https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
+##EXTINF: -1 tvg-name="" tvg-logo="" group-title="C-TV", Tooncast
+https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1,ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1,ESPN 2
@@ -1442,3 +1467,5 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Deportes",ESPN Argentina (60FPS)
+https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
