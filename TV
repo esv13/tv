@@ -439,7 +439,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4002
 
 #EXTINF:-1,Playboy HD
 http://8.242.175.221:8000/play/a042/index.m3u8
-#EXTINF:-1,VENUS
+#EXTINF:-1,VN
 http://45.5.117.3:4000/play/a04e/index.m3u8
 #EXTINF:-1,Playboy HD
 http://191.97.49.195:8000/play/a03y/index.m3u8
