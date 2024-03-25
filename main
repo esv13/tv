@@ -17,6 +17,27 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
+
+
+#EXTINF:-1 group-title="MÚSICA", Grandes del Rock
+https://musicsrc.cvattv.com.ar/RM18
+#EXTINF:-1group-title="MÚSICA", Internacional
+https://musicsrc.cvattv.com.ar/RM03
+#EXTINF:-1group-title="MÚSICA", 90's Internacional
+https://musicsrc.cvattv.com.ar/RM04
+#EXTINF:-1group-title="MÚSICA", 80's Internacional
+https://musicsrc.cvattv.com.ar/RM05
+#EXTINF:-1group-title="MÚSICA", 80's & 90's Internacional
+https://musicsrc.cvattv.com.ar/RM06
+#EXTINF:-1group-title="MÚSICA", Jazz
+https://musicsrc.cvattv.com.ar/RM37
+#EXTINF:-1group-title="MÚSICA", Smooth Jazz
+https://musicsrc.cvattv.com.ar/RM38
+#EXTINF:-1group-title="MÚSICA", Electrónica
+https://musicsrc.cvattv.com.ar/RM41
+
+
+
 #EXTINF:-1,ESPN
 http://191.97.49.195:8000/play/a016/index.m3u8
 #EXTINF:-1,ESPN 2
@@ -120,8 +141,30 @@ http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
 
 
 
-#EXTINF:-1, DMAX SPAIN
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+
+
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 1 La amenaza fantasma
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%201%20-%20La%20amenaza%20fantasma.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 2 El ataque de los clones
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%202%20-%20El%20ataque%20de%20los%20clones.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 3 La venganza de los sith
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%203%20-%20La%20venganza%20de%20los%20Sith.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 4 Una nueva esperanza
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%204%20-%20Una%20nueva%20esperanza.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 5 El imperio contraataca
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%205%20-%20El%20imperio%20contraataca.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 6 El retorno del jedi
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%206%20-%20El%20Retorno%20del%20Jedi.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 7 El despertar de la fuerza
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%207%20-%20El%20despertar%20de%20la%20fuerza.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 8 Los ultimos jedi
+https://ia802305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%208%20-%20Los%20ultimos%20Jedi.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 9 El ascenso de skywalker
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%20Ep.%209%20-%20El%20Ascenso%20de%20Skywalker.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",ROGUE ONE una historia de Star Wars
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",HAN SOLO una historia de Star Wars
+https://archive.org/download/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
 
 
 
@@ -319,23 +362,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
 
-
-#EXTINF:-1, Grandes del Rock
-https://musicsrc.cvattv.com.ar/RM18
-#EXTINF:-1, Internacional
-https://musicsrc.cvattv.com.ar/RM03
-#EXTINF:-1, 90's Internacional
-https://musicsrc.cvattv.com.ar/RM04
-#EXTINF:-1, 80's Internacional
-https://musicsrc.cvattv.com.ar/RM05
-#EXTINF:-1, 80's & 90's Internacional
-https://musicsrc.cvattv.com.ar/RM06
-#EXTINF:-1, Jazz
-https://musicsrc.cvattv.com.ar/RM37
-#EXTINF:-1, Smooth Jazz
-https://musicsrc.cvattv.com.ar/RM38
-#EXTINF:-1, Electrónica
-https://musicsrc.cvattv.com.ar/RM41
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", Tango Sports 
@@ -1450,7 +1476,22 @@ https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 
 
 
+#EXTINF:-1, DMAX SPAIN
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
 
+
+
+
+#EXTINF:-1 group-title="DEPORTES MX", TUDN  
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="DEPORTES MX", FOX SPORT 
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES MX", FOX SPORT 2 
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES MX", FOX SPORT 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES MX", FOX SPORT PREMIUM
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 
 
 #EXTINF:-1,ESPN
