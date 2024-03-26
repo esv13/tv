@@ -140,7 +140,8 @@ http://181.78.208.254:8010/play/a00q/index.m3u8
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
 
 
-
+#EXTINF:-1 tvg-id="SEO TV Películas" tvg-logo="https://i.postimg.cc/c4tRLMNS/seotv.jpg" group-title="Películas" tvg-name="SEO TV Películas",SEO TV Películas
+https://seo.tv.bo/tv/sTV4_HD.m3u8
 
 
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",STAR WARS 1 La amenaza fantasma
@@ -165,6 +166,23 @@ https://ia902305.us.archive.org/34/items/videotime-cine-latino/Star%20Wars%20-%2
 https://ia902305.us.archive.org/34/items/videotime-cine-latino/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4
 #EXTINF:-1,  tvg-logo="https://tecnoguia.net/wp-content/uploads/2020/10/Cineclub-APK.jpg" tvg-name="VIDEOHOME"  group-title="CINECLUB",HAN SOLO una historia de Star Wars
 https://archive.org/download/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
+
+
+EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" group-title="Deportes" , Teledeporte
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="Deportes" , FIFA+
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Deportes" , Tennis Channel
+https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" group-title="Deportes" , World Poker Tour
+https://i.mjh.nz/SamsungTVPlus/ESBD2900001P9.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300035DP_20220323T081930SQUARE.png_20220323081932.png" group-title="Deportes" , Trace Sportstars
+https://i.mjh.nz/SamsungTVPlus/ESBA3300035DP.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Deportes" , Surf Channel
+https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportes" , MyPadel TV
+https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
+
 
 
 
@@ -406,16 +424,19 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn2.us.m3u8
 
 
-
-#EXTINF:-1, NBC
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="Internacional", NBC Bay Area News
+https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="Internacional", ABC7 Bay Area
+https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+#EXTINF:-1 group-title="Internacional", NBC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3047
-#EXTINF:-1, NBC 12
+#EXTINF:-1 group-title="Internacional", NBC 12
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3048
-#EXTINF:-1, ABC
+#EXTINF:-1 group-title="Internacional", ABC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3043
-#EXTINF:-1, FOX
+#EXTINF:-1 group-title="Internacional", FOX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3044
-#EXTINF:-1, AXS TV Now
+#EXTINF:-1 group-title="Internacional", AXS TV Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3049
 
 
