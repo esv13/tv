@@ -57,15 +57,15 @@ http://191.97.49.195:8000/play/a041/index.m3u8
 
 
 
-#EXTINF:-1, Planeta TV Movies
+#EXTINF:-1 group-title="Movies", Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1950766089.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us",Sony Movie Channel (720p)
+#EXTINF:-1 tvg-id="SonyMovies.us" group-title="Movies",Sony Movie Channel (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Cinema Este
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="Movies",Universal Cinema Este
 http://190.149.66.90:4000/play/a056/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",ESPN
@@ -136,7 +136,6 @@ http://181.78.208.254:8010/play/a00q/index.m3u8
 
 
 #EXTINF:-1 group-title="Bics Extra", DISCOVERY H&H
-#EXTVLCOPT--http-reconnect=true
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
 
 
