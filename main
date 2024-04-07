@@ -1831,3 +1831,11 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png"  group-title="DEPORTES",ESPN Argentina (60FPS)
 https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1  group-title="DEPORTES", FOX SPORT 
+https://qn-01282-mun-1-01-2.flow-live.qwilted-cds.cqloud.com/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
+#EXTINF:-1  group-title="DEPORTES", Apple TV 
+https://drfmwsuckvgazety.cdnstrength.net:8443/hls/zneuwf.m3u8?s=VoeAlMD7plpHG7jAZc6kVw&e=1712471970
+#EXTINF:-1  group-title="DEPORTES", Apple TV  
+https://n3.totototorina.com:999/hls/mlspasshd2.m3u8?md5=HlSMtcLW3tgO5F5zaCg2hg&expires=1712457582
