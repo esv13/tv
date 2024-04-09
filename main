@@ -77,6 +77,17 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Movies",Cine (EU) (Spanish)
 https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="Movies",Dove Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove-channel/0ff5b3b6-cfe1-40bc-a4ae-51ee522e56d8/1.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 , aMC stories by
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 , aMC Thriller
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
@@ -458,7 +469,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3043
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3044
 #EXTINF:-1 group-title="Internacional" tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-
+#EXTINF:-1 group-title="Internacional" ,NBC Boston News
+https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Chicago News
+https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Los Angeles News
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC New York
+http://38.96.178.201/live/NBCHD/index.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+https://live-manifest.production-public.tubi.io/live/nbc-news-now/h264/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="Internacional",NBC New York News
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Philadelphia News
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC San Francisco News
+https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Washington News
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"  group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
@@ -506,10 +538,6 @@ https://ythlsgo.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 
 
