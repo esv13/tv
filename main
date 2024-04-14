@@ -1106,133 +1106,133 @@ http://45.71.252.67:8000/play/a0gt/index.m3u8
 http://45.71.252.67:8000/play/a0fw/index.m3u8
 
 
-#EXTINF:-1,26TV
+#EXTINF:-1 group-title="TV CABLE",26TV
 http://45.5.151.151:8000/play/a0e1/index.m3u8
-#EXTINF:-1,A&E
+#EXTINF:-1 group-title="TV CABLE",A&E
 http://45.5.151.151:8000/play/a0kn/index.m3u8
-#EXTINF:-1,A24
+#EXTINF:-1 group-title="TV CABLE",A24
 http://45.5.151.151:8000/play/a0dy/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="TV CABLE",AMC
 http://45.5.151.151:8000/play/a0kv/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="TV CABLE",AXN
 http://45.5.151.151:8000/play/a0jz/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="TV CABLE",America TV HD
 http://45.5.151.151:8000/play/a0c7/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="TV CABLE",Animal Planet
 http://45.5.151.151:8000/play/a0k4/index.m3u8
-#EXTINF:-1,C5N
+#EXTINF:-1 group-title="TV CABLE",C5N
 http://45.5.151.151:8000/play/a018/index.m3u8
-#EXTINF:-1,CINECANAL HD
+#EXTINF:-1 group-title="TV CABLE",CINECANAL HD
 http://45.5.151.151:8000/play/a0jd/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="TV CABLE",Cartoon Network
 http://45.5.151.151:8000/play/a0ir/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="TV CABLE",Cinemax
 http://45.5.151.151:8000/play/a0bu/index.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 group-title="TV CABLE",Comedy Central
 http://45.5.151.151:8000/play/a01p/index.m3u8
-#EXTINF:-1,Crðnica
+#EXTINF:-1 group-title="TV CABLE",Crðnica
 http://45.5.151.151:8000/play/a0kq/index.m3u8
-#EXTINF:-1,DeporTV
+#EXTINF:-1 group-title="TV CABLE",DeporTV
 http://45.5.151.151:8000/play/a0f2/index.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="TV CABLE",Discovery Channel
 http://45.5.151.151:8000/play/a0ko/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="TV CABLE",Discovery Kids
 http://45.5.151.151:8000/play/a08v/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="TV CABLE",Discovery Turbo
 http://45.5.151.151:8000/play/a01f/index.m3u8
-#EXTINF:-1,Disney Channel HD
+#EXTINF:-1 group-title="TV CABLE",Disney Channel HD
 http://45.5.151.151:8000/play/a0en/index.m3u8
-#EXTINF:-1,Disney JR
+#EXTINF:-1 group-title="TV CABLE",Disney JR
 http://45.5.151.151:8000/play/a0jt/index.m3u8
-#EXTINF:-1,E!
+#EXTINF:-1 group-title="TV CABLE",E!
 http://45.5.151.151:8000/play/a0km/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="TV CABLE",ESPN 2 HD
 http://45.5.151.151:8000/play/a0cb/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="TV CABLE",ESPN 3
 http://45.5.151.151:8000/play/a0hx/index.m3u8
-#EXTINF:-1,ESPN Extra HD
+#EXTINF:-1 group-title="TV CABLE",ESPN Extra HD
 http://45.5.151.151:8000/play/a0ix/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="TV CABLE",ESPN HD
 http://45.5.151.151:8000/play/a0cc/index.m3u8
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1 group-title="TV CABLE",ESPN Premium HD
 http://45.5.151.151:8000/play/a0fe/index.m3u8
-#EXTINF:-1,El Canal de las Estrellas
+#EXTINF:-1 group-title="TV CABLE",El Canal de las Estrellas
 http://45.5.151.151:8000/play/a0f9/index.m3u8
-#EXTINF:-1,El Gourmet
+#EXTINF:-1 group-title="TV CABLE",El Gourmet
 http://45.5.151.151:8000/play/a0iu/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="TV CABLE",FX HD
 http://45.5.151.151:8000/play/a088/index.m3u8
-#EXTINF:-1,Film & Arts HD
+#EXTINF:-1 group-title="TV CABLE",Film & Arts HD
 http://45.5.151.151:8000/play/a02j/index.m3u8
-#EXTINF:-1,Fox Sport 3
+#EXTINF:-1 group-title="TV CABLE",Fox Sport 3
 http://45.5.151.151:8000/play/a0jy/index.m3u8
-#EXTINF:-1,Fox Sports 2 HD
+#EXTINF:-1 group-title="TV CABLE",Fox Sports 2 HD
 http://45.5.151.151:8000/play/a0ce/index.m3u8
-#EXTINF:-1,Fox Sports HD
+#EXTINF:-1 group-title="TV CABLE",Fox Sports HD
 http://45.5.151.151:8000/play/a0bf/index.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 group-title="TV CABLE",HBO Family HD
 http://45.5.151.151:8000/play/a0jj/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="TV CABLE",HBO HD
 http://45.5.151.151:8000/play/a0jg/index.m3u8
-#EXTINF:-1,HBO Plus HD
+#EXTINF:-1 group-title="TV CABLE",HBO Plus HD
 http://45.5.151.151:8000/play/a0ji/index.m3u8
-#EXTINF:-1,HBO XTREME
+#EXTINF:-1 group-title="TV CABLE",HBO XTREME
 http://45.5.151.151:8000/play/a0jk/index.m3u8
-#EXTINF:-1,HBO2 HD
+#EXTINF:-1 group-title="TV CABLE",HBO2 HD
 http://45.5.151.151:8000/play/a0jh/index.m3u8
-#EXTINF:-1,History HD
+#EXTINF:-1 group-title="TV CABLE",History HD
 http://45.5.151.151:8000/play/a0k1/index.m3u8
-#EXTINF:-1,I-Sat
+#EXTINF:-1 group-title="TV CABLE",I-Sat
 http://45.5.151.151:8000/play/a0f5/index.m3u8
-#EXTINF:-1,La Nacion TV
+#EXTINF:-1 group-title="TV CABLE",La Nacion TV
 http://45.5.151.151:8000/play/a0e2/index.m3u8
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="TV CABLE",MTV HD
 http://45.5.151.151:8000/play/a0k3/index.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="TV CABLE",National Geographic
 http://45.5.151.151:8000/play/a0jx/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="TV CABLE",Nick Jr
 http://45.5.151.151:8000/play/a0jr/index.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="TV CABLE",Nickelodeon
 http://45.5.151.151:8000/play/a0c1/index.m3u8
-#EXTINF:-1,Paramount
+#EXTINF:-1 group-title="TV CABLE",Paramount
 http://45.5.151.151:8000/play/a0je/index.m3u8
-#EXTINF:-1,SONY HD
+#EXTINF:-1 group-title="TV CABLE",SONY HD
 http://45.5.151.151:8000/play/a0jq/index.m3u8
-#EXTINF:-1,SPACE
+#EXTINF:-1 group-title="TV CABLE",SPACE
 http://45.5.151.151:8000/play/a0kp/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 group-title="TV CABLE",STAR CHANNEL HD
 http://45.5.151.151:8000/play/a0jo/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 group-title="TV CABLE",Studio Universal
 http://45.5.151.151:8000/play/a08h/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="TV CABLE",TCM
 http://45.5.151.151:8000/play/a0e8/index.m3u8
-#EXTINF:-1,TN HD
+#EXTINF:-1 group-title="TV CABLE",TN HD
 http://45.5.151.151:8000/play/a0kh/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="TV CABLE",TNT HD
 http://45.5.151.151:8000/play/a0fi/index.m3u8
-#EXTINF:-1,TNT Novelas
+#EXTINF:-1 group-title="TV CABLE",TNT Novelas
 http://45.5.151.151:8000/play/a0jw/index.m3u8
-#EXTINF:-1,TNT Series
+#EXTINF:-1 group-title="TV CABLE",TNT Series
 http://45.5.151.151:8000/play/a0ka/index.m3u8
-#EXTINF:-1,TNT Sports HD
+#EXTINF:-1 group-title="TV CABLE",TNT Sports HD
 http://45.5.151.151:8000/play/a002/index.m3u8
-#EXTINF:-1,TV Publica HD
+#EXTINF:-1 group-title="TV CABLE",TV Publica HD
 http://45.5.151.151:8000/play/a0j5/index.m3u8
-#EXTINF:-1,Telefe HD
+#EXTINF:-1 group-title="TV CABLE",Telefe HD
 http://45.5.151.151:8000/play/a0kf/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 group-title="TV CABLE",Telemundo
 http://45.5.151.151:8000/play/a0ju/index.m3u8
-#EXTINF:-1,TyC Sports HD
+#EXTINF:-1 group-title="TV CABLE",TyC Sports HD
 http://45.5.151.151:8000/play/a0eo/index.m3u8
-#EXTINF:-1,Universal HD
+#EXTINF:-1 group-title="TV CABLE",Universal HD
 http://45.5.151.151:8000/play/a0cl/index.m3u8
-#EXTINF:-1,WARNER HD
+#EXTINF:-1 group-title="TV CABLE",WARNER HD
 http://45.5.151.151:8000/play/a0jp/index.m3u8
-#EXTINF:-1,ciudad magazine
+#EXTINF:-1 group-title="TV CABLE",ciudad magazine
 http://45.5.151.151:8000/play/a020/index.m3u8
-#EXTINF:-1,el nueve HD
+#EXTINF:-1 group-title="TV CABLE",el nueve HD
 http://45.5.151.151:8000/play/a0bj/index.m3u8
-#EXTINF:-1,el trece HD
+#EXTINF:-1 group-title="TV CABLE",el trece HD
 http://45.5.151.151:8000/play/a0cp/index.m3u8
 
 
