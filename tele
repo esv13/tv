@@ -10,6 +10,29 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
+Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
+Run Time Thriller y Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
+Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+Run Time Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:-1 group-title="Movies", Xtrema Cine Familia
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 group-title="Movies", Xtrema Cine Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1, Film Stream 电影
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1, TELEFE
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
