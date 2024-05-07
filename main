@@ -222,8 +222,45 @@ http://185.133.36.238:8080/play/3670/index.m3u8
 http://185.133.36.238:8080/play/3672/index.m3u8
 #EXTINF:0 group-title="Internacional",ZDF
 http://185.133.36.238:8080/play/3724/index.m3u8
+#EXTINF:-1 group-title="Internacional",Zina TV Wild
+http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="Internacional", NBC Bay Area News
+https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="Internacional", ABC7 Bay Area
+https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+#EXTINF:-1 group-title="Internacional", NBC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3047
+#EXTINF:-1 group-title="Internacional", NBC 12
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3048
+#EXTINF:-1 group-title="Internacional", ABC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3043
+#EXTINF:-1 group-title="Internacional", FOX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3044
+#EXTINF:-1 group-title="Internacional" tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 group-title="Internacional" ,NBC Boston News
+https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Chicago News
+https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Los Angeles News
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC New York
+http://38.96.178.201/live/NBCHD/index.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+https://live-manifest.production-public.tubi.io/live/nbc-news-now/h264/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="Internacional",NBC New York News
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Philadelphia News
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC San Francisco News
+https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Washington News
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1,ESPN
@@ -438,42 +475,6 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn2.us.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="Internacional", NBC Bay Area News
-https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="Internacional", ABC7 Bay Area
-https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
-#EXTINF:-1 group-title="Internacional", NBC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3047
-#EXTINF:-1 group-title="Internacional", NBC 12
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3048
-#EXTINF:-1 group-title="Internacional", ABC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3043
-#EXTINF:-1 group-title="Internacional", FOX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3044
-#EXTINF:-1 group-title="Internacional" tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 group-title="Internacional" ,NBC Boston News
-https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Chicago News
-https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Los Angeles News
-https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC New York
-http://38.96.178.201/live/NBCHD/index.m3u8
-#EXTINF:-1 group-title="Internacional",NBC News
-https://live-manifest.production-public.tubi.io/live/nbc-news-now/h264/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC News
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 group-title="Internacional",NBC New York News
-https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Philadelphia News
-https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC San Francisco News
-https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Washington News
-https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"  group-title="DEPORTES", TUDN México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
