@@ -314,6 +314,24 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
+
+
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 1 HD
+http://201.159.113.219:49000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 2 HD
+http://201.159.113.219:49000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
+http://200.60.124.19:29000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",PREMIER SPORTS 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,PREMIER SPORTS 2
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",PREMIER SPORTS 3
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",PREMIER SPORTS 4
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,PREMIER SPORTS 5
+http://202.21.104.6:88/sps-plus/index.m3u8
 EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" group-title="DEPORTES" , Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png"group-title="DEPORTES" , FIFA+
@@ -327,6 +345,60 @@ https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="DEPORTES" , MyPadel TV
 https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
 
+#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="DEPORTES",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="DEPORTES",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+
+
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://181.78.78.105:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 Latin HD
+http://181.78.78.105:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://181.78.78.105:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://181.78.78.105:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN CO
+http://181.78.78.105:8000/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA
+http://181.78.78.105:8000/play/a0jt/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
+http://181.78.78.105:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3
+http://181.78.78.105:8000/play/a08h/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TELEFE Deportes
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1    tvg-logo="https://wowelsalvador.com/imagen/logo2.png", Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tdp.es" tvg-logo=""  group-title="DEPORTES" tvg-chno=" ",TVE Teledeporte
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="GolPlay.es" tvg-logo=""  group-title="DEPORTES" tvg-chno=" ",Gol Play
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live"  group-title="DEPORTES" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live"  group-title="DEPORTES" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn2.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"  group-title="DEPORTES", TUDN México
+https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", EUROSPORT 1
+http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png"  group-title="DEPORTES" tvg-chno=" ",Esport 3
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="DEPORTES" tvg-chno=" ",Extrême Sports Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png" group-title="DEPORTES", All Sports | BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg"  group-title="DEPORTES", PAC 12
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="DEPORTES" logo="https://i.postimg.cc/P5FPcT6H/20221004-174618.png", KOZOOM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 
 
 #EXTINF: -1 tvg-id="CMElCanaldelaMusica.ar" tvg-name="CM El Canal de la Musica" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-one-103-7/play_250_250.jpg" group-title="Música",OneRadio TV
@@ -434,64 +506,6 @@ http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
 http://50.7.137.106:8080/AXN/index.m3u8?token=test
 
 
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="DEPORTES",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="DEPORTES",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-
-
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://181.78.78.105:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 Latin HD
-http://181.78.78.105:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3
-http://181.78.78.105:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4
-http://181.78.78.105:8000/play/a08n/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN CO
-http://181.78.78.105:8000/play/a0gj/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA
-http://181.78.78.105:8000/play/a0jt/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
-http://181.78.78.105:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3
-http://181.78.78.105:8000/play/a08h/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", TELEFE Deportes
-https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1    tvg-logo="https://wowelsalvador.com/imagen/logo2.png", Canal Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tdp.es" tvg-logo=""  group-title="DEPORTES" tvg-chno=" ",TVE Teledeporte
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="GolPlay.es" tvg-logo=""  group-title="DEPORTES" tvg-chno=" ",Gol Play
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live"  group-title="DEPORTES" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live"  group-title="DEPORTES" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn2.us.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"  group-title="DEPORTES", TUDN México
-https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", EUROSPORT 1
-http://54.39.17.6/eurosport/mono.m3u8
-#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png"  group-title="DEPORTES" tvg-chno=" ",Esport 3
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="DEPORTES" tvg-chno=" ",Extrême Sports Channel
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png" group-title="DEPORTES", All Sports | BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg"  group-title="DEPORTES", PAC 12
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="DEPORTES" logo="https://i.postimg.cc/P5FPcT6H/20221004-174618.png", KOZOOM TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 #EXTINF:-1 group-title="CURIOSIDAD", Yachting
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 
@@ -769,8 +783,6 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://190.0.241.181:8000/play/a06q/index.m3u8
 #EXTINF:-1,ACM HD
 http://190.0.241.181:8000/play/a01e/index.m3u8
-#EXTINF:-1,ATRES SERIES HD
-http://190.0.241.181:8000/play/a04o/index.m3u8
 #EXTINF:-1,AXN HD
 http://190.0.241.181:8000/play/a04m/index.m3u8
 #EXTINF:-1,America TV HD
@@ -779,8 +791,6 @@ http://190.0.241.181:8000/play/a03a/index.m3u8
 http://190.0.241.181:8000/play/a00y/index.m3u8
 #EXTINF:-1,CINEFAMILIAR
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
-#EXTINF:-1,CINEHISPANO
-http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
 #EXTINF:-1,CINEPREMIUM
 http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -789,14 +799,14 @@ http://190.0.241.181:8000/play/a00l/index.m3u8
 http://190.0.241.181:8000/play/a01h/index.m3u8
 #EXTINF:-1,Cinemax HD
 http://190.0.241.181:8000/play/a04p/index.m3u8
-#EXTINF:-1,City TV
-http://190.0.241.181:8000/play/a06o/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://190.0.241.181:8000/play/a04q/index.m3u8
-#EXTINF:-1,DHE
-http://190.0.241.181:8000/play/DHE/index.m3u8
-#EXTINF:-1,De Pelicula
-http://190.0.241.181:8000/play/a06s/index.m3u8
+#EXTINF:-1,DISCOVERY CHANEL HD
+http://204.199.122.4:8000/play/c012/index.m3u8
+#EXTINF:-1,DISC THEATHER HD
+http://201.159.113.219:49000/play/a050/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://201.159.113.219:49000/play/a05k/index.m3u8
 #EXTINF:-1,Discovery H&H HD
 http://190.0.241.181:8000/play/a039/index.m3u8
 #EXTINF:-1,Discovery Theater HD
@@ -809,6 +819,8 @@ http://190.0.241.181:8000/play/a051/index.m3u8
 http://190.0.241.181:8000/play/a05q/index.m3u8
 #EXTINF:-1,E! HD
 http://190.0.241.181:8000/play/a03f/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.0.241.181:8000/play/a03c/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://190.0.241.181:8000/play/a06z/index.m3u8
 #EXTINF:-1,ESPN 3 HD
@@ -817,22 +829,18 @@ http://190.0.241.181:8000/play/a02e/index.m3u8
 http://190.0.241.181:8000/play/a033/index.m3u8
 #EXTINF:-1,ESPN HD
 http://190.0.241.181:8000/play/a03k/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.0.241.181:8000/play/a03c/index.m3u8
-#EXTINF:-1,EWTN
-http://190.0.241.181:8000/play/a02z/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://190.0.241.181:8000/play/a02j/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://190.0.241.181:8000/play/a02f/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://190.0.241.181:8000/play/a038/index.m3u8
 #EXTINF:-1,Eurochannel
 http://190.0.241.181:8000/play/a071/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://190.0.241.181:8000/play/a02j/index.m3u8
 #EXTINF:-1,FX HD
 http://190.0.241.181:8000/play/a02k/index.m3u8
 #EXTINF:-1,Food Network HD
 http://190.0.241.181:8000/play/a04v/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://190.0.241.181:8000/play/a02f/index.m3u8
 #EXTINF:-1,Golden HD
 http://190.0.241.181:8000/play/a04u/index.m3u8
 #EXTINF:-1,HTV
@@ -841,6 +849,19 @@ http://190.0.241.181:8000/play/a06u/index.m3u8
 http://190.0.241.181:8000/play/a010/index.m3u8
 #EXTINF:-1,History Channel HD
 http://190.0.241.181:8000/play/a04k/index.m3u8
+
+#EXTINF:-1,HBO HD
+http://201.159.113.219:49000/play/a00l/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://201.159.113.219:49000/play/a00n/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://201.159.113.219:49000/play/a00p/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://201.159.113.219:49000/play/a00m/index.m3u8
+#EXTINF:-1,HBO Signature
+http://200.60.124.19:29000/play/a090/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://201.159.113.219:49000/play/a00o/index.m3u8
 #EXTINF:-1,ID HD
 http://190.0.241.181:8000/play/a02g/index.m3u8
 #EXTINF:-1,LOVE NATURE
