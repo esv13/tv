@@ -868,6 +868,8 @@ http://190.0.241.181:8000/play/a02g/index.m3u8
 http://190.0.241.181:8000/play/LOVENATURE/index.m3u8
 #EXTINF:-1,Lifetime
 http://190.0.241.181:8000/play/a06v/index.m3u8
+#EXTINF:-1,Concert Channel
+http://45.228.234.30:16000/play/a022/index.m3u8
 #EXTINF:-1,MTV 00s
 http://190.0.241.181:8000/play/a05v/index.m3u8
 #EXTINF:-1,MTV HD
