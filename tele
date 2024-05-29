@@ -82,6 +82,23 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Dis
 #EXTINF:-1, Discovery HGTV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
 
+#EXTINF:-1 ,HBO
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF:-1 ,HBO 2
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF:-1 ,HBO +
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Extreme
+https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Family
+https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Mundi
+https://delivery.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+#EXTINF:-1 ,Cinemax
+https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Pop
+https://delivery.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+
 #EXTINF:-1,HBO Family HD
 http://45.5.151.151:8000/play/a0jj/index.m3u8
 #EXTINF:-1,HBO HD
