@@ -63,6 +63,22 @@ https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF:-24 tvg-logo="http://www.plexmx.club/canales/431.png" group-title="HBO PREMIUM", HBO Plus
 https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO
+https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO 2
+https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO+
+https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Family
+https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Xtreme
+https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Mundi
+https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Pop
+https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Signature
+https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES ARG",TNT SPORTS
 https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
@@ -326,7 +342,8 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVShowsSpain"group-title="rakuten",Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:11 group-title="Internacional",Animal Planet
 http://185.133.36.238:8080/play/3686/index.m3u8
 #EXTINF:0 group-title="Internacional",BBC First
@@ -434,7 +451,8 @@ http://191.97.49.195:8000/play/a04h/index.m3u8
 http://191.97.49.195:8000/play/a041/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Movies" tvg-logo="CrackleXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Movies",Crackle 
+http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Movies",Planeta Kids
