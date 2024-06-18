@@ -904,6 +904,62 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="DEPORTES", TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
+#EXTINF:0,Brazzers TV
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00z
+#EXTINF:0,Dorcel HD
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a001
+#EXTINF:0,Dorcel TV HD XXX
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00h
+#EXTINF:0,Dream Porn HD
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00k
+#EXTINF:0,Dusk
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00y
+#EXTINF:0,ERO XXX HD
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00q
+#EXTINF:0,Extasy 4K
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00v
+#EXTINF:0,Hustler  
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00u
+#EXTINF:0,Hustler  HD
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00g
+#EXTINF:0,Penthouse Gold
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a003
+#EXTINF:0,Penthouse Quickies
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a008
+#EXTINF:0,Redlight HD
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a004
+#EXTINF:0,SuperONE HD
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00f
+#EXTINF:0,TEEN TV
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/6006
+#EXTINF:0,TEEN TV
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00x
+#EXTINF:0,Venus
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00w
+#EXTINF:0,Vivid evropa
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00l
+#EXTINF:0,XXL
+#EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/x00d
+#EXTINF:0,bridge tv #EXTVLCOPT:network-caching=1000
+http://31.131.136.4:8000/play/a00s
 
 #EXTINF:-1,A&E
 http://190.0.241.181:8000/play/a06q/index.m3u8
