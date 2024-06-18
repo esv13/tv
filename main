@@ -369,59 +369,35 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVShowsSpain"group-title="rakuten",Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:11 group-title="Internacional",Animal Planet
-http://185.133.36.238:8080/play/3686/index.m3u8
-#EXTINF:0 group-title="Internacional",BBC First
-http://185.133.36.238:8080/play/3730/index.m3u8
-#EXTINF:0 group-title="Internacional",BBC One
-http://185.133.36.238:8080/play/3731/index.m3u8
-#EXTINF:0 group-title="Internacional",BBC Two
-http://185.133.36.238:8080/play/3732/index.m3u8
-#EXTINF:0 group-title="Internacional",Das Erste
-http://185.133.36.238:8080/play/3722/index.m3u8
-#EXTINF:0 group-title="Internacional",Discovery Channel
-http://185.133.36.238:8080/play/3680/index.m3u8
-#EXTINF:0 group-title="Internacional",Discovery Science
-http://185.133.36.238:8080/play/3681/index.m3u8
-#EXTINF:0 group-title="Internacional",Disney Channel DE
-http://185.133.36.238:8080/play/3725/index.m3u8
-#EXTINF:0 group-title="Internacional",Disney Channel EN
-http://185.133.36.238:8080/play/3734/index.m3u8
-#EXTINF:0 group-title="Internacional",NET 5
-http://185.133.36.238:8080/play/3671/index.m3u8
-#EXTINF:0 group-title="Internacional",NPO 1
-http://185.133.36.238:8080/play/3656/index.m3u8
-#EXTINF:0 group-title="Internacional",NPO 2
-http://185.133.36.238:8080/play/3657/index.m3u8
-#EXTINF:0 group-title="Internacional",NPO 3
-http://185.133.36.238:8080/play/3658/index.m3u8
-#EXTINF:0 group-title="Internacional",ProSieben
-http://185.133.36.238:8080/play/3723/index.m3u8
-#EXTINF:0 group-title="Internacional",RTL 4
-http://185.133.36.238:8080/play/3663/index.m3u8
-#EXTINF:0 group-title="Internacional",RTL 5
-http://185.133.36.238:8080/play/3664/index.m3u8
-#EXTINF:0 group-title="Internacional",RTL 7
-http://185.133.36.238:8080/play/3665/index.m3u8
-#EXTINF:0 group-title="Internacional",RTL 8
-http://185.133.36.238:8080/play/3666/index.m3u8
-#EXTINF:0 group-title="Internacional",RTL Television
-http://185.133.36.238:8080/play/3720/index.m3u8
-#EXTINF:0 group-title="Internacional",RTL Z
-http://185.133.36.238:8080/play/3667/index.m3u8
-#EXTINF:0 group-title="Internacional",RTL2
-http://185.133.36.238:8080/play/3721/index.m3u8
-#EXTINF:0 group-title="Internacional",SBS 6
-http://185.133.36.238:8080/play/3670/index.m3u8
-#EXTINF:0 group-title="Internacional",Veronica - DisneyXD
-http://185.133.36.238:8080/play/3672/index.m3u8
-#EXTINF:0 group-title="Internacional",ZDF
-http://185.133.36.238:8080/play/3724/index.m3u8
 #EXTINF:-1 group-title="Internacional",Zina TV Wild
 http://85.237.89.6:9590/live/zinatvwild/index.m3u8
-
+#EXTINF:-1 group-title="Internacional" tvg-id="NatureTime.es",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="XPTV1.es",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="XPTV2.es",XPTV2 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="XPTVUS.es",XPTV US (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg"  group-title="Internacional", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="Internacional", TODAY All Day
+https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
+#EXTINF:-1 group-title="Internacional",TMZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
+#EXTINF:-1  group-title="Internacional" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" ,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/9/14/NBCNewsNow-Logo-White-344x300.png" ,NBC News NOW
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",WTTWDT
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+#EXTINF:-1 group-title="Internacional", Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="Internacional", NBC Bay Area News
 https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="Internacional", ABC7 Bay Area
@@ -458,7 +434,10 @@ https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
 https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Internacional",NBC Washington News
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 group-title="Internacional", Yachting
+https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Internacional", AXS TV Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3049
 
 #EXTINF:-1,ESPN
 http://191.97.49.195:8000/play/a016/index.m3u8
@@ -724,15 +703,6 @@ http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
 http://50.7.137.106:8080/AXN/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="CURIOSIDAD", Yachting
-https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg" group-title="CURIOSIDAD", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="CURIOSIDAD", AXS TV Now
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3049
 
 
 
@@ -752,51 +722,51 @@ https://bit.ly/3vwaDmO?profile=inspirationFreetv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="" group-title="Usa" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-name=""  group-title="Internacional" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸
 http://170.254.18.106/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="" group-title="Usa" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+ East 🇺🇸
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name=""  group-title="Internacional" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+ East 🇺🇸
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Internacional"tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png",AMC 🇺🇸 🟤
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/amcThrillers.webp",AMC Thrillers 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Internacional" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/amcThrillers.webp",AMC Thrillers 🇺🇸 🟤
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/amcStorie.webp",AMC Stories 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="Internacional" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/amcStorie.webp",AMC Stories 🇺🇸 🟤
 https://bit.ly/3CmcVEq?profile=inspirationFreetv.m3u8
 
 
-#EXTINF:-1 group-title="Usa" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇮🇳🇺🇸
+#EXTINF:-1  group-title="Internacional" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
-#EXTINF:-1 group-title="Usa" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇮🇳🇺🇸
+#EXTINF:-1  group-title="Internacional" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-#EXTINF:-1 group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇮🇳🇺🇸
+#EXTINF:-1  group-title="Internacional" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
-#EXTINF:-1 group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇮🇳🇺🇸
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TLC.png",TLC 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
-#EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTVᴴᴰ 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTVᴴᴰ 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/AGTV.m3u8
-#EXTINF:-1 tvg-id="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTVᴴᴰ 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTVᴴᴰ 🇮🇳🇺🇸
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 
 
-#EXTINF:-1 tvg-id="CABC5200022N1" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png",HomeFulᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="CABC5200022N1" tvg-name=""  group-title="Internacional" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png",HomeFulᴴᴰ 🇺🇸 🟤
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="CHBA330002991" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieDome.jpg",MovieDome 🇺🇸 🟤
+#EXTINF:-1 tvg-id="CHBA330002991" tvg-name="" group-title="Internacional" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieDome.jpg",MovieDome 🇺🇸 🟤
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
-#EXTINF:-1 tvg-id="USBD270001633" tvg-name="" group-title="Usa" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",Hallmark Movies & Moreᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="USBD270001633" tvg-name=""  group-title="Internacional" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",Hallmark Movies & Moreᴴᴰ 🇺🇸 🟤
 https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
-#EXTINF:-1 tvg-id="62e949f0cec1e60007f03314" tvg-name="" group-title="Usa" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png",More NCISᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="62e949f0cec1e60007f03314" tvg-name=""  group-title="Internacional" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png",More NCISᴴᴰ 🇺🇸 🟤
 https://bit.ly/421jtVE?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="65653817c917a5000844bc30" tvg-name="" group-title="Usa" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png",Criminal Mindsᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="65653817c917a5000844bc30" tvg-name="" group-title="Internacional"tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png",Criminal Mindsᴴᴰ 🇺🇸 🟤
 https://bit.ly/3Hpns4O?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/CSI_Logo.png",CSI 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/CSI_Logo.png",CSI 🇺🇸 🟤
 https://bit.ly/csi_inspiration_m3u8
-#EXTINF:-1 tvg-id="6310cbee5a8ad300070fdb7c" group-title="Usa" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png",Best of The Drew Barrymore Showᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="6310cbee5a8ad300070fdb7c"  group-title="Internacional" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png",Best of The Drew Barrymore Showᴴᴰ 🇺🇸 🟤
 https://bit.ly/3S4gU0t?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Usa" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ConanOBrientv.png",Conan O'Brienᴴᴰ 🇺🇸 🟤
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="Internacional" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ConanOBrientv.png",Conan O'Brienᴴᴰ 🇺🇸 🟤
 https://bit.ly/3QsvP3A?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="62e91da1f07afa0007ffccfc" tvg-name="" group-title="Usa" tvg-logo="https://images.pluto.tv/channels/62e91da1f07afa0007ffccfc/colorLogoPNG.png", The Ed Sullivan Show 🇧🇷🇺🇸 🟤
+#EXTINF:-1 tvg-id="62e91da1f07afa0007ffccfc" tvg-name="" group-title="Internacional" tvg-logo="https://images.pluto.tv/channels/62e91da1f07afa0007ffccfc/colorLogoPNG.png", The Ed Sullivan Show 🇧🇷🇺🇸 🟤
 https://bit.ly/49l8yIL?profile=inspirationFreetv.m3u8
 
 
@@ -854,22 +824,6 @@ https://live-News-manifest.tubi.video/live-News-manifest/csm/extlive/tubiprd01,N
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg" group-title="CURIOSIDAD", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1, TODAY All Day
-https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
-#EXTINF:-1,TMZ
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
-#EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" ,Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/9/14/NBCNewsNow-Logo-White-344x300.png" ,NBC News NOW
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",WTTWDT
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
-#EXTINF:-1, Yahoo Finance
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 
 
@@ -940,23 +894,6 @@ http://200.52.148.194:8000/play/a0a2/index.m3u8
 #EXTINF:-1,National Geographic
 http://200.52.148.194:8000/play/a03n/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1, DMAX SPAIN
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Historia.es",Historia (1080p)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="NatureTime.es",NatureTime
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-#EXTINF:-1 tvg-id="XPTV1.es",XPTV1 (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 tvg-id="XPTV2.es",XPTV2 (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 tvg-id="XPTVUS.es",XPTV US (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 
 
 
