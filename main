@@ -80,6 +80,23 @@ https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Signature
 https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 
+
+
+
+#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL CINEMA ESTE HD
+http://38.252.238.204:6102/play/a03g/index.m3u8
+#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL COMEDY HD
+http://38.252.238.204:6102/play/a032/index.m3u8
+#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL CRIME HD
+http://38.252.238.204:6102/play/a031/index.m3u8
+#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL PREMIERE HD
+http://38.252.238.204:6102/play/a02y/index.m3u8
+#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL PREMIERE O HD
+http://38.252.238.204:6102/play/a02z/index.m3u8
+#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL REALITY HD
+http://38.252.238.204:6102/play/a030/index.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES ARG",TNT SPORTS
 https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES ARG",ESPN PREMIUM
@@ -131,6 +148,16 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="DEPORTES ARG", Eventos 12
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
+#EXTINF:-1 group-title="TV CABLE",DISC THEATHER HD
+http://38.252.238.204:6102/play/a02s/index.m3u8
+#EXTINF:-1 group-title="TV CABLE",Discovery Channel HD
+http://38.252.238.204:6102/play/a03b/index.m3u8
+#EXTINF:-1 group-title="TV CABLE",Discovery World HD
+http://38.252.238.204:6102/play/a03c/index.m3u8
+#EXTINF:-1 group-title="TV CABLE",History HD
+http://38.252.238.204:6102/play/a010/index.m3u8
+#EXTINF:-1 group-title="TV CABLE",Home & Health HD
+http://38.252.238.204:6102/play/a02t/index.m3u8
 #EXTINF:-1 group-title="TV CABLE", History
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
 #EXTINF:-1 group-title="TV CABLE", Discovery
