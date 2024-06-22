@@ -522,15 +522,15 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",RTP3 
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN 11 HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN HD
 http://38.43.151.206:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN 22 HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN 2 HD
 http://38.43.151.206:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN 33 HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN 3 HD
 http://38.43.151.206:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN 44+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN 4
 http://38.43.151.206:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN EXTRA 1HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN EXTRA HD
 http://38.43.151.206:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Claro Sports 1 HD
 http://201.159.113.219:49000/play/a00h/index.m3u8
