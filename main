@@ -496,11 +496,11 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 http://45.228.234.210:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",  US: TUDN
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", AR: ESPN
+#EXTINF:-1 group-title="DEPORTES", AR: 09 ESPN
 http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", AR: ESPN
+#EXTINF:-1 group-title="DEPORTES", AR: 10 ESPN
 http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="DEPORTES", AR: ESPN
+#EXTINF:-1 group-title="DEPORTES", AR:  11 ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SV: CANAL 4
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
@@ -522,15 +522,15 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",RTP3 
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 11 HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN 11 HD+
 http://38.43.151.206:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 22 HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN 22 HD+
 http://38.43.151.206:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 33 HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN 33 HD+
 http://38.43.151.206:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 44+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN 44+
 http://38.43.151.206:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA 1HD+
+#EXTINF:-1 group-title="DEPORTES",100 ESPN EXTRA 1HD+
 http://38.43.151.206:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Claro Sports 1 HD
 http://201.159.113.219:49000/play/a00h/index.m3u8
@@ -543,7 +543,7 @@ EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelog
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png"group-title="DEPORTES" , FIFA+
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="DEPORTES" , Tennis Channel
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2610000001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="DEPORTES" , Tennis Channel
 https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" group-title="DEPORTES" , World Poker Tour
 https://i.mjh.nz/SamsungTVPlus/ESBD2900001P9.m3u8
