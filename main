@@ -579,7 +579,7 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 1 HD
 http://190.0.241.181:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
 http://190.0.241.181:8000/play/a06z/index.m3u8
