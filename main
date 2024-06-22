@@ -491,20 +491,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://190.0.241.181:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://190.0.241.181:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://190.0.241.181:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://190.0.241.181:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://190.0.241.181:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD
-http://190.0.241.181:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
-http://190.0.241.181:8000/play/a02f/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",NBA
 http://45.228.234.210:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",  US: TUDN
@@ -590,6 +577,27 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?Playl
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="DEPORTES" logo="https://i.postimg.cc/P5FPcT6H/20221004-174618.png", KOZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://190.0.241.181:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://190.0.241.181:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://190.0.241.181:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://190.0.241.181:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://190.0.241.181:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD
+http://190.0.241.181:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
+http://190.0.241.181:8000/play/a02f/index.m3u8
+
+
+
+
+
 
 ******************** sports ****************
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO US: TUDN
