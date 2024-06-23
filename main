@@ -538,7 +538,10 @@ http://201.159.113.219:49000/play/a00h/index.m3u8
 http://201.159.113.219:49000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
 http://200.60.124.19:29000/play/a06p/index.m3u8
-
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT
+http://190.92.10.66:4000/play/a002/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT LA LIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
 EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" group-title="DEPORTES" , Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png"group-title="DEPORTES" , FIFA+
