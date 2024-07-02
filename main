@@ -490,18 +490,12 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Directv Sports
-http://pe.shortgod.com/temporal/play.php?id=20
-#EXTINF:-1 group-title="DEPORTES",Directv Sports 2
-http://pe.shortgod.com/temporal/play.php?id=21
-#EXTINF:-1 group-title="DEPORTES",Directv Sports Plus
-http://pe.shortgod.com/temporal/play.php?id=22
-#EXTINF:-1 group-title="DEPORTES",Directv Sports Fight 
-http://pe.shortgod.com/temporal/play.php?id=36
-#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS FHD
-http://pe.shortgod.com/temporal/play.php?id=256
-#EXTINF:-1 group-title="DEPORTES",Directv Sports 1 (ARG) (X)(1080)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/4668.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: UNIVERSO
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+#EXTINF:-1 group-title="DEPORTES", US: ESPN DEPORTES
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
+#EXTINF:-1 group-title="DEPORTES", US: FOX DEPORTES
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 #EXTINF:-1 group-title="DEPORTES",NBA
 http://45.228.234.210:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",  US: TUDN
@@ -512,14 +506,7 @@ http://170.82.37.21:8000/play/a04g/index.m3u8
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="DEPORTES", AR:  11 ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SV: CANAL 4
-https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-#EXTINF:-1 group-title="DEPORTES",CA: TSN 1
-http://45.41.213.34:70/TSN1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",CA: TSN 2
-http://45.41.213.34:70/TSN4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", CA: TSN 3
-http://45.41.213.34:70/TSN5/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",MX: CANAL 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 #EXTINF:-1 group-title="DEPORTES",LA 1
