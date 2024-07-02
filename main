@@ -507,8 +507,16 @@ http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="DEPORTES", AR:  11 ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
 
+
+
+#EXTINF:-1 group-title="DEPORTES", COPA AMERICA ES: M+
+http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
+#EXTINF:-1 group-title="DEPORTES", COPA AMERICA AR: D SPORTS+
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
 #EXTINF:-1 group-title="DEPORTES",MX: CANAL 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="DEPORTES",  direc tv sport 2 (argentina)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
 #EXTINF:-1 group-title="DEPORTES",LA 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 group-title="DEPORTES",LA 2
