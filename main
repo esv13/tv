@@ -608,6 +608,96 @@ http://190.0.241.181:8000/play/a02f/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="USA",ABC EAST
+https://fl2.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="USA",BRAVO
+https://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="USA",CARTOON NETWORK
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA",CINEMAX EAST
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="USA",CNN
+https://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 group-title="USA",DISNEY CHANNEL
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA",DISNEY JR
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="USA",DISNEYXD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="USA",DIY
+https://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="USA",ESPN
+https://fl2.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 group-title="USA",ESPN 2
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="USA",FOODNETWORK
+https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA",FOX EAST
+https://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="USA",FREE FORM
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="USA",FX
+https://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="USA",FXX
+https://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="USA",HALLMARK CHANNEL
+https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA",HALLMARK DRAMA
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="USA",HBO
+https://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="USA",HBO 2
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="USA",HBO FAMILY
+https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="USA",HGTV
+https://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="USA",INVESTIGATION DISCOVERY
+https://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/ind..
+#EXTINF:-1 group-title="USA",LIFETIME
+https://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="USA",MLB NETWORK
+https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA",MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="USA",MTV 2
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="USA",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="USA",NICK JR
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="USA",NICK MUSIC
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="USA",NICKELODEON
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="USA",NICKTOONS
+http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="USA",NFL NETWORK
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA",REELZ
+https://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="USA",REVOLT
+https://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 group-title="USA",SUNDANCE
+https://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="USA",SHOWTIME
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="USA",STARZ
+https://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="USA",SYFY
+https://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="USA",OXYGEN
+https://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="USA",TBS
+https://fl2.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="USA",TLC
+https://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 group-title="USA",VH1
+https://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="USA",WWE
+https://fl2.moveonjoy.com/WWE/index.m3u8
+
 
 
 
