@@ -133,3 +133,6 @@ http://45.5.151.151:8000/play/a0bf/index.m3u8
 
 #EXTINF:-1, CCTV 5
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1,TV CIUDAD
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2055403.ts
