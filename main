@@ -18,6 +18,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1, TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:0, Eventos
+https://edge-live31-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
 
 
@@ -490,12 +492,14 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", US: UNIVERSO
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
-#EXTINF:-1 group-title="DEPORTES", US: ESPN DEPORTES
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
-#EXTINF:-1 group-title="DEPORTES", US: FOX DEPORTES
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+#EXTINF:-1 group-title="DEPORTES", Sports
+https://sportscdn.net/live/sportv_480p.m3u8
+#EXTINF:-1 group-title="DEPORTES", CCTV5HD
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="DEPORTES", COPA AMERICA GT: TV AZTECA
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF: -1  group-title="DEPORTES", STAR SPORTS -1
+http://watchindia.net:8880/live/65596/46234/2232.m3u8
 #EXTINF:-1 group-title="DEPORTES",NBA
 http://45.228.234.210:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",  US: TUDN
