@@ -441,22 +441,7 @@ https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Internacional", AXS TV Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3049
 
-#EXTINF:-1,ESPN
-http://191.97.49.195:8000/play/a016/index.m3u8
-#EXTINF:-1,ESPN 2
-http://191.97.49.195:8000/play/a00v/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://191.97.49.195:8000/play/a015/index.m3u8
-#EXTINF:-1,ESPN 3
-http://191.97.49.195:8000/play/a02b/index.m3u8
-#EXTINF:-1,ESPN 4
-http://191.97.49.195:8000/play/a01t/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://191.97.49.195:8000/play/a03t/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://191.97.49.195:8000/play/a04h/index.m3u8
-#EXTINF:-1,ESPN HD
-http://191.97.49.195:8000/play/a041/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="CrackleXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Movies",Crackle 
@@ -505,10 +490,6 @@ https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF: -1  group-title="DEPORTES", STAR SPORTS -1
 http://watchindia.net:8880/live/65596/46234/2232.m3u8
-#EXTINF:-1 group-title="DEPORTES",NBA
-http://45.228.234.210:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",  US: TUDN
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", AR: 09 ESPN
 http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", AR: 10 ESPN
@@ -617,7 +598,6 @@ http://190.0.241.181:8000/play/a02f/index.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1 group-title="USA",ABC EAST
 https://fl2.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="USA",BRAVO
@@ -969,16 +949,6 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 
-
-
-#EXTINF:-1,308 Discovery
-http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1,312 NatGeo
-http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1,318 History
-http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1,320 History2
-http://181.78.105.146:2000/play/a00v/index.m3u8
 
 
 #EXTINF:-1,MTV
