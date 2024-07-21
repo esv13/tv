@@ -39,7 +39,16 @@ https://musicsrc.cvattv.com.ar/RM37
 https://musicsrc.cvattv.com.ar/RM38
 #EXTINF:-1group-title="MÚSICA", Electrónica
 https://musicsrc.cvattv.com.ar/RM41
-
+#EXTINF:-1group-title="MÚSICA", Reggae
+https://musicsrc.cvattv.com.ar/RM23
+#EXTINF:-1group-title="MÚSICA", Peliculas
+https://musicsrc.cvattv.com.ar/RM24
+#EXTINF:-1group-title="MÚSICA", Classic Cinema
+https://musicsrc.cvattv.com.ar/RM25
+#EXTINF:-1group-title="MÚSICA", Chill Out
+https://musicsrc.cvattv.com.ar/RM39
+#EXTINF:-1group-title="MÚSICA", Classic Cinema
+https://musicsrc.cvattv.com.ar/RM25
 
 #EXTINF:-1 group-title="HBO PREMIUM" ,HBO
 https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
