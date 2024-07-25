@@ -14,16 +14,7 @@ http://204.199.3.2/.m3u8?PlaylistM3UCL
 https://stmv5.livecastv.com/radioestacion/radioestacion/playlist.m3u8
 #EXTINF:-1, TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar",TV Pública (TVP) (1080p) [Not 24/7]
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1, TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1, Eventos
-https://edge-live31-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
-#EXTINF:-1, Claro Sports 3
-https://www.youtube.com/watch?v=cejYmPgrbqY
-#EXTINF:-1, Juegos Olímpicos
-https://ott-dai-oc.akamaized.net/OC1/master.m3u8?hdnts=exp=1721934370~acl=/*~hmac=de912db0bc332bf0febf8ca1e9dfb9b11389cfbba08f6b34b768218a7ee374a2
+
 
 
 
