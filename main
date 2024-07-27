@@ -15,6 +15,9 @@ https://stmv5.livecastv.com/radioestacion/radioestacion/playlist.m3u8
 #EXTINF:-1, TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1, TyCSport
+https://edge-mix01-ird.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
 
 
 
