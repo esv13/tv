@@ -18,6 +18,10 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1, TyCSport
 https://edge-mix01-ird.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
+#EXTINF:-1, TVPública
+https://edge-mix05-coe.cvattv.com.ar/live/c4eds/Canal7/SA_Live_dash_enc/Canal7.mpd
+#EXTINF:-1, ESPN3
+https://edge-mix02-cen.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
 
 
