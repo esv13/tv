@@ -1381,3 +1381,14 @@ http://191.52.214.5:8000/play/a025/index.m3u8
 http://191.52.214.5:8000/play/a02s/index.m3u8
 #EXTINF:-1,CHV HD-IK1664-OK
 http://191.52.214.5:8000/play/a06p/index.m3u8
+
+#EXTINF:-1,Discovery H&H HD
+http://45.71.37.194:8010/play/a01u/index.m3u8
+#EXTINF:-1,HomeandHealt
+http://201.182.250.218:8000/play/a03v/index.m3u8
+#EXTINF:-1,Discovery HD
+http://45.71.37.194:8010/play/a03w/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://45.71.37.194:8010/play/a01v/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://45.71.37.194:8010/play/a02c/index.m3u8
