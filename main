@@ -49,47 +49,30 @@ https://musicsrc.cvattv.com.ar/RM39
 #EXTINF:-1group-title="MÚSICA", Classic Cinema
 https://musicsrc.cvattv.com.ar/RM25
 
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO
-https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1  group-title="HBO PREMIUM",HBO 2
-https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO +
-https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF:-1  group-title="HBO PREMIUM",HBO Extreme
-https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Family
-https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Mundi
-https://delivery.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Pop
-https://delivery.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-#EXTINF:-20 tvg-logo="http://www.plexmx.club/canales/428.png" group-title="HBO PREMIUM", HBO
-https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-21 tvg-logo="http://www.plexmx.club/canales/429.png" group-title="HBO PREMIUM", HBO2
-https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-22 tvg-logo="http://www.plexmx.club/canales/430.png" group-title="HBO PREMIUM", HBO family
-https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF:-23 tvg-logo="http://www.plexmx.club/canales/432.png" group-title="HBO PREMIUM", HBO Pop
-https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-#EXTINF:-24 tvg-logo="http://www.plexmx.club/canales/431.png" group-title="HBO PREMIUM", HBO Plus
-https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO
-https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO 2
-https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO+
-https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Family
-https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Xtreme
-https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Mundi
-https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Pop
-https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV" group-title="HBO PREMIUM", HBO Signature
-https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-
+#EXTINF:-1 group-title="HBO PREMIUM" ,HBO HD
+http://201.159.113.219:49000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Plus HD
+http://201.159.113.219:49000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM" ,HBO XTREME
+http://201.159.113.219:49000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM" ,HBO2 HD
+http://201.159.113.219:49000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Signature
+http://200.60.124.19:29000/play/a090/index.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Family HD
+http://201.159.113.219:49000/play/a00o/index.m3u8
+#EXTINF:-1  group-title="HBO PREMIUM" ,HBO
+https://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1  group-title="HBO PREMIUM" ,HBO 2
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1  group-title="HBO PREMIUM" ,HBO FAMILY
+https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png"  group-title="HBO PREMIUM" ,HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"  group-title="HBO PREMIUM" ,HBO2 East
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534"  group-title="HBO PREMIUM" ,HBO Comedy East
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 
 
@@ -506,9 +489,30 @@ https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SHOWTIME
 https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", NFL NETWORK
+http://212.102.60.231/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 🇪🇸
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN NEWS F1 🇺🇸
+https://c.trydarius.shop/espnnews.m3u8
+#EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="DEPORTES",Major League Baseball
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="DEPORTES",National Hockey League
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
 http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SKY SPORT
@@ -624,12 +628,7 @@ https://fl2.moveonjoy.com/FXX/index.m3u8
 https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="USA",HALLMARK DRAMA
 https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="USA",HBO
-https://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="USA",HBO 2
-https://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="USA",HBO FAMILY
-https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+
 #EXTINF:-1 group-title="USA",HGTV
 https://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="USA",INVESTIGATION DISCOVERY
@@ -676,6 +675,91 @@ https://fl2.moveonjoy.com/TLC/index.m3u8
 https://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="USA",WWE
 https://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 group-title="USA", OWN
+https://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 group-title="USA", OXYGEN
+https://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="USA", PARAMOUNT NETWORK
+https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA", TNT
+https://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 group-title="USA", TV ONE
+https://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="USA", YES NETWORK
+https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA", ACC NETWORK
+https://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA", BET EAST
+https://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="USA", BET Jams
+https://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="USA", BIG TEN NETWORK
+https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA", BRAVO
+https://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="USA", CINEMAX
+https://fl2.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="USA", CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="USA", Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="USA", CRAVE1
+https://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 group-title="USA", CRAVE3
+https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title="USA", FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="USA", HBO
+https://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="USA", HBO 2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA", OWN
+http://212.102.60.231/OWN/index.m3u8
+#EXTINF:-1 group-title="USA", OXYGEN
+http://212.102.60.231/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="USA", PARAMOUNT NETWORK
+http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA", SHOWTIME
+http://212.102.60.231/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="USA", SHOWTIME 2
+http://212.102.60.231/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="USA", SHOWTIME EXTREME
+http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="USA", SHOWTIME WOMEN
+http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="USA", SHOWTIME NEXT
+http://212.102.60.231/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="USA", STARZ
+http://212.102.60.231/STARZ/index.m3u8
+#EXTINF:-1 group-title="USA", STARZ COMEDY
+http://212.102.60.231/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="USA", STARZ EDGE
+http://212.102.60.231/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="USA", STARZ ENCORE
+http://212.102.60.231/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="USA", STARZ ENCORE ACTION
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 group-title="USA", STARZ ENCORE CLASSIC
+http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA", STARZ ENCORE WESTERNS
+http://212.102.60.231/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 group-title="USA", SYFY
+http://212.102.60.231/SYFY/index.m3u8
+#EXTINF:-1 group-title="USA", MGM+
+http://212.102.60.231/EPIX/index.m3u8
+#EXTINF:-1 group-title="USA", MGM+ Drive-In
+http://212.102.60.231/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="USA", MGM+ Hits
+http://212.102.60.231/EPIX_2/index.m3u8
+#EXTINF:-1 group-title="USA", MGM+ Marquee
+http://212.102.60.231/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg"  group-title="USA",ABC East (Columba)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png"  group-title="USA",ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png"  group-title="USA",AMC East
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 
 
 
@@ -1126,18 +1210,7 @@ http://190.0.241.181:8000/play/a010/index.m3u8
 #EXTINF:-1,History Channel HD
 http://190.0.241.181:8000/play/a04k/index.m3u8
 
-#EXTINF:-1,HBO HD
-http://201.159.113.219:49000/play/a00l/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://201.159.113.219:49000/play/a00n/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://201.159.113.219:49000/play/a00p/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://201.159.113.219:49000/play/a00m/index.m3u8
-#EXTINF:-1,HBO Signature
-http://200.60.124.19:29000/play/a090/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://201.159.113.219:49000/play/a00o/index.m3u8
+
 #EXTINF:-1,ID HD
 http://190.0.241.181:8000/play/a02g/index.m3u8
 #EXTINF:-1,LOVE NATURE
