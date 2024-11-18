@@ -488,63 +488,27 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Dsports
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
-#EXTINF:-1 group-title="DEPORTES", NBA
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
-#EXTINF:-1 group-title="DEPORTES", Dsports
-https://edge-vod06-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
-#EXTINF:-1 group-title="DEPORTES", Sports
-https://sportscdn.net/live/sportv_480p.m3u8
-#EXTINF:-1 group-title="DEPORTES", Sports
-https://sportscdn.net/live/sportv_720p.m3u8
-#EXTINF:-1 group-title="DEPORTES", CCTV5HD
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="DEPORTES", COPA AMERICA GT: TV AZTECA
-https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF: -1  group-title="DEPORTES", STAR SPORTS -1
-http://watchindia.net:8880/live/65596/46234/2232.m3u8
-#EXTINF:-1 group-title="DEPORTES", AR: 09 ESPN
-http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", AR: 10 ESPN
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="DEPORTES", AR:  11 ESPN
-http://200.60.124.19:29000/play/a016/index.m3u8
 
 
 
-#EXTINF:-1 group-title="DEPORTES", COPA AMERICA ES: M+
-http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-#EXTINF:-1 group-title="DEPORTES", COPA AMERICA AR: D SPORTS+
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
-#EXTINF:-1 group-title="DEPORTES",MX: CANAL 5
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 group-title="DEPORTES",  direc tv sport 2 (argentina)
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
-#EXTINF:-1 group-title="DEPORTES",LA 1
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-#EXTINF:-1 group-title="DEPORTES",LA 2
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
-#EXTINF:-1 group-title="DEPORTES", TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="DEPORTES",RTP
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",RTP3 
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN HD
-http://38.43.151.206:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN 2 HD
-http://38.43.151.206:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN 3 HD
-http://38.43.151.206:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN 4
-http://38.43.151.206:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",100 ESPN EXTRA HD
-http://38.43.151.206:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Claro Sports 1 HD
-http://201.159.113.219:49000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Claro Sports 2 HD
-http://201.159.113.219:49000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 1 🇨🇦
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 2 🇨🇦
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 3 🇨🇦
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 4 🇨🇦
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 5 🇨🇦
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CBS SPORT 🇺🇸
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
+http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SHOWTIME
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
 http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",SKY SPORT
@@ -610,7 +574,20 @@ http://190.0.241.181:8000/play/a02j/index.m3u8
 http://190.0.241.181:8000/play/a02f/index.m3u8
 
 
-
+#EXTINF:-1 group-title="USA",HGTV
+https://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="USA",MGM+
+https://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="USA",MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="USA",MTV2
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="USA",MTV CLASSIC
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA",MTV LIVE
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="USA",MTV U
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 group-title="USA",ABC EAST
 https://fl2.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="USA",BRAVO
