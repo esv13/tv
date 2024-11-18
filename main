@@ -137,6 +137,8 @@ https://c.trydarius.shop/espnnews.m3u8
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="DEPORTES",National Hockey League
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1  tvg-id="beINSports.us" tvg-name="beIN Sports HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75"  group-title="DEPORTES",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
 http://200.60.124.19:29000/play/a06p/index.m3u8
@@ -621,7 +623,8 @@ https://fl2.moveonjoy.com/FXX/index.m3u8
 https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="USA",HALLMARK DRAMA
 https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-
+#EXTINF:-1  tvg-id="CBSEast.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png"  group-title="USA",CBS East (Boston)
+http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="USA",HGTV
 https://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="USA",INVESTIGATION DISCOVERY
