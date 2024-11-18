@@ -22,6 +22,176 @@ http://190.60.38.114:1010/play/a06s/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FcYn5qS.png" group-title="DEPORTES",ESPN PREMIUM
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xB0yl90.png" group-title="DEPORTES",TNT SPORST
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports (AR)
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 (AR)
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 (AR)
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Espn extra
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+#EXTINF:0 group-title="DEPORTES",D BIKE
+http://190.60.42.86:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD-IK1621-OK
+http://191.52.214.5:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 1 HD-IK1620-OK
+http://191.52.214.5:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD-IK1653
+http://191.52.214.5:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",GOLPERU HD-IK1624-OK
+http://191.52.214.5:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD-IK1623-OK
+http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD-IK1652 ok
+http://191.52.214.5:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD-IK1622-OK
+http://191.52.214.5:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://190.242.41.219:9000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://190.242.41.219:9000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://190.242.41.219:9000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4HD
+http://190.242.41.219:9000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 5HD
+http://190.242.41.219:9000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
+http://190.242.41.219:9000/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7HD
+http://190.242.41.219:9000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://190.242.41.219:9000/play/a0br/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://190.242.41.219:9000/play/a0az/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://190.242.41.219:9000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
+http://190.242.41.219:9000/play/a09r/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",ESPN
+http://190.60.42.86:8000/play/a038/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+http://190.60.42.86:8000/play/a03r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3
+http://190.60.42.86:8000/play/a03s/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4
+http://190.60.42.86:8000/play/a03t/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5
+http://190.60.42.86:8000/play/a03u/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6
+http://190.60.42.86:8000/play/a03v/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7
+http://190.60.42.86:8000/play/a03w/index.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES", TSN 1 🇨🇦
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 2 🇨🇦
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 3 🇨🇦
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 4 🇨🇦
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TSN 5 🇨🇦
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CBS SPORT 🇺🇸
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
+http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
+https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SHOWTIME
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", NFL NETWORK
+http://212.102.60.231/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 🇪🇸
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN NEWS F1 🇺🇸
+https://c.trydarius.shop/espnnews.m3u8
+#EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="DEPORTES",Major League Baseball
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="DEPORTES",National Hockey League
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
+http://200.60.124.19:29000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT
+http://190.92.10.66:4000/play/a002/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT LA LIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" group-title="DEPORTES" , Teledeporte
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png"group-title="DEPORTES" , FIFA+
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2610000001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="DEPORTES" , Tennis Channel
+https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" group-title="DEPORTES" , World Poker Tour
+https://i.mjh.nz/SamsungTVPlus/ESBD2900001P9.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="DEPORTES" , Surf Channel
+https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="DEPORTES" , MyPadel TV
+https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="DEPORTES",Abu Dhabi Sports 1 (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="DEPORTES",Abu Dhabi Sports 2 (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="DEPORTES",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="DEPORTES",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png"  group-title="DEPORTES", GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="Tdp.es" tvg-logo=""  group-title="DEPORTES" tvg-chno=" ",TVE Teledeporte
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"  group-title="DEPORTES", TUDN México
+https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://143.244.60.30/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png"  group-title="DEPORTES" tvg-chno=" ",Esport 3
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="DEPORTES" tvg-chno=" ",Extrême Sports Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png" group-title="DEPORTES", All Sports | BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg"  group-title="DEPORTES", PAC 12
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="DEPORTES" logo="https://i.postimg.cc/P5FPcT6H/20221004-174618.png", KOZOOM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 1 HD
+http://190.0.241.181:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://190.0.241.181:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://190.0.241.181:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://190.0.241.181:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://190.0.241.181:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD
+http://190.0.241.181:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
+http://190.0.241.181:8000/play/a02f/index.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", Grandes del Rock
 https://musicsrc.cvattv.com.ar/RM18
 #EXTINF:-1group-title="MÚSICA", Internacional
@@ -90,30 +260,6 @@ http://38.252.238.204:6102/play/a02z/index.m3u8
 http://38.252.238.204:6102/play/a030/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES ARG",TNT SPORTS
-https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",ESPN PREMIUM
-https://delivery.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",Fox Sports
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",Fox Sports 2
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",Fox Sports 3
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",TYC SPORT
-https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",Espn
-https://delivery.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",Espn2
-https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",Espn3
-https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES ARG",Espn extra
-https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png" group-title="DEPORTES ARG",TyC Sports 
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="DEPORTES ARG",TyC Sports Internacional
-http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="DEPORTES ARG",TyC Sports Internacional (op 2)
 http://177.53.153.21:8001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="DEPORTES ARG", Eventos 1
@@ -352,89 +498,6 @@ http://45.5.151.151:8000/play/a0bj/index.m3u8
 #EXTINF:-1 group-title="TV CABLE",el trece HD
 http://45.5.151.151:8000/play/a0cp/index.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es"group-title="rakuten",Rakuten Action Movies Spain (720p)x
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" group-title="rakuten",Rakuten Comedy Movies Spain (720p)
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es" group-title="rakuten",Rakuten TV Family Spain (720p)
-https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" group-title="rakuten",Rakuten Spotlight Spain (720p)
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTopfreespain.es" group-title="rakuten",Rakuten Top Free Spain (720p)
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVShowsSpain"group-title="rakuten",Rakuten TV Shows Spain (720p)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",Zina TV Wild
-http://85.237.89.6:9590/live/zinatvwild/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-id="NatureTime.es",NatureTime
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-id="XPTV1.es",XPTV1 (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-id="XPTV2.es",XPTV2 (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-id="XPTVUS.es",XPTV US (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg"  group-title="Internacional", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="Internacional", TODAY All Day
-https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
-#EXTINF:-1 group-title="Internacional",TMZ
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
-#EXTINF:-1  group-title="Internacional" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" ,Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/9/14/NBCNewsNow-Logo-White-344x300.png" ,NBC News NOW
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",WTTWDT
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
-#EXTINF:-1 group-title="Internacional", Yahoo Finance
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="Internacional", NBC Bay Area News
-https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="Internacional", ABC7 Bay Area
-https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
-#EXTINF:-1 group-title="Internacional", NBC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3047
-#EXTINF:-1 group-title="Internacional", NBC 12
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3048
-#EXTINF:-1 group-title="Internacional", ABC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3043
-#EXTINF:-1 group-title="Internacional", FOX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3044
-#EXTINF:-1 group-title="Internacional" tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 group-title="Internacional" ,NBC Boston News
-https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Chicago News
-https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Los Angeles News
-https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC New York
-http://38.96.178.201/live/NBCHD/index.m3u8
-#EXTINF:-1 group-title="Internacional",NBC News
-https://live-manifest.production-public.tubi.io/live/nbc-news-now/h264/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC News
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 group-title="Internacional",NBC New York News
-https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Philadelphia News
-https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC San Francisco News
-https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional",NBC Washington News
-https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional", Yachting
-https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Internacional", AXS TV Now
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3049
-
 
 
 
@@ -464,118 +527,11 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:-1 , aMC Thriller
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-
-
-
-#EXTINF:-1 group-title="DEPORTES", TSN 1 🇨🇦
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 2 🇨🇦
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 3 🇨🇦
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 4 🇨🇦
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 5 🇨🇦
-http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", CBS SPORT 🇺🇸
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
-http://212.102.60.10/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
-https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", SHOWTIME
-https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", NFL NETWORK
-http://212.102.60.231/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 🇪🇸
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 🇪🇸
-http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 1 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN NEWS F1 🇺🇸
-https://c.trydarius.shop/espnnews.m3u8
-#EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="DEPORTES",Major League Baseball
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="DEPORTES",National Hockey League
-https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
-http://200.60.124.19:29000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT
-http://190.92.10.66:4000/play/a002/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT LA LIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
-EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" group-title="DEPORTES" , Teledeporte
-https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png"group-title="DEPORTES" , FIFA+
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2610000001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="DEPORTES" , Tennis Channel
-https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" group-title="DEPORTES" , World Poker Tour
-https://i.mjh.nz/SamsungTVPlus/ESBD2900001P9.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="DEPORTES" , Surf Channel
-https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="DEPORTES" , MyPadel TV
-https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
-
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="DEPORTES",Abu Dhabi Sports 1 (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="DEPORTES",Abu Dhabi Sports 2 (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="DEPORTES",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="DEPORTES",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png"  group-title="DEPORTES", GARAGE TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="Tdp.es" tvg-logo=""  group-title="DEPORTES" tvg-chno=" ",TVE Teledeporte
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"  group-title="DEPORTES", TUDN México
-https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN
-http://143.244.60.30/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png"  group-title="DEPORTES" tvg-chno=" ",Esport 3
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="DEPORTES" tvg-chno=" ",Extrême Sports Channel
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png" group-title="DEPORTES", All Sports | BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg"  group-title="DEPORTES", PAC 12
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="DEPORTES" logo="https://i.postimg.cc/P5FPcT6H/20221004-174618.png", KOZOOM TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTES",ESPN 1 HD
-http://190.0.241.181:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://190.0.241.181:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://190.0.241.181:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://190.0.241.181:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://190.0.241.181:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD
-http://190.0.241.181:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
-http://190.0.241.181:8000/play/a02f/index.m3u8
 
 
 #EXTINF:-1 group-title="USA",HGTV
@@ -761,6 +717,88 @@ http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es"group-title="rakuten",Rakuten Action Movies Spain (720p)x
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" group-title="rakuten",Rakuten Comedy Movies Spain (720p)
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es" group-title="rakuten",Rakuten TV Family Spain (720p)
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" group-title="rakuten",Rakuten Spotlight Spain (720p)
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopfreespain.es" group-title="rakuten",Rakuten Top Free Spain (720p)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVShowsSpain"group-title="rakuten",Rakuten TV Shows Spain (720p)
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",Zina TV Wild
+http://85.237.89.6:9590/live/zinatvwild/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="NatureTime.es",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="XPTV1.es",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="XPTV2.es",XPTV2 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="XPTVUS.es",XPTV US (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg"  group-title="Internacional", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="Internacional", TODAY All Day
+https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_5.m3u8
+#EXTINF:-1 group-title="Internacional",TMZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
+#EXTINF:-1  group-title="Internacional" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" ,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/9/14/NBCNewsNow-Logo-White-344x300.png" ,NBC News NOW
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",WTTWDT
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+#EXTINF:-1 group-title="Internacional", Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="Internacional", NBC Bay Area News
+https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" group-title="Internacional", ABC7 Bay Area
+https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+#EXTINF:-1 group-title="Internacional", NBC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3047
+#EXTINF:-1 group-title="Internacional", NBC 12
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3048
+#EXTINF:-1 group-title="Internacional", ABC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3043
+#EXTINF:-1 group-title="Internacional", FOX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3044
+#EXTINF:-1 group-title="Internacional" tvg-id="CBSNewsNewYork.us",CBS News New York (720p)
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 group-title="Internacional" ,NBC Boston News
+https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Chicago News
+https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Los Angeles News
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC New York
+http://38.96.178.201/live/NBCHD/index.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+https://live-manifest.production-public.tubi.io/live/nbc-news-now/h264/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="Internacional",NBC New York News
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Philadelphia News
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC San Francisco News
+https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",NBC Washington News
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacional", Yachting
+https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Internacional", AXS TV Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3049
 
 
 
@@ -1142,15 +1180,6 @@ http://200.52.148.194:8000/play/a03n/index.m3u8
 
 
 
-#EXTINF:-1  group-title="DEPORTES", TUDN  
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTES", TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-
-
-
 #EXTINF:-1,A&E
 http://190.0.241.181:8000/play/a06q/index.m3u8
 #EXTINF:-1,ACM HD
@@ -1326,71 +1355,9 @@ http://190.60.42.86:8000/play/a011/index.m3u8
 http://190.60.42.86:8000/play/a03b/index.m3u8
 #EXTINF:0,GOLDEN HD
 http://190.60.42.86:8000/play/a00u/index.m3u8
-#EXTINF:0,D BIKE
-http://190.60.42.86:8000/play/a00q/index.m3u8
-
-#EXTINF:-1,ESPN 2 HD
-http://190.242.41.219:9000/play/a0ac/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.242.41.219:9000/play/a09s/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.242.41.219:9000/play/a0a9/index.m3u8
-#EXTINF:-1,ESPN 4HD
-http://190.242.41.219:9000/play/a0b9/index.m3u8
-#EXTINF:-1,ESPN 5HD
-http://190.242.41.219:9000/play/a0as/index.m3u8
-#EXTINF:-1,ESPN 6HD
-http://190.242.41.219:9000/play/a0aa/index.m3u8
-#EXTINF:-1,ESPN 7HD
-http://190.242.41.219:9000/play/a0at/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.242.41.219:9000/play/a0br/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.242.41.219:9000/play/a0az/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://190.242.41.219:9000/play/a0cg/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
-http://190.242.41.219:9000/play/a09r/index.m3u8
-
-
-#EXTINF:0,ESPN
-http://190.60.42.86:8000/play/a038/index.m3u8
-#EXTINF:0,ESPN 2
-http://190.60.42.86:8000/play/a03r/index.m3u8
-#EXTINF:0,ESPN 3
-http://190.60.42.86:8000/play/a03s/index.m3u8
-#EXTINF:0,ESPN 4
-http://190.60.42.86:8000/play/a03t/index.m3u8
-#EXTINF:0,ESPN 5
-http://190.60.42.86:8000/play/a03u/index.m3u8
-#EXTINF:0,ESPN 6
-http://190.60.42.86:8000/play/a03v/index.m3u8
-#EXTINF:0,ESPN 7
-http://190.60.42.86:8000/play/a03w/index.m3u8
-
-
-
-#EXTINF:-1,FOX Sports 2 HD-IK1621-OK
-http://191.52.214.5:8000/play/a02o/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD-IK1620-OK
-http://191.52.214.5:8000/play/a03u/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD-IK1653
-http://191.52.214.5:8000/play/a026/index.m3u8
-#EXTINF:-1,GOLPERU HD-IK1624-OK
-http://191.52.214.5:8000/play/a03m/index.m3u8
-#EXTINF:-1,ESPN 2 HD-IK1623-OK
-http://191.52.214.5:8000/play/a027/index.m3u8
-#EXTINF:-1,ESPN 3 HD-IK1652 ok
-http://191.52.214.5:8000/play/a025/index.m3u8
-#EXTINF:-1,ESPN HD-IK1622-OK
-http://191.52.214.5:8000/play/a02s/index.m3u8
-#EXTINF:-1,CHV HD-IK1664-OK
-http://191.52.214.5:8000/play/a06p/index.m3u8
 
 #EXTINF:-1,Discovery H&H HD
 http://45.71.37.194:8010/play/a01u/index.m3u8
-#EXTINF:-1,HomeandHealt
-http://201.182.250.218:8000/play/a03v/index.m3u8
 #EXTINF:-1,Discovery HD
 http://45.71.37.194:8010/play/a03w/index.m3u8
 #EXTINF:-1,Discovery Theater HD
@@ -1401,15 +1368,3 @@ http://45.71.37.194:8010/play/a02c/index.m3u8
 http://190.60.42.86:8000/play/a01g/index.m3u8
 
 
-#EXTINF:-1, Fox Sports (AR)
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
-#EXTINF:-1, Fox Sports 2 (AR)
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1, Fox Sports 3 (AR)
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1, Espn extra
-https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FcYn5qS.png" group-title="",ESPN PREMIUM
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xB0yl90.png" group-title="",TNT SPORST
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
