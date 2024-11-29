@@ -539,7 +539,16 @@ http://45.5.151.151:8000/play/a0cp/index.m3u8
 
 
 
-
+#EXTINF:-0, group-title="Movies" TV Cine Action
+http://176.65.146.108:8022/play/a079/index.m3u8
+#EXTINF:-0, group-title="Movies" TV Cine Edition
+http://176.65.146.108:8022/play/a06x/index.m3u8
+#EXTINF:-0, group-title="Movies" TV Cine Emotion
+http://176.65.146.108:8022/play/a06y/index.m3u8
+#EXTINF:-0, group-title="Movies" TV Cine Top
+http://176.65.146.108:8022/play/a078/index.m3u8
+#EXTINF:-0, group-title="Movies" AXN Movies HD
+http://176.65.146.108:8022/play/a06l/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="CrackleXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Movies",Crackle 
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Planeta TV Movies
@@ -1427,7 +1436,13 @@ http://45.71.37.194:8010/play/a03w/index.m3u8
 http://45.71.37.194:8010/play/a01v/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://45.71.37.194:8010/play/a02c/index.m3u8
-#EXTINF:0,HGTV
-http://190.60.42.86:8000/play/a01g/index.m3u8
 
+#EXTINF:-0, National Geographic Wild
+http://176.65.146.108:8022/play/a06z/index.m3u8
+#EXTINF:-1,History
+http://200.115.120.1:8000/play/ca080/index.m3u8
+#EXTINF:-1,Discovery
+http://200.115.120.1:8000/play/ca081/index.m3u8
+#EXTINF:-1,HGTV
+http://200.115.120.1:8000/play/ca082/index.m3u8
 
