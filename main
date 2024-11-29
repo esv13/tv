@@ -1436,6 +1436,19 @@ http://45.71.37.194:8010/play/a03w/index.m3u8
 http://45.71.37.194:8010/play/a01v/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://45.71.37.194:8010/play/a02c/index.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD HD
+http://181.78.82.6:46090/play/a01i/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://181.78.82.6:46090/play/a01i/index.m3u8
+#EXTINF:0,HGTV
+http://190.60.42.86:8000/play/a01g/index.m3u8
+#EXTINF:0,HISTORY
+http://190.60.42.86:8000/play/a01z/index.m3u8
+#EXTINF:0,HISTORY 2
+http://190.60.42.86:8000/play/a022/index.m3u8
+#EXTINF:0,HOGAR TV
+http://190.60.42.86:8000/play/a01f/index.m3u8
 #EXTINF:-1,Concert Channel
 http://181.78.107.162:49000/play/a02r/index.m3u8
 #EXTINF:-0, National Geographic Wild
