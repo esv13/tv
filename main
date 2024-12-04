@@ -111,10 +111,16 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
+http://212.102.60.231/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/100px-ESPN_U_logo.svg.png" group-title="DEPORTES",ESPN U
+http://212.102.60.231/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
 https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/270px-Golf_Channel_Logo_2018.png" group-title="DEPORTES",Golf Channel
+http://212.102.60.231/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SHOWTIME
 https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 1
@@ -282,7 +288,10 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534"  group-title="HBO PREMIUM" ,HBO Comedy East
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="HBO PREMIUM" ,HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113021639" group-title="HBO PREMIUM" ,HBO Zone
+http://212.102.60.231/HBO_ZONE/index.m3u8
 
 
 #EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL CINEMA ESTE HD
@@ -538,16 +547,24 @@ http://45.5.151.151:8000/play/a0bj/index.m3u8
 http://45.5.151.151:8000/play/a0cp/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Movies",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVD0aIt.png" group-title="Movies",AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MOVSPH/large_dark.png?auto=webp&ver=1" group-title="Movies",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-0, group-title="Movies" TV Cine Action
+#EXTINF:-0 group-title="Movies", TV Cine Action
 http://176.65.146.108:8022/play/a079/index.m3u8
-#EXTINF:-0, group-title="Movies" TV Cine Edition
+#EXTINF:-0 group-title="Movies", TV Cine Edition
 http://176.65.146.108:8022/play/a06x/index.m3u8
-#EXTINF:-0, group-title="Movies" TV Cine Emotion
+#EXTINF:-0 group-title="Movies", TV Cine Emotion
 http://176.65.146.108:8022/play/a06y/index.m3u8
-#EXTINF:-0, group-title="Movies" TV Cine Top
+#EXTINF:-0 group-title="Movies", TV Cine Top
 http://176.65.146.108:8022/play/a078/index.m3u8
-#EXTINF:-0, group-title="Movies" AXN Movies HD
+#EXTINF:-0 group-title="Movies", AXN Movies HD
 http://176.65.146.108:8022/play/a06l/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="CrackleXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Movies",Crackle 
 http://crackle-xumo.amagi.tv/playlist.m3u8
@@ -581,7 +598,12 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/200px-Discovery_Life_logo_2016.svg.png" group-title="USA", Discovery Life
+http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/220px-FX_International_logo.svg.png" group-title="USA",FX
+http://84.17.40.25/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/220px-FXX_Logo.svg.png" group-title="USA",FXX
+http://84.17.40.25/FXX/index.m3u8
 #EXTINF:-1 group-title="USA",HGTV
 https://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="USA",MGM+
@@ -764,7 +786,44 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png"  group-title="USA",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/220px-Paramount_Network_2024.svg.png" group-title="USA",Paramount Network
+http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/220px-Showtime.svg.png" group-title="USA",Showtime
+http://212.102.60.231/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Showtime_2_%282022-%29.svg/revision/latest/scale-to-width-down/1000?cb=20230126015326" group-title="USA",Showtime 2
+http://212.102.60.231/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Showtime_Extreme_%282022-%29.svg/revision/latest/scale-to-width-down/1000?cb=20230126015134" group-title="USA",Showtime Extreme
+http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Showtime_Next_%282022-%29.svg/revision/latest?cb=20230126015111" group-title="USA",Showtime Next
+http://212.102.60.231/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest?cb=20230126015042" group-title="USA",Showtime Women
+http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="USA",Starz
+http://212.102.60.231/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Starz_Comedy_2022.svg/revision/latest?cb=20220930135920"group-title="USA",Starz Comedy
+http://212.102.60.231/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Starz_Edge_2022.svg/revision/latest?cb=20220930140223g" group-title="USA",Starz Edge
+http://212.102.60.231/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/300px-Starz_Encore_Logo_2022.svg.png" group-title="USA",Starz Encore
+http://212.102.60.231/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Starz_Encore_Action_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220930141051" group-title="USA",Starz Encore Action
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Starz_Encore_Classic_2022.svg/revision/latest/scale-to-width-down/300?cb=20220930141330" group-title="USA",Starz Encore Classic
+http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Starz_Encore_Westerns_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220930141915" group-title="USA",Starz Encore Westerns
+http://212.102.60.231/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/250px-SundanceTV_2014.svg.png" group-title="USA",Sundance TV
+http://84.17.40.25/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/110px-Tennis_Channel_logo.svg.png" group-title="USA",Tennis Channel
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/150px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
+http://212.102.60.231/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="USA",TLC
+http://212.102.60.231/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT
+http://212.102.60.231/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png" group-title="USA",VH1
+http://212.102.60.231/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es"group-title="rakuten",Rakuten Action Movies Spain (720p)x
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1408,6 +1467,8 @@ http://190.60.42.86:8000/play/a00u/index.m3u8
 http://181.78.82.6:46090/play/a062/index.m3u8
 #EXTINF:-1,MTV LIVE HD
 http://181.78.82.6:46090/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png",VH1
+http://212.102.60.231/VH1/index.m3u8
 
 #EXTINF:-1,DISCOVERY HD
 http://181.78.82.6:46090/play/a05m/index.m3u8
@@ -1453,10 +1514,9 @@ http://190.60.42.86:8000/play/a01f/index.m3u8
 http://181.78.107.162:49000/play/a02r/index.m3u8
 #EXTINF:-0, National Geographic Wild
 http://176.65.146.108:8022/play/a06z/index.m3u8
-#EXTINF:-1,History
-http://200.115.120.1:8000/play/ca080/index.m3u8
-#EXTINF:-1,Discovery
-http://200.115.120.1:8000/play/ca081/index.m3u8
-#EXTINF:-1,HGTV
-http://200.115.120.1:8000/play/ca082/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png",American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKadCsg.png",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" ,Wild Earth
+https://wildearth-plex.amagi.tv/playlist.m3u8
