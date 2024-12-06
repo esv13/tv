@@ -137,6 +137,28 @@ http://185.189.225.157/EuroSport2/index.m3u8
 http://45.71.254.1:8000/play/a0e6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",AZTECA 7 HD TEST
+http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",BUNDESLIGA TEST
+http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",DEPORTES TVC 1
+http://190.92.10.66:4000/play/a008/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES USA TEST
+http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FUTV TEST
+http://190.92.10.66:4000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT LA LIGA TEST
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TEST2
+http://190.92.10.66:4000/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TIGO CDN
+http://190.92.10.66:4000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN USA
+http://190.92.10.66:4000/play/a002/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TVC multicast
+http://190.92.10.66:4000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",UNIVISION 51
+http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN NEWS F1 🇺🇸
 https://c.trydarius.shop/espnnews.m3u8
 #EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="DEPORTES",Major League Baseball
