@@ -39,7 +39,27 @@ http://149.100.19.130:8001/play/a00t/index.m3u8
 
 
 
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://181.78.27.128:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://181.78.27.128:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 Latin
+http://181.78.27.128:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://181.78.27.128:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://181.78.27.128:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sport 1
+http://181.78.27.128:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6
+http://181.78.27.128:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7
+http://181.78.27.128:8000/play/a03x/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES",,Tnt Sport
+http://181.78.27.128:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Tyc Sport
+http://181.78.27.128:8000/play/a063/index.m3u8
 #EXTINF:0 group-title="DEPORTES",D BIKE
 http://190.60.42.86:8000/play/a00q/index.m3u8
 
@@ -306,30 +326,60 @@ http://190.0.241.181:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", Grandes del Rock
 https://musicsrc.cvattv.com.ar/RM18
-#EXTINF:-1group-title="MÚSICA", Internacional
+#EXTINF:-1 group-title="MÚSICA", Internacional
 https://musicsrc.cvattv.com.ar/RM03
-#EXTINF:-1group-title="MÚSICA", 90's Internacional
+#EXTINF:-1 group-title="MÚSICA", 90's Internacional
 https://musicsrc.cvattv.com.ar/RM04
-#EXTINF:-1group-title="MÚSICA", 80's Internacional
+#EXTINF:-1 group-title="MÚSICA", 80's Internacional
 https://musicsrc.cvattv.com.ar/RM05
-#EXTINF:-1group-title="MÚSICA", 80's & 90's Internacional
+#EXTINF:-1 group-title="MÚSICA", 80's & 90's Internacional
 https://musicsrc.cvattv.com.ar/RM06
-#EXTINF:-1group-title="MÚSICA", Jazz
+#EXTINF:-1 group-title="MÚSICA", Jazz
 https://musicsrc.cvattv.com.ar/RM37
-#EXTINF:-1group-title="MÚSICA", Smooth Jazz
+#EXTINF:-1 group-title="MÚSICA", Smooth Jazz
 https://musicsrc.cvattv.com.ar/RM38
-#EXTINF:-1group-title="MÚSICA", Electrónica
+#EXTINF:-1 group-title="MÚSICA", Electrónica
 https://musicsrc.cvattv.com.ar/RM41
-#EXTINF:-1group-title="MÚSICA", Reggae
+#EXTINF:-1 group-title="MÚSICA", Reggae
 https://musicsrc.cvattv.com.ar/RM23
-#EXTINF:-1group-title="MÚSICA", Peliculas
+#EXTINF:-1 group-title="MÚSICA", Peliculas
 https://musicsrc.cvattv.com.ar/RM24
-#EXTINF:-1group-title="MÚSICA", Classic Cinema
+#EXTINF:-1 group-title="MÚSICA", Classic Cinema
 https://musicsrc.cvattv.com.ar/RM25
-#EXTINF:-1group-title="MÚSICA", Chill Out
+#EXTINF:-1 group-title="MÚSICA", Chill Out
 https://musicsrc.cvattv.com.ar/RM39
-#EXTINF:-1group-title="MÚSICA", Classic Cinema
+#EXTINF:-1 group-title="MÚSICA", Classic Cinema
 https://musicsrc.cvattv.com.ar/RM25
+#EXTINF:-1 group-title="MÚSICA", Hits
+https://musicsrc.cvattv.com.ar/RM06
+#EXTINF:-1 group-title="MÚSICA", Disco
+https://musicsrc.cvattv.com.ar/RM14
+#EXTINF:-1 group-title="MÚSICA", Retro
+https://musicsrc.cvattv.com.ar/RM16
+#EXTINF:-1 group-title="MÚSICA", Lentos
+https://musicsrc.cvattv.com.ar/RM27
+#EXTINF:-1 group-title="MÚSICA", Rock Nacional
+https://musicsrc.cvattv.com.ar/RM17
+#EXTINF:-1 radio="true" tvg-id="RM40" tvg-name="Chill África" group-title="Radio Flow;music",Chill África
+https://musicsrc.cvattv.com.ar/RM40
+#EXTINF:-1 radio="true" tvg-id="RM13" tvg-name="Vivo" group-title="Radio Flow;music",Vivo
+https://musicsrc.cvattv.com.ar/RM13
+#EXTINF:-1 radio="true" tvg-id="RM19" tvg-name="Heavy metal" group-title="Radio Flow;music",Heavy metal
+https://musicsrc.cvattv.com.ar/RM19
+#EXTINF:-1 radio="true" tvg-id="RM20" tvg-name="Rock alternativo" group-title="Radio Flow;music",Rock alternativo
+https://musicsrc.cvattv.com.ar/RM20
+#EXTINF:-1 radio="true" tvg-id="RM42" tvg-name="Trendy" group-title="Radio Flow;music",Trendy
+https://musicsrc.cvattv.com.ar/RM42
+#EXTINF:-1 radio="true" tvg-id="RM43" tvg-name="Lounge" group-title="Radio Flow;music",Lounge
+https://musicsrc.cvattv.com.ar/RM43
+#EXTINF:-1 radio="true" tvg-id="RM28" tvg-name="Teens" group-title="Radio Flow;music",Teens
+https://musicsrc.cvattv.com.ar/RM28
+#EXTINF:-1 radio="true" tvg-id="RM45" tvg-name="New Age" group-title="Radio Flow;music",New Age
+https://musicsrc.cvattv.com.ar/RM45
+#EXTINF:-1 radio="true" tvg-id="RM22" tvg-name="New Wave" group-title="Radio Flow;music",New Wave
+https://musicsrc.cvattv.com.ar/RM22
+
+
 
 #EXTINF:-1 group-title="HBO PREMIUM" ,HBO HD
 http://201.159.113.219:49000/play/a00l/index.m3u8
