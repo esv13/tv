@@ -1452,9 +1452,33 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" ,Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1,FX
 https://streamer1.nexgen.bz/FX/index.m3u8
-
+#EXTINF:-1,HISTORY
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
-
+#EXTINF:-1,LIFETIME
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
+
+
+
+#EXTINF:-1,HBO HD
+http://gruposatelitalhd2.com/HBO.m3u8
+#EXTINF:-1,HBO Plus
+http://gruposatelitalhd2.com/HBOPLUS.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://gruposatelitalhd2.com/HBOXTREME.m3u8
+#EXTINF:-1,Sony HD
+http://gruposatelitalhd2.com/SONY.m3u8
+#EXTINF:-1,Space HD
+http://gruposatelitalhd2.com/SPACE.m3u8
+#EXTINF:-1,TNT HD
+http://gruposatelitalhd2.com/TNT.m3u8
+#EXTINF:-1,TNT Series HD
+http://gruposatelitalhd2.com/TNTSERIES.m3u8
+#EXTINF:-1,Nat Geo HD
+http://gruposatelitalhd2.com/NATGEO.m3u8
+#EXTINF:-1,MTV 00s
+http://gruposatelitalhd2.com/MTV00S.m3u8
+#EXTINF:-1,Cinecanal HD
+http://gruposatelitalhd2.com/CINECANAL.m3u8
