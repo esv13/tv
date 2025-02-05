@@ -16,7 +16,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 
-
+#EXTINF:0 group-title="LIFESTYLE",HGTV
+http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="LIFESTYLE", Discovery World HD
 http://201.217.246.166:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery H&H HD-IK1602-OK
@@ -802,8 +803,6 @@ https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 https://fl2.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="USA", TV ONE
 https://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="USA", YES NETWORK
-https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA", ACC NETWORK
 https://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA", BET EAST
@@ -910,10 +909,12 @@ http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 http://212.102.60.231/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="USA",TLC
 http://212.102.60.231/TLC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT
-http://212.102.60.231/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png" group-title="USA",VH1
 http://212.102.60.231/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT
+http://212.102.60.231/TNT/index.m3u8
+#EXTINF:-1 group-title="USA", YES NETWORK
+https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es"group-title="rakuten",Rakuten Action Movies Spain (720p)x
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
