@@ -25,7 +25,12 @@ https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
 https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 
 
-
+#EXTINF:0 group-title="LIFESTYLE",Discovery Theater
+http://179.63.36.2:8000/play/a0p6/index.m3u8
+#EXTINF:0 group-title="LIFESTYLE",Discovery Turbo
+http://179.63.36.2:8000/play/a0qs/index.m3u8
+#EXTINF:0 group-title="LIFESTYLE",Discovery World HD
+http://179.63.36.2:8000/play/a0pw/index.m3u8
 #EXTINF:0 group-title="LIFESTYLE",HGTV
 http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="LIFESTYLE", Discovery World HD
