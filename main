@@ -341,6 +341,53 @@ http://201.182.248.254:8888/play/a09d/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN Premium HD
 http://201.182.248.254:8888/play/a08k/index.m3u8
 
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="DEPORTES", Deportv
+http://181.13.173.86:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="DEPORTES", TyC Sports
+http://181.78.27.128:8000/play/a063/index.m3u8 
+#EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="DEPORTES", ESPN 2
+http://181.13.173.86:8000/play/a0ag/index.m3u8
+#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="DEPORTES", ESPN
+http://181.13.173.86:8000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="DEPORTES", ESPN 3
+http://181.13.173.86:8000/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTES", ESPN 4
+http://181.13.173.86:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="DEPORTES", FOX Sports
+http://181.13.173.86:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="DEPORTES", FOX Sports 2
+http://181.13.173.86:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="DEPORTES", FOX Sports 3
+http://181.13.173.86:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png"  group-title="DEPORTES", Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="DEPORTES", Golf Channel
+http://38.191.90.2:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="DEPORTES", Discovery Turbo
+http://181.13.173.86:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/45kfGAIjQV6l1g-dSf8A5Xa/737b30212189224ce8b1e13f4c1e8652/24_PXSports.png?fm=webp&q=80" group-title="DEPORTES", PX Sports
+http://200.115.96.66:4000/play/a0e0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="Deportes", AM Sports
+http://181.13.173.86:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD-IK1621-OK
+http://191.52.214.5:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 1 HD-IK1620-OK
+http://191.52.214.5:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD-IK1653
+http://191.52.214.5:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",GOLPERU HD-IK1624-OK
+http://191.52.214.5:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD-IK1623-OK
+http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD-IK1652 ok
+http://191.52.214.5:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD-IK1622-OK
+http://191.52.214.5:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="DEPORTES", ESPN Premium 
+http://181.13.173.86:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="DEPORTES", TNT Sports 
+http://181.13.173.86:8000/play/a02u/index.m3u8
 
 
 #EXTINF:-1 group-title="MÚSICA", Grandes del Rock
@@ -1473,26 +1520,32 @@ https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
 
 
-#EXTINF:-1,HBO HD
-http://gruposatelitalhd2.com/HBO.m3u8
-#EXTINF:-1,HBO Plus
-http://gruposatelitalhd2.com/HBOPLUS.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://gruposatelitalhd2.com/HBOXTREME.m3u8
-#EXTINF:-1,Sony HD
-http://gruposatelitalhd2.com/SONY.m3u8
-#EXTINF:-1,Space HD
-http://gruposatelitalhd2.com/SPACE.m3u8
-#EXTINF:-1,TNT HD
-http://gruposatelitalhd2.com/TNT.m3u8
-#EXTINF:-1,TNT Series HD
-http://gruposatelitalhd2.com/TNTSERIES.m3u8
-#EXTINF:-1,Nat Geo HD
-http://gruposatelitalhd2.com/NATGEO.m3u8
-#EXTINF:-1,MTV 00s
-http://gruposatelitalhd2.com/MTV00S.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+gruposatelitalhd2.com/STAR17M.m3u8
 #EXTINF:-1,Cinecanal HD
-http://gruposatelitalhd2.com/CINECANAL.m3u8
+gruposatelitalhd2.com/CINE17M.m3u8
+#EXTINF:-1,Space HD
+gruposatelitalhd2.com/S17M.m3u8
+#EXTINF:-1,HBO
+gruposatelitalhd2.com/H17M.m3u8
+#EXTINF:-1,HBO 2
+gruposatelitalhd2.com/H217M.m3u8
+#EXTINF:-1,HBO EXTREME
+gruposatelitalhd2.com/HE17M.m3u8
+#EXTINF:-1,Nickelodeon
+gruposatelitalhd2.com/NICK17M.m3u8
+#EXTINF:-1,FX HD
+gruposatelitalhd2.com/FX17M.m3u8
+#EXTINF:-1,FILM AND ARTS
+gruposatelitalhd2.com/FA17M.m3u8
+#EXTINF:-1,TNTNOVELAS
+gruposatelitalhd2.com/TNOV17M.m3u8
+#EXTINF:-1,Discovery Theater HD
+gruposatelitalhd2.com/DT17M.m3u8
+#EXTINF:-1,ESPN HD
+gruposatelitalhd2.com/E17M.m3u8
+#EXTINF:-1,ESPN 2 HD
+gruposatelitalhd2.com/E217M.m3u8
 
 
 
@@ -1502,50 +1555,3 @@ http://gruposatelitalhd2.com/CINECANAL.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="DEPORTES", Deportv
-http://181.13.173.86:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="DEPORTES", TyC Sports
-http://181.78.27.128:8000/play/a063/index.m3u8 
-#EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="DEPORTES", ESPN 2
-http://181.13.173.86:8000/play/a0ag/index.m3u8
-#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="DEPORTES", ESPN
-http://181.13.173.86:8000/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="DEPORTES", ESPN 3
-http://181.13.173.86:8000/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTES", ESPN 4
-http://181.13.173.86:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="DEPORTES", FOX Sports
-http://181.13.173.86:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="DEPORTES", FOX Sports 2
-http://181.13.173.86:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="DEPORTES", FOX Sports 3
-http://181.13.173.86:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png"  group-title="DEPORTES", Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="DEPORTES", Golf Channel
-http://38.191.90.2:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="DEPORTES", Discovery Turbo
-http://181.13.173.86:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/45kfGAIjQV6l1g-dSf8A5Xa/737b30212189224ce8b1e13f4c1e8652/24_PXSports.png?fm=webp&q=80" group-title="DEPORTES", PX Sports
-http://200.115.96.66:4000/play/a0e0/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="Deportes", AM Sports
-http://181.13.173.86:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX Sports 2 HD-IK1621-OK
-http://191.52.214.5:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 1 HD-IK1620-OK
-http://191.52.214.5:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD-IK1653
-http://191.52.214.5:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOLPERU HD-IK1624-OK
-http://191.52.214.5:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD-IK1623-OK
-http://191.52.214.5:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD-IK1652 ok
-http://191.52.214.5:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD-IK1622-OK
-http://191.52.214.5:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="DEPORTES", ESPN Premium 
-http://181.13.173.86:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="DEPORTES", TNT Sports 
-http://181.13.173.86:8000/play/a02u/index.m3u8
