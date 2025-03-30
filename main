@@ -1219,24 +1219,13 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 
-#EXTINF:-1,MTV
-http://50.7.137.106:8080/MTV/index.m3u8?token=test
+
 #EXTINF:-1,TVI HD
 http://50.7.137.106:8080/TVI/index.m3u8?token=test
-#EXTINF:-1,VH1
-http://50.7.137.106:8080/VH1/index.m3u8?token=test
-#EXTINF:-1,FOX HD
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
-#EXTINF:-1,DISCOVERY HD
-http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
-#EXTINF:-1,AMC HD
-http://50.7.137.106:8080/AMC/index.m3u8?token=test
-#EXTINF:-1,SYFY HD
-http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+
 #EXTINF:-1,HOLLYWOOD HD
 http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
-#EXTINF:-1,AXN HD
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
+
 
 
 
@@ -1362,58 +1351,18 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1,A&E HD-IK1605-OK
-http://191.52.214.5:8000/play/a01s/index.m3u8
-#EXTINF:-1,AMC HD-IK1633-OK
-http://191.52.214.5:8000/play/a02x/index.m3u8
-#EXTINF:-1,AXN HD-IK1617-OK
-http://191.52.214.5:8000/play/a01v/index.m3u8
-#EXTINF:-1,Animal Planet HD-IK1601-OK
-http://191.52.214.5:8000/play/a038/index.m3u8
-#EXTINF:-1,Cartoon Network HD-IK1610-OK
-http://191.52.214.5:8000/play/a031/index.m3u8
-#EXTINF:-1,Cinemax HD-IK1627-OK
-http://191.52.214.5:8000/play/a02a/index.m3u8
-#EXTINF:-1,Comedy Central HD-IK1649-OK
-http://191.52.214.5:8000/play/a02b/index.m3u8
+
 #EXTINF:-1,DW - 1651
 http://191.52.214.5:8000/play/a06f/index.m3u8
-#EXTINF:-1,Discovery H&H HD-IK1602-OK
-http://191.52.214.5:8000/play/a02i/index.m3u8
-#EXTINF:-1,Discovery Kids HD-IK1608-OK
-http://191.52.214.5:8000/play/a02h/index.m3u8
+
 #EXTINF:-1,Discovery Theater HD-IK1609-OK
 http://191.52.214.5:8000/play/a02j/index.m3u8
-#EXTINF:-1,E! HD-IK1615-OK
-http://191.52.214.5:8000/play/a03f/index.m3u8
-#EXTINF:-1,Golden HD-IK1662-OK
-http://191.52.214.5:8000/play/a03b/index.m3u8
-#EXTINF:-1,HBO 2 HD-IK1661-OK
-http://191.52.214.5:8000/play/a06o/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://191.52.214.5:8000/play/a06q/index.m3u8
-#EXTINF:-1,HBO HD-IK1663
-http://191.52.214.5:8000/play/a02z/index.m3u8
-#EXTINF:-1,HBO XTREME HD-IK1632-OK
-http://191.52.214.5:8000/play/a03x/index.m3u8
-#EXTINF:-1,History Channel HD-IK1604-OK
-http://191.52.214.5:8000/play/a01r/index.m3u8
-#EXTINF:-1,Nat Geo HD-IK1606-OK
-http://191.52.214.5:8000/play/a02u/index.m3u8
-#EXTINF:-1,Paramount HD-IK1619-OK
-http://191.52.214.5:8000/play/a032/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD-IK1629-OK
-http://191.52.214.5:8000/play/a02k/index.m3u8
-#EXTINF:-1,FX HD-IKS-1625-OK
-http://191.52.214.5:8000/play/a02r/index.m3u8
-#EXTINF:-1,Space HD-IK1626-OK
-http://191.52.214.5:8000/play/a01w/index.m3u8
+
 #EXTINF:-1,TNT HD-IK1608
 http://191.52.214.5:8000/play/a024/index.m3u8
 #EXTINF:-1,TNT Series HD-IK1618-OK
 http://191.52.214.5:8000/play/a059/index.m3u8
-#EXTINF:-1,Warner Channel HD-IK1631-HD
-http://191.52.214.5:8000/play/a01u/index.m3u8
+
 #EXTINF:0,USA
 http://190.60.42.86:8000/play/a00y/index.m3u8
 #EXTINF:0,DREAMWORK
@@ -1422,10 +1371,7 @@ http://190.60.42.86:8000/play/a011/index.m3u8
 http://190.60.42.86:8000/play/a03b/index.m3u8
 #EXTINF:0,GOLDEN HD
 http://190.60.42.86:8000/play/a00u/index.m3u8
-#EXTINF:-1,MTV 00s HD
-http://181.78.82.6:46090/play/a062/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://181.78.82.6:46090/play/a061/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png",VH1
 http://212.102.60.231/VH1/index.m3u8
 
@@ -1437,99 +1383,22 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
 
-
-#EXTINF:-1,DISCOVERY HD
-http://181.78.82.6:46090/play/a05m/index.m3u8
-#EXTINF:-1,DISCOVERY H&H HD
-http://181.78.82.6:46090/play/a018/index.m3u8
-#EXTINF:-1,DISCOVERY THEATER HD
-http://181.78.82.6:46090/play/a019/index.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://181.78.82.6:46090/play/a03g/index.m3u8
-#EXTINF:-1,DISCOVERY WORLD HD
-http://181.78.82.6:46090/play/a01i/index.m3u8
-
 #EXTINF:-1,LOVE NATURE 
 http://181.78.82.6:46090/play/a059/index.m3u8
-#EXTINF:-1,HISTORY HD
-http://181.78.82.6:46090/play/a00c/index.m3u8
-#EXTINF:-1,HISTORY 2 HD
-http://181.78.82.6:46090/play/a02h/index.m3u8
 
-#EXTINF:-1,Discovery H&H HD
-http://45.71.37.194:8010/play/a01u/index.m3u8
-#EXTINF:-1,Discovery HD
-http://45.71.37.194:8010/play/a03w/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://45.71.37.194:8010/play/a01v/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://45.71.37.194:8010/play/a02c/index.m3u8
-
-#EXTINF:-1,DISCOVERY WORLD HD
-http://181.78.82.6:46090/play/a01i/index.m3u8
-#EXTINF:-1,DISCOVERY WORLD HD
-http://181.78.82.6:46090/play/a01i/index.m3u8
 #EXTINF:0,HGTV
 http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:0,HISTORY
 http://190.60.42.86:8000/play/a01z/index.m3u8
 #EXTINF:0,HISTORY 2
 http://190.60.42.86:8000/play/a022/index.m3u8
-#EXTINF:0,HOGAR TV
-http://190.60.42.86:8000/play/a01f/index.m3u8
-#EXTINF:-1,Concert Channel
-http://181.78.107.162:49000/play/a02r/index.m3u8
-#EXTINF:-0, National Geographic Wild
-http://176.65.146.108:8022/play/a06z/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png",American Pickers
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKadCsg.png",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" ,Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,FX
-https://streamer1.nexgen.bz/FX/index.m3u8
-#EXTINF:-1,HISTORY
-https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1,LIFETIME
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-
-
-
-
-#EXTINF:-1,STAR CHANNEL HD
-gruposatelitalhd2.com/STAR17M.m3u8
-#EXTINF:-1,Cinecanal HD
-gruposatelitalhd2.com/CINE17M.m3u8
-#EXTINF:-1,Space HD
-gruposatelitalhd2.com/S17M.m3u8
-#EXTINF:-1,HBO
-gruposatelitalhd2.com/H17M.m3u8
-#EXTINF:-1,HBO 2
-gruposatelitalhd2.com/H217M.m3u8
-#EXTINF:-1,HBO EXTREME
-gruposatelitalhd2.com/HE17M.m3u8
-#EXTINF:-1,Nickelodeon
-gruposatelitalhd2.com/NICK17M.m3u8
-#EXTINF:-1,FX HD
-gruposatelitalhd2.com/FX17M.m3u8
-#EXTINF:-1,FILM AND ARTS
-gruposatelitalhd2.com/FA17M.m3u8
-#EXTINF:-1,TNTNOVELAS
-gruposatelitalhd2.com/TNOV17M.m3u8
-#EXTINF:-1,Discovery Theater HD
-gruposatelitalhd2.com/DT17M.m3u8
-#EXTINF:-1,ESPN HD
-gruposatelitalhd2.com/E17M.m3u8
-#EXTINF:-1,ESPN 2 HD
-gruposatelitalhd2.com/E217M.m3u8
-
-
-
-
-
-
-
 
 
