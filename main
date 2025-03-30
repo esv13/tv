@@ -383,17 +383,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
 
-
-#EXTINF:-1 group-title="USA", ABC HD
-http://181.114.57.246:4000/play/bhAmBxmCwn3VLbnJ/index.m3u8
-#EXTINF:-1 group-title="USA", CBS
-http://181.114.57.246:4000/play/SJc3fvCpEhFAv6N2/index.m3u8
-#EXTINF:-1 group-title="USA", NBC
-http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="USA",ABC East (Columba)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="USA",CBS West (Los Angeles)
-http://74.48.44.156:1234/stream/asd/488/master.m3u8
 #EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="USA",NBC East (Chicago)
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/200px-Discovery_Life_logo_2016.svg.png" group-title="USA", Discovery Life
