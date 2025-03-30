@@ -24,6 +24,11 @@ https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
 #EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", COSQUIN ROCK ESCENARIO MONTAÑA
 https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 
+
+
+#EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
+http://190.60.38.114:1010/play/a06s/index.m3u8
+
 #EXTINF:-1 group-title="LIFESTYLE",HGTV
 http://190.171.83.2:4000/play/a0o4/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
@@ -296,18 +301,6 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 http://212.102.60.231/HBO/index.m3u8
 
 
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL CINEMA ESTE HD
-http://38.252.238.204:6102/play/a03g/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL COMEDY HD
-http://38.252.238.204:6102/play/a032/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL CRIME HD
-http://38.252.238.204:6102/play/a031/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL PREMIERE HD
-http://38.252.238.204:6102/play/a02y/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL PREMIERE O HD
-http://38.252.238.204:6102/play/a02z/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL REALITY HD
-http://38.252.238.204:6102/play/a030/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="DEPORTES ARG",TyC Sports Internacional (op 2)
@@ -339,131 +332,8 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTINF:-1 group-title="TV CABLE",Discovery World HD
-http://190.60.38.114:1010/play/a06s/index.m3u8
-
-#EXTINF:-1 group-title="TV CABLE",Discovery Channel HD
-http://38.252.238.204:6102/play/a03b/index.m3u8
-
-#EXTINF:-1 group-title="TV CABLE",History HD
-http://38.252.238.204:6102/play/a010/index.m3u8
-#EXTINF:-1 group-title="TV CABLE",Home & Health HD
-http://38.252.238.204:6102/play/a02t/index.m3u8
-#EXTINF:-1 group-title="TV CABLE", History
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
-#EXTINF:-1 group-title="TV CABLE", Discovery
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
-#EXTINF:-1 group-title="TV CABLE", Discovery Turbo
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
-#EXTINF:-1 group-title="TV CABLE", Discovery H&H
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
-#EXTINF:-1 group-title="TV CABLE", Discovery HGTV
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
-#EXTINF:-11 group-title="TV CABLE" ,Discovery World
-https://delivery.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
-#EXTINF:-1 group-title="TV CABLE" ,Discovery ID
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
-#EXTINF:-1 group-title="TV CABLE" ,Discovery SCI
-https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="820" tvg-logo="https://i.imgur.com/BRzYkgO.png"" group-title="TV CABLE", Cinemax
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.imgur.com/b1LaoMQ.png" group-title="TV CABLE",SPACE
-https://tv1.strm2234.xyz/space/index.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/faMKmJ1.png" group-title="TV CABLE",TNT
-https://tv1.strm2234.xyz/tnt/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , Sony HD
-https://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , A&E
-https://181.114.57.246:4000/play/8XG7XmKxcXbmsbJG/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , Starz HD
-https://181.114.57.246:4000/play/tyuptHZqYdP3wcU7/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , STARZ COMEDY
-https://181.114.57.246:4000/play/d9wMw4hRpVVkXFmF/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , Universal
-https://181.114.57.246:4000/play/Um9B9zJk9LEqj7aA/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , AXN HD
-https://181.114.57.246:4000/play/8Cq8VftfuLDUjBSh/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , Paramount
-https://181.114.57.246:4000/play/1DeeCTuOYU9GJRg9/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , AZ Cinema
-https://181.114.57.246:4000/play/ppDuxzpFe2YZtbph/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , Studio Universal
-https://181.114.57.246:4000/play/sJRs4XE38K9b5FEJ/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" , Cinecanal HD
-https://181.114.57.246:4000/play/AS2ESM6kwGDqHCaX/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" ,Cine Latino
-https://38.180.133.31:8000/play/a0qa/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" ,,CineCanal
-https://38.180.133.31:8000/play/a0qd/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" ,CineMax
-https://38.180.133.31:8000/play/a0qb/index.m3u8
-#EXTINF:-1 group-title="TV CABLE" ,Cinemax
-https://38.180.133.31:8000/play/a0sa/index.m3u8
-
-#EXTINF:-1 group-title="TV CABLE" , TVE
-https://181.114.57.246:4000/play/YLBNzWjum7u9gpQC/index.m3u8
 
 
-
-
-#EXTINF:-1 group-title="TV CABLE", TELEFE
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
-#EXTINF:-1group-title="TV CABLE" tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
-#EXTINF:-1  group-title="TV CABLE",A24
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
-#EXTINF:-1  group-title="TV CABLE",C5N
-https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
-#EXTINF:-1  group-title="TV CABLE",Canal 9
-https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
-#EXTINF:-1  group-title="TV CABLE",Canal 13
-https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-#EXTINF:-1  group-title="TV CABLE",Telefe
-https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
-#EXTINF:-1  group-title="TV CABLE",Tv Publica
-https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
-#EXTINF:-1 group-title="TV CABLE" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Multiplex -1 hora
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV CABLE"tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV CABLE"tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV CABLE", Star Channel
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-#EXTINF:-1 group-title="TV CABLE", TNT
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
-#EXTINF:-1 group-title="TV CABLE", TNT Series
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
-#EXTINF:-1 group-title="TV CABLE", Cinecanal
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
-#EXTINF:-1 group-title="TV CABLE", Space
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
-#EXTINF:-1 group-title="TV CABLE", Universal Tv
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
-#EXTINF:-1 group-title="TV CABLE", aMC
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
-#EXTINF:-1 group-title="TV CABLE", Universal Studio 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
-#EXTINF:-1 group-title="TV CABLE", Sonny Channel
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
-#EXTINF:-1 group-title="TV CABLE", AXN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
-#EXTINF:-1 group-title="TV CABLE", FX
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
-#EXTINF:-1 group-title="TV CABLE", Warner TV
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
-#EXTINF:-1 group-title="TV CABLE", Animal Planet
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Movies",TVI HD
-http://50.7.137.106:8080/TVI/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Movies",HOLLYWOOD HD
 http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
