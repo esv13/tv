@@ -25,6 +25,25 @@ https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
 https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 
 
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 4
+https://fl6.moveonjoy.com/PPV_4/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 5
+https://fl6.moveonjoy.com/PPV_5/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 7
+https://fl6.moveonjoy.com/PPV_7/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 1
+http://fl6.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 2
+http://fl6.moveonjoy.com/PPV_2/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 3
+http://fl6.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 6
+http://fl6.moveonjoy.com/PPV_6/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
 http://190.60.38.114:1010/play/a06s/index.m3u8
@@ -92,6 +111,38 @@ http://181.78.23.162:8000/play/a065/index.m3u8
 
 
 
+#EXTINF:-1 group-title="DEPORTES", CA: TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CA: TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CA: TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CA: TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", CA: TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: SNY
+https://fl6.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: YES NETWORK
+https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: MSG 2
+https://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: NBC_SPORTS_BOSTON
+https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: BALLY_SPORTS_DETROIT
+https://fl6.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: BALLY_SPORTS_FLORIDA
+https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: BALLY_SPORTS_MIDWEST
+https://fl6.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: BALLY_SPORTS_ARIZONA
+https://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: BALLY_SPORTS_NEW_ORLEANS
+https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", US: DAZN_1
+https://fl4.moveonjoy.com/DAZN_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: DAZN_2
+https://fl4.moveonjoy.com/DAZN_2/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", TSN 1 🇨🇦
 http://212.102.60.231/TSN_1/index.m3u8
@@ -171,7 +222,8 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="beINSports.us" tvg-name="beIN Sports HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75"  group-title="DEPORTES",beIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13 (Chile)
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="DEPORTES",Abu Dhabi Sports 2 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="DEPORTES",Dubai Sports 2
@@ -300,7 +352,10 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="HBO PREMIUM" ,HBO
 http://212.102.60.231/HBO/index.m3u8
 
-
+#EXTINF:-1 group-title="group-title="HBO PREMIUM"", HBO
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="group-title="HBO PREMIUM", HBO FAMILY
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="DEPORTES ARG",TyC Sports Internacional (op 2)
@@ -359,7 +414,10 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
+#EXTINF:-1 group-title="USA", US: ABC EAST
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="USA", ABC EAST
+http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="USA",NBC East (Chicago)
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/200px-Discovery_Life_logo_2016.svg.png" group-title="USA", Discovery Life
@@ -617,7 +675,8 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",RTDoc
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="Internacional",Zina TV Wild
@@ -772,7 +831,8 @@ http://streaming.tv-teleport.ru/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="Family",四川妇女儿童 (720p) [Not 24/7]
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 
-
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Música", VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-id="CMElCanaldelaMusica.ar" tvg-name="CM El Canal de la Musica" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-one-103-7/play_250_250.jpg" group-title="Música",OneRadio TV
 https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 #EXTINF: -1 tvg-id="MasFM.ar" tvg-name="Más FM" tvg-logo="https://i.imgur.io/TJ4gWQM_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Más FM
