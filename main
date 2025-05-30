@@ -144,8 +144,12 @@ https://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
 https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", US: DAZN_1
 https://fl4.moveonjoy.com/DAZN_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: DAZN_2
+#EXTINF:-1 group-title="DEPORTES", US: DAZN_2
 https://fl4.moveonjoy.com/DAZN_2/index.m3u8
+#EXTINF:0 group-title="DEPORTES",|BE| DAZN PRO LEAGUE 1
+http://185.236.230.212:9982/play/a09q
+#EXTINF:0 group-title="DEPORTES",|CZ| CANAL+ SPORT 2 HD
+http://185.236.230.212:9982/play/a0b9
 
 #EXTINF:-1 group-title="DEPORTES", TSN 1 🇨🇦
 http://212.102.60.231/TSN_1/index.m3u8
