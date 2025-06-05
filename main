@@ -303,7 +303,14 @@ http://181.13.173.86:8000/play/a02u/index.m3u8
 http://190.171.83.2:4000/play/a0g4/index.m3u8
 
 
-
+#EXTINF:-1 group-title="-",HBO Family HD
+190.116.38.19:9090/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+190.116.38.19:9090/play/a050/index.m3u8
+#EXTINF:-1 group-title="-",HBO POP HD
+190.116.38.19:9090/play/a010/index.m3u8
+#EXTINF:-1 group-title="-"HBO XTREME HD
+190.116.38.19:9090/play/a08e/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
 152.200.150.150:8000/play/a0fr/index.m3u8
 #EXTINF:-1 group-title="-",ADULT SWIN
