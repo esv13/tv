@@ -15,18 +15,15 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 ,TVI HD
 http://50.7.137.106:8080/TVI/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View )", PPV TICKET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
 https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8?eventos1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View )", PPV TICKET 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
 https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8?eventos2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9p7K4kC/In-Shot-20250102-044139051.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV DEPORTES TICKET
-https://s3.tvdatta.com:3760/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", COSQUIN ROCK ESCENARIO NORTE
-https://s3.tvdatta.com:3167/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", COSQUIN ROCK ESCENARIO SUR
+
+#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", MIX
 https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
-#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", COSQUIN ROCK ESCENARIO MONTAÑA
+#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", MiX 2
 https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 
 
