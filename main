@@ -46,70 +46,17 @@ http://fl6.moveonjoy.com/PPV_6/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
-http://190.60.38.114:1010/play/a06s/index.m3u8
-
-#EXTINF:-1 group-title="LIFESTYLE",HGTV
-http://190.171.83.2:4000/play/a0o4/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
-http://190.171.83.2:4000/play/a0lt/index.m3u8
-#EXTINF:0 group-title="LIFESTYLE",Discovery Theater
-http://179.63.36.2:8000/play/a0p6/index.m3u8
-#EXTINF:0 group-title="LIFESTYLE",Discovery Turbo
-http://179.63.36.2:8000/play/a0qs/index.m3u8
-#EXTINF:0 group-title="LIFESTYLE",Discovery World HD
-http://179.63.36.2:8000/play/a0pw/index.m3u8
 #EXTINF:0 group-title="LIFESTYLE",HGTV
 http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="LIFESTYLE", Discovery World HD
 http://201.217.246.166:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",Discovery H&H HD-IK1602-OK
-http://191.52.214.5:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery Theater HD-IK1609-OK
 http://191.52.214.5:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",DW - 1651
-http://191.52.214.5:8000/play/a06f/index.m3u8
-#EXTINF:11 group-title="LIFESTYLE", HGTV
-http://201.182.248.254:8888/play/a09t/index.m3u8
-#EXTINF:11 group-title="LIFESTYLE", Discovery World HD
-http://201.182.248.254:8888/play/a07x/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",HGTV
 http://181.78.82.6:46090/play/a05b/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",HGTV 
-https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",HGTV
-https://tx2.nexgen.bz:4000//HGTV/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
-http://38.252.238.204:6102/play/a03c/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",DISC THEATHER HD
-http://38.252.238.204:6102/play/a02s/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",HISTORY
-https://tx2.nexgen.bz:4000//HISTORY/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",HISTORY
-https://streamer1.nexgen.bz//HISTORY/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",DISCOVERY
-https://streamer1.nexgen.bz//DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270",Discovery Life
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"  group-title="LIFESTYLE",Love Nature
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",OUTDOOR
-https://tx2.nexgen.bz:4000//OUTDOOR/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" ,Discovery H&H HD
-http://181.174.228.134:8998/play/a00m/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" ,Discovery HD
-http://181.174.228.134:8998/play/a00j/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" ,Discovery World HD
-http://181.174.228.134:8998/play/a006/index.m3u8
-#EXTINF:0 group-title="LIFESTYLE",Discovery Science
-http://181.78.23.162:8000/play/a058/index.m3u8
-#EXTINF:0 group-title="LIFESTYLE",Discovery Theater HD
-http://181.78.23.162:8000/play/a074/index.m3u8
-#EXTINF:0 group-title="LIFESTYLE",Discovery World HD
-http://181.78.23.162:8000/play/a0m3/index.m3u8
-#EXTINF:0 group-title="LIFESTYLE",Discovery World HD
-http://181.78.23.162:8000/play/a065/index.m3u8
+
 
 
 #EXTINF:-1 group-title="DEPORTES",NBA TV
@@ -298,132 +245,6 @@ http://181.13.173.86:8000/play/a078/index.m3u8
 http://181.13.173.86:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://190.171.83.2:4000/play/a0g4/index.m3u8
-
-
-#EXTINF:-1 group-title="-",HBO Family HD
-190.116.38.19:9090/play/a083/index.m3u8
-#EXTINF:-1 group-title="-",HBO HD
-190.116.38.19:9090/play/a050/index.m3u8
-#EXTINF:-1 group-title="-",HBO POP HD
-190.116.38.19:9090/play/a010/index.m3u8
-#EXTINF:-1 group-title="-"HBO XTREME HD
-190.116.38.19:9090/play/a08e/index.m3u8
-#EXTINF:-1 group-title="-",A&E HD
-152.200.150.150:8000/play/a0fr/index.m3u8
-#EXTINF:-1 group-title="-",ADULT SWIN
-152.200.150.150:8000/play/a0hi/index.m3u8
-#EXTINF:-1 group-title="-",AE Mundo
-152.200.150.150:8000/play/a0mb/index.m3u8
-#EXTINF:-1 group-title="-",AMC
-152.200.150.150:8000/play/a0fl/index.m3u8
-#EXTINF:-1 group-title="-",AXN
-152.200.150.150:8000/play/a0lr/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet
-152.200.150.150:8000/play/a0mc/index.m3u8
-#EXTINF:-1 group-title="-",Cinecanal HD
-152.200.150.150:8000/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax HD
-152.200.150.150:8000/play/a0fi/index.m3u8
-#EXTINF:-1 group-title="-",Comedy Central HD
-152.200.150.150:8000/play/a0fs/index.m3u8
-#EXTINF:-1 group-title="-",DW Español
-152.200.150.150:8000/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel
-152.200.150.150:8000/play/a0md/index.m3u8
-#EXTINF:-1 group-title="-",Discovery H&H HD
-152.200.150.150:8000/play/a0f7/index.m3u8
-#EXTINF:-1 group-title="-",Discovery H&H HD
-152.200.150.150:8000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="-",Discovery HD
-152.200.150.150:8000/play/a0ds/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Home and Health
-152.200.150.150:8000/play/a0mh/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
-152.200.150.150:8000/play/a0m2/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
-152.200.150.150:8000/play/a0du/index.m3u8
-#EXTINF:-1 group-title="-",Disney Channel
-152.200.150.150:8000/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="-",Disney HD
-152.200.150.150:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="-",Disney Jr
-152.200.150.150:8000/play/a0jv/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
-152.200.150.150:8000/play/a0lg/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
-152.200.150.150:8000/play/a0kb/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2
-152.200.150.150:8000/play/a0jy/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-152.200.150.150:8000/play/a0g6/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-152.200.150.150:8000/play/a09x/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3
-152.200.150.150:8000/play/a0m4/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
-152.200.150.150:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4HD
-152.200.150.150:8000/play/a0dt/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5
-152.200.150.150:8000/play/a0kw/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5HD
-152.200.150.150:8000/play/a0ed/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6
-152.200.150.150:8000/play/a0kk/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6HD
-152.200.150.150:8000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6HD
-152.200.150.150:8000/play/a0fm/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7
-152.200.150.150:8000/play/a0kj/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-152.200.150.150:8000/play/a0hf/index.m3u8
-#EXTINF:-1 group-title="-",Europa Europa
-152.200.150.150:8000/play/a0he/index.m3u8
-#EXTINF:-1 group-title="-",FX
-152.200.150.150:8000/play/a0lt/index.m3u8
-#EXTINF:-1 group-title="-",FX HD
-152.200.150.150:8000/play/a0ee/index.m3u8
-#EXTINF:-1 group-title="-",Golden Edge
-152.200.150.150:8000/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="-",Golden HD
-152.200.150.150:8000/play/a0gg/index.m3u8
-#EXTINF:-1 group-title="-",HGTV
-152.200.150.150:8000/play/a0ht/index.m3u8
-#EXTINF:-1 group-title="-",HOGAR TV
-152.200.150.150:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="-",History 2
-152.200.150.150:8000/play/a0h8/index.m3u8
-#EXTINF:-1 group-title="-",History Channel
-152.200.150.150:8000/play/a0mj/index.m3u8
-#EXTINF:-1 group-title="-",National Geographic
-152.200.150.150:8000/play/a0j1/index.m3u8
-#EXTINF:-1 group-title="-",Paramount HD
-152.200.150.150:8000/play/a0fn/index.m3u8
-#EXTINF:-1 group-title="-",STAR CHANNEL HD
-152.200.150.150:8000/play/a0eh/index.m3u8
-#EXTINF:-1 group-title="-",Sony
-152.200.150.150:8000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="-",Sony Movies
-152.200.150.150:8000/play/a0ff/index.m3u8
-#EXTINF:-1 group-title="-",Space HD
-152.200.150.150:8000/play/a09w/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal
-152.200.150.150:8000/play/a0mo/index.m3u8
-#EXTINF:-1 group-title="-",TLC
-152.200.150.150:8000/play/a0kg/index.m3u8
-#EXTINF:-1 group-title="-",TNT
-152.200.150.150:8000/play/a0jb/index.m3u8
-#EXTINF:-1 group-title="-",TNT HD
-152.200.150.150:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="-",TNT Novelas
-152.200.150.150:8000/play/a0kp/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series HD
-152.200.150.150:8000/play/a0ef/index.m3u8
-#EXTINF:-1 group-title="-",USA SD
-152.200.150.150:8000/play/a0jj/index.m3u8
-#EXTINF:-1 group-title="-",Universal
-152.200.150.150:8000/play/a0mp/index.m3u8
 
 
 
