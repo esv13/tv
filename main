@@ -348,7 +348,10 @@ https://x4new.newkso.ru/x4/skymix/mono.m3u8
 https://x4new.newkso.ru/x4/ustvhbo/mono.m3u8
 
 
-
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Nacionales", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MÚSICA", Grandes del Rock
