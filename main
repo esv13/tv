@@ -58,6 +58,12 @@ http://181.78.82.6:46090/play/a05b/index.m3u8
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
 
+EXTINF:-1 group-title="DEPORTES", DSPORTS 1
+http://38.211.242.128:8001/play/a09s/index.m3u8
+EXTINF:-1 group-title="DEPORTES", DSPORTS 2
+http://38.211.242.128:8001/play/a05g/index.m3u8
+EXTINF:-1 group-title="DEPORTES", DSPORTS +
+http://38.211.242.128:8001/play/a05h/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",NBA TV
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
