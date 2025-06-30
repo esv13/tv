@@ -58,12 +58,50 @@ http://181.78.82.6:46090/play/a05b/index.m3u8
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
 
-EXTINF:-1 group-title="DEPORTES", DSPORTS 1
+
+EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 1
 http://38.211.242.128:8001/play/a09s/index.m3u8
-EXTINF:-1 group-title="DEPORTES", DSPORTS 2
+EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 2
 http://38.211.242.128:8001/play/a05g/index.m3u8
-EXTINF:-1 group-title="DEPORTES", DSPORTS +
+EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS +
 http://38.211.242.128:8001/play/a05h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",TNT Sports HD
+http://181.10.123.154:14000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",ESPN Premium HD
+http://181.10.123.154:14000/play/a078/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",ESPN HD
+http://181.10.123.154:14000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",ESPN 2 HD
+http://181.10.123.154:14000/play/a059/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",ESPN 3 HD
+http://181.10.123.154:14000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",ESPN 4 HD
+http://181.10.123.154:14000/play/a076/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",Fox Sports HD
+http://181.10.123.154:14000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",Fox Sports 2 HD
+http://181.10.123.154:14000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",Fox Sports 3 HD
+http://181.10.123.154:14000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",TyC Sports HD
+http://181.10.123.154:14000/play/a02s/index.m3u8
+
+
+
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://181.78.85.53:9002/play/a09p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://181.78.85.53:9002/play/a00p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://181.78.85.53:9002/play/a02x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
+http://181.78.85.53:9002/play/a00q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
+http://181.78.85.53:9002/play/a049/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://181.78.85.53:9002/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://181.78.85.53:9002/play/a02z/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",NBA TV
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
@@ -237,27 +275,6 @@ http://181.13.173.86:8000/play/a078/index.m3u8
 http://181.13.173.86:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://190.171.83.2:4000/play/a0g4/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",TNT Sports HD
-http://181.10.123.154:14000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://181.10.123.154:14000/play/a078/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://181.10.123.154:14000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://181.10.123.154:14000/play/a059/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://181.10.123.154:14000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://181.10.123.154:14000/play/a076/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports HD
-http://181.10.123.154:14000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 HD
-http://181.10.123.154:14000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD
-http://181.10.123.154:14000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TyC Sports HD
-http://181.10.123.154:14000/play/a02s/index.m3u8
 
 
 #EXTINF:-1 group-title="-",HGTV
