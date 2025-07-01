@@ -59,11 +59,11 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 
 
 
-EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 1
+#EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 1
 http://38.211.242.128:8001/play/a09s/index.m3u8
-EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 2
+#EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 2
 http://38.211.242.128:8001/play/a05g/index.m3u8
-EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS +
+#EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS +
 http://38.211.242.128:8001/play/a05h/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ARGENTINA",TNT Sports HD
 http://181.10.123.154:14000/play/a0bc/index.m3u8
