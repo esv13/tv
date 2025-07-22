@@ -627,6 +627,10 @@ https://musicsrc.cvattv.com.ar/RM45
 https://musicsrc.cvattv.com.ar/RM22
 #EXTINF:-1 group-title="MÚSICA", Aspen 102.3
 https://24463.live.streamtheworld.com/ASPEN.mp3?dist=infobae
+#EXTINF:-1 group-title="MÚSICA",011FM Jazz Collection
+https://listen.011fm.com/stream11
+
+
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png"  group-title="HBO PREMIUM" ,HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
