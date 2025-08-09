@@ -59,12 +59,7 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 
 
 
-#EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 1
-http://38.211.242.128:8001/play/a09s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS 2
-http://38.211.242.128:8001/play/a05g/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ARGENTINA", DSPORTS +
-http://38.211.242.128:8001/play/a05h/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES ARGENTINA",TNT Sports HD
 http://181.10.123.154:14000/play/a0bc/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ARGENTINA",ESPN Premium HD
@@ -88,24 +83,6 @@ http://181.10.123.154:14000/play/a02s/index.m3u8
 
 
 
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://181.78.85.53:9002/play/a09p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://181.78.85.53:9002/play/a00p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://181.78.85.53:9002/play/a02x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
-http://181.78.85.53:9002/play/a00q/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
-http://181.78.85.53:9002/play/a049/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://181.78.85.53:9002/play/a00h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://181.78.85.53:9002/play/a02z/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 HD
-38.180.133.31:8000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Golf Channel HD
-http://38.180.133.31:8000/play/a0o7/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
 http://38.180.133.31:8000/play/a0wd/index.m3u8
@@ -303,10 +280,6 @@ http://191.52.214.5:8000/play/a027/index.m3u8
 http://191.52.214.5:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN HD-IK1622-OK
 http://191.52.214.5:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="DEPORTES", ESPN Premium 
-http://181.13.173.86:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="DEPORTES", TNT Sports 
-http://181.13.173.86:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://190.171.83.2:4000/play/a0g4/index.m3u8
 
