@@ -80,6 +80,8 @@ http://181.10.123.154:14000/play/a05c/index.m3u8
 http://181.10.123.154:14000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ARGENTINA",TyC Sports HD
 http://181.10.123.154:14000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES ARGENTINA",DeporTV
+http://143.0.67.77:8000/play/a06h/index.m3u8
 
 
 
@@ -283,6 +285,72 @@ http://191.52.214.5:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://190.171.83.2:4000/play/a0g4/index.m3u8
 
+
+
+
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://143.0.67.77:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+http://143.0.67.77:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://143.0.67.77:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+http://143.0.67.77:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://143.0.67.77:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://143.0.67.77:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://143.0.67.77:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://143.0.67.77:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://190.97.230.10:8000/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+http://190.97.230.10:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://190.97.230.10:8000/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme SD
+http://190.97.230.10:8000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="-",HBO
+http://186.194.160.110:9002/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://186.194.160.110:9002/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://186.194.160.110:9002/play/a0hi/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+http://186.194.160.110:9002/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://186.194.160.110:9002/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://186.194.160.110:9002/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",HBO MUNDI
+http://186.194.160.110:9002/play/a034/index.m3u8
+#EXTINF:-1 group-title="-",HBO POP HD
+http://186.194.160.110:9002/play/a00j/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://186.194.160.110:9002/play/a0hf/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://186.194.160.110:9002/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="-",HBO Signature
+http://186.194.160.110:9002/play/a0hg/index.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME
+http://186.194.160.110:9002/play/a0he/index.m3u8
+#EXTINF:-1 group-title="-",History Channel
+http://190.97.230.10:8000/play/a0fa/index.m3u8
+
+#EXTINF:-1 group-title="-",MTV
+http://186.194.160.110:9002/play/a04y/index.m3u8
+#EXTINF:-1 group-title="-",MTV 00s
+http://186.194.160.110:9002/play/a0ka/index.m3u8
+#EXTINF:-1 group-title="-",MTV HD
+http://186.194.160.110:9002/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="-",MTV LIVE HD
+http://186.194.160.110:9002/play/a0jn/index.m3u8
+#EXTINF:-1 group-title="-",MTV LIVE HD
+http://186.194.160.110:9002/play/a05d/index.m3u8
+#EXTINF:11 group-title="-",CONCERT CHANNEL
+http://3190.56.9.114:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="-",Concert Channel
 http://38.180.133.31:8000/play/a0q6/index.m3u8
 #EXTINF:-1 group-title="-",HGTV
@@ -435,7 +503,7 @@ http://181.10.123.154:14000/play/a023/index.m3u8
 #EXTINF:-1 group-title="-",Universal HD
 http://181.10.123.154:14000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="-",Warner Channel HD
-181.10.123.154:14000/play/a05e/index.m3u8
+http://181.10.123.154:14000/play/a05e/index.m3u8
 
 
 
