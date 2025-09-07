@@ -6,8 +6,20 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons" tvg-logo="http://sunset-app.com/picons/247/simpsons2023.jpeg" group-title="CANALES 24/7",24/7 Los Simpsons
+http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/297623
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 1" tvg-logo="http://sunset-app.com/picons/24.7.2022/simpsons.jpg" group-title="CANALES 24/7",Los Simpsons 1
+http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/224986
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 2" tvg-logo="http://sunset-app.com/picons/247/simpsons2.jpg" group-title="CANALES 24/7",Los Simpsons 2
+http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/225009
+
+
+
 #EXTINF:-1, TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
@@ -26,15 +38,15 @@ https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 http://50.7.137.106:8080/TVI/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
-https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8?eventos1.m3u8
+https://vdo1.panelstreaming.live:3229/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
-https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8?eventos2.m3u8
+https://vdo1.panelstreaming.live:3027/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", MIX
-https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
+https://vdo1.panelstreaming.live:3393/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", MiX 2
-https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
+https://vdo1.panelstreaming.live:3069/hybrid/play.m3u8
 
 
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 4
