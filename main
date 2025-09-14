@@ -125,34 +125,23 @@ https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc1
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Formula 1 Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://38.180.133.31:8000/play/a0wd/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://148.222.228.3:9000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://38.180.133.31:8000/play/a0t3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://38.180.133.31:8000/play/a10t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://38.180.133.31:8000/play/a0w4/index.m3u8
+http://148.222.228.3:9000/play/a04u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://38.180.133.31:8000/play/a0w5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://38.180.133.31:8000/play/a10r/index.m3u8
+http://148.222.228.3:9000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://38.180.133.31:8000/play/a10q/index.m3u8
+http://148.222.228.3:9000/play/a06z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
-http://38.180.133.31:8000/play/a0w7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6
-http://38.180.133.31:8000/play/a0wc/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
-http://38.180.133.31:8000/play/a10s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://38.180.133.31:8000/play/a0wa/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://38.180.133.31:8000/play/a10w/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://38.180.133.31:8000/play/a0tb/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://38.180.133.31:8000/play/a110/index.m3u8
+http://148.222.228.3:9000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
+http://148.222.228.3:9000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
+http://148.222.228.3:9000/play/a08w/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="DEPORTES",NBA TV
