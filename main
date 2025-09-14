@@ -48,22 +48,31 @@ https://vdo1.panelstreaming.live:3393/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", MiX 2
 https://vdo1.panelstreaming.live:3069/hybrid/play.m3u8
 
-
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 4
-https://fl6.moveonjoy.com/PPV_4/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 5
-https://fl6.moveonjoy.com/PPV_5/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 7
-https://fl6.moveonjoy.com/PPV_7/index.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 1
 http://fl6.moveonjoy.com/PPV_1/index.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 2
 http://fl6.moveonjoy.com/PPV_2/index.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 3
 http://fl6.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 4
+https://fl6.moveonjoy.com/PPV_4/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 5
+https://fl6.moveonjoy.com/PPV_5/index.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 6
 http://fl6.moveonjoy.com/PPV_6/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 7
+https://fl6.moveonjoy.com/PPV_7/index.m3u8
 
+#EXTINF:-1 group-title="LIFESTYLE",DISCOVERY THEATER HD
+http://148.222.228.3:9000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",Discovery Channel HD
+http://148.222.228.3:9000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
+http://148.222.228.3:9000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",Home & Health
+http://148.222.228.3:9000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",History Channel HD
+http://148.222.228.3:9000/play/a09d/index.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
 http://186.167.114.171:7136/play/a0sk/index.m3u8
