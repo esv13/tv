@@ -630,9 +630,6 @@ http://212.102.60.231/HBO/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Movies",HOLLYWOOD HD
-http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Movies",AMC
@@ -1602,21 +1599,6 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-name="" tvg-id="AMC" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png", AMCᴴᴰ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Comediaᴴᴰ 🇪🇸
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Mentes Inquietasᴴᴰ 🇪🇸
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Equipo Investigacionᴴᴰ 🇪🇸
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
-https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BBC_Drama_2019.svg",BBC Dramaᴴᴰ 🇪🇸 🟤
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BBC_Drama_2019.svg",BBC Dramaᴴᴰ ² 🇪🇸 🟤
-https://bit.ly/3vwaDmO?profile=inspirationFreetv.m3u8
 
 
 
