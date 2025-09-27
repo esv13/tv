@@ -78,16 +78,14 @@ http://148.222.228.3:9000/play/a09d/index.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
 http://186.167.114.171:7136/play/a0sk/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",Discovery Theater HD-IK1609-OK
-http://186.167.114.171:7136/play/a0cw/index.m3u8
+
 #EXTINF:-1 group-title="LIFESTYLE",HGTV
 http://186.167.114.171:7136/play/a0mn/index.m3u8
 #EXTINF:0 group-title="LIFESTYLE",HGTV
 http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="LIFESTYLE", Discovery World HD
 http://201.217.246.166:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",Discovery Theater HD-IK1609-OK
-http://191.52.214.5:8000/play/a02j/index.m3u8
+
 #EXTINF:-1 group-title="LIFESTYLE",HGTV
 http://181.78.82.6:46090/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"  group-title="LIFESTYLE",Love Nature
@@ -680,8 +678,7 @@ http://212.102.60.231/STARZ/index.m3u8
 http://212.102.60.231/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="USA", STARZ EDGE
 http://212.102.60.231/STARZ_EDGE/index.m3u8
-#EXTINF:-1 group-title="USA", STARZ ENCORE
-http://212.102.60.231/STARZ_ENCORE/index.m3u8
+
 #EXTINF:-1 group-title="USA", STARZ ENCORE ACTION
 http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 group-title="USA", STARZ ENCORE CLASSIC
@@ -698,12 +695,7 @@ http://212.102.60.231/EPIX_DRIVE_IN/index.m3u8
 http://212.102.60.231/EPIX_2/index.m3u8
 #EXTINF:-1 group-title="USA", MGM+ Marquee
 http://212.102.60.231/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg"  group-title="USA",ABC East (Columba)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png"  group-title="USA",ACC Network
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png"  group-title="USA",AMC East
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/220px-Paramount_Network_2024.svg.png" group-title="USA",Paramount Network
 http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/220px-Showtime.svg.png" group-title="USA",Showtime
@@ -736,14 +728,12 @@ http://84.17.40.25/SUNDANCE/index.m3u8
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/150px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
 http://212.102.60.231/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png" group-title="USA",TLC
-http://212.102.60.231/TLC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png" group-title="USA",VH1
 http://212.102.60.231/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT
 http://212.102.60.231/TNT/index.m3u8
-#EXTINF:-1 group-title="USA", YES NETWORK
-https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
