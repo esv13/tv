@@ -34,10 +34,11 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
-https://vdo1.panelstreaming.live:3229/hybrid/play.m3u8
+https://cloud5.streaminglivehd.com:3112/live/ticklive.m3u8?op1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
-https://vdo1.panelstreaming.live:3027/hybrid/play.m3u8
+https://cloud5.streaminglivehd.com:3112/live/ticklive.m3u8?op2
 
 
 #EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", MIX
