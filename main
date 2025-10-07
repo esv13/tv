@@ -40,7 +40,7 @@ https://cloud5.streaminglivehd.com:3112/live/ticklive.m3u8?op1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
 https://cloud5.streaminglivehd.com:3112/live/ticklive.m3u8?op2
 
-https://fl7.moveonjoy.com/NHL_9/index.m3u8
+
 #EXTINF:-1  tvg-name="PPV1" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV1
 https://fl7.moveonjoy.com/PPV_1/index.m3u8
 #EXTINF:-1  tvg-name="PPV2" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV2
