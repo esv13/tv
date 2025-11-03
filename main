@@ -3909,10 +3909,14 @@ https://mt01.utako.moe/Fuji_TV/index.m3u8
 
 #EXTINF:-1 group-title="JapanTV",P
 https://181.13.252.102:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="JapanTV",P
+http://45.195.110.20:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="JapanTV",S
 https://181.13.252.102:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="JapanTV",V
 https://181.13.252.102:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="JapanTV",V
+http://45.195.110.20:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="JapanTV",MyCamTV Anal,
 https://live.mycamtv.com/anal.m3u8
 #EXTINF:-1 group-title="JapanTV",MyCamTV Asian,
