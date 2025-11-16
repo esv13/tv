@@ -34,7 +34,8 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2 (SOLO EVENTOS)
+https://s3.tvdatta.com:3321/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
 https://srt.tvdatta.com/canal3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
@@ -164,7 +165,22 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD (Chile)
 http://190.171.83.2:4000/play/a0g4/index.m3u8
 
-
+#EXTINF:0 group-title="DEPORTES",500. SKY SPORTS FOOTBALL
+http://178.33.239.54:8080/500a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",501. SKY SPORTS NEWS
+http://178.33.239.54:8080/501a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",502. SKY SPORT MAIN EVENT
+http://178.33.239.54:8080/502a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",503. SKY SPORT CRICKET
+http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",504. SKY SPORT ACTION
+http://178.33.239.54:8080/504a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",506. SKY SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/506a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",507. SKY SPORTS MIX HD
+http://178.33.239.54:8080/507a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",508. Sky SPORTS F1
+http://178.33.239.54:8080/508a/index.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES",ESPN HD
@@ -235,17 +251,6 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 
 
-
-#EXTINF:-1 group-title="DEPORTES", TSN 1 🇨🇦
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 2 🇨🇦
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 3 🇨🇦
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 4 🇨🇦
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 5 🇨🇦
-http://212.102.60.231/TSN_5/index.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 🇪🇸
