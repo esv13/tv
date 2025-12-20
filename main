@@ -1,14 +1,24 @@
 #EXTM3U
  
 
-#EXTINF:0 type="stream" channelId="1333" group="USA" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull TV (UHD)
+#EXTINF:0 type="stream" channelId="1333" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull TV (UHD)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png", RetroTV
+#EXTINF:0 type="stream" channelId="-1"  logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjYki5V.png" group-title="Without category" tvg-id="Much.ca@SD",Much (720p)
+https://fl7.moveonjoy.com:443/MUCH/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FM Super Classic
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Angry Birds 24/7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons" tvg-logo="http://sunset-app.com/picons/247/simpsons2023.jpeg" group-title="CANALES 24/7",24/7 Los Simpsons
 http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/297623
@@ -33,7 +43,8 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=\"https://i.imgur.com/viJBL6f.png\" ,Retrox TV
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
+https://s3.tvdatta.com:3500/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2 (SOLO EVENTOS)
 https://s3.tvdatta.com:3321/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
