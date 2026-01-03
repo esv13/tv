@@ -26,8 +26,8 @@ http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/224986
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 2" tvg-logo="http://sunset-app.com/picons/247/simpsons2.jpg" group-title="CANALES 24/7",Los Simpsons 2
 http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/225009
 
-
-
+#EXTINF:-1, Sky Premier
+http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
 #EXTINF:-1, TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
@@ -210,13 +210,43 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 
 
 
-
-
+#EXTINF:-1 group-title="DEPORTES", NBA TV
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN US
+http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 US
+http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD (Chile)
 http://190.171.83.2:4000/play/a0g4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",1119. DSports HD
 http://38.199.4.105:9999/play/1119/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://201.182.249.198:10013/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://201.182.249.198:10013/play/a0j7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 Latin
+http://201.182.249.198:10013/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://201.182.249.198:10013/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4HD
+http://201.182.249.198:10013/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 5
+http://201.182.249.198:10013/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 5HD
+http://201.182.249.198:10013/play/a0go/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6
+http://201.182.249.198:10013/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
+http://201.182.249.198:10013/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7
+http://201.182.249.198:10013/play/a0j3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN CO HD
+http://201.182.249.198:10013/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://201.182.249.198:10013/play/a0jj/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://201.182.249.198:10013/play/a0jg/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",beIN Sports USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
