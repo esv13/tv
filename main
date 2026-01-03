@@ -19,7 +19,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons" tvg-logo="http://sunset-app.com/picons/247/simpsons2023.jpeg" group-title="CANALES 24/7",24/7 Los Simpsons
 http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/297623
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 1" tvg-logo="http://sunset-app.com/picons/24.7.2022/simpsons.jpg" group-title="CANALES 24/7",Los Simpsons 1
