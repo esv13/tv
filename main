@@ -451,7 +451,22 @@ http://181.13.252.102:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="-",el trece HD
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 
-
+#EXTINF:-1 group-title="-",HBO 2
+http://199.188.103.176:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family HD
+http://199.188.103.176:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://199.188.103.176:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="-",HBO Mundi
+http://199.188.103.176:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="-",HBO POP HD
+http://199.188.103.176:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://199.188.103.176:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="-",HBO Signature
+http://199.188.103.176:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme HD
+http://199.188.103.176:8000/play/a07q/index.m3u8
 
 
 #EXTINF:-1 group-title="国际",BBC
