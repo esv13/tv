@@ -1,22 +1,22 @@
 #EXTM3U
  
 
-##EXTINF:-1 type="stream" channelId="1333" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull TV (UHD)
+##EXTINF:-1 type="stream" channelId="1333" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="CANALES 24/7", Red Bull TV (UHD)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  type="stream" channelId="-1"  logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png", RetroTV
+#EXTINF:-1  type="stream" channelId="-1"  logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="CANALES 24/7", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" , CANAL 4 SAN FRANCISCO CORDOBA
+#EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="CANALES 24/7", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="CANALES 24/7", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JjYki5V.png" tvg-id="Much.ca@SD",Much (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjYki5V.png" tvg-id="Much.ca@SD" group-title="CANALES 24/7",Much (720p)
 https://fl7.moveonjoy.com:443/MUCH/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , FM Super Classic
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES 24/7", FM Super Classic
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Angry Birds 24/7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES 24/7", Angry Birds 24/7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 
@@ -27,36 +27,39 @@ http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/224986
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 2" tvg-logo="http://sunset-app.com/picons/247/simpsons2.jpg" group-title="CANALES 24/7",Los Simpsons 2
 http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/225009
 
-#EXTINF:-1,LOVE NATURE 
+#EXTINF:-1 group-title="CANALES 24/7",LOVE NATURE 
 http://181.78.82.6:46090/play/a059/index.m3u8
 
-#EXTINF:0,HGTV
+#EXTINF:0 group-title="CANALES 24/7",HGTV
 http://190.60.42.86:8000/play/a01g/index.m3u8
-#EXTINF:0,HISTORY
+#EXTINF:0 group-title="CANALES 24/7",HISTORY
 http://190.60.42.86:8000/play/a01z/index.m3u8
-#EXTINF:0,HISTORY 2
+#EXTINF:0 group-title="CANALES 24/7",HISTORY 2
 http://190.60.42.86:8000/play/a022/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" ,Wild Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" group-title="CANALES 24/7" ,Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Sky Premier
+#EXTINF:-1 group-title="CANALES 24/7", Sky Premier
 http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
-#EXTINF:-1, TELEFE
+#EXTINF:-1 group-title="CANALES 24/7", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-logo=\"https://i.imgur.com/E9AuhOU.png\" ,Extrema TV
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/E9AuhOU.png\"  group-title="CANALES 24/7",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo=\"https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png\", Coto Brus TV
+#EXTINF:-1 tvg-logo=\"https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png\" group-title="CANALES 24/7", Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1tvg-logo=\"https://i.ibb.co/xFCS7wM/GAMTVCR.png\", GAMTV
+#EXTINF:-1tvg-logo=\"https://i.ibb.co/xFCS7wM/GAMTVCR.png\" group-title="CANALES 24/7", GAMTV
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://i.imgur.com/sAYNKJ8.png\" ,Garabito TV 
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/sAYNKJ8.png\" group-title="CANALES 24/7" ,Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-#EXTINF:-1 tvg-logo=\"https://i.imgur.com/viJBL6f.png\" ,Retrox TV
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/viJBL6f.png\"  group-title="CANALES 24/7",Retrox TV
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
 https://s3.tvdatta.com:3500/hybrid/play.m3u8
