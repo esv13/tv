@@ -10,12 +10,12 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JjYki5V.png" group-title="Without category" tvg-id="Much.ca@SD",Much (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjYki5V.png" tvg-id="Much.ca@SD",Much (720p)
 https://fl7.moveonjoy.com:443/MUCH/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FM Super Classic
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" , FM Super Classic
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Angry Birds 24/7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Angry Birds 24/7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 
