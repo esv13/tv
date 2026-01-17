@@ -26,6 +26,21 @@ http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/224986
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 2" tvg-logo="http://sunset-app.com/picons/247/simpsons2.jpg" group-title="CANALES 24/7",Los Simpsons 2
 http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/225009
 
+#EXTINF:-1,LOVE NATURE 
+http://181.78.82.6:46090/play/a059/index.m3u8
+
+#EXTINF:0,HGTV
+http://190.60.42.86:8000/play/a01g/index.m3u8
+#EXTINF:0,HISTORY
+http://190.60.42.86:8000/play/a01z/index.m3u8
+#EXTINF:0,HISTORY 2
+http://190.60.42.86:8000/play/a022/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" ,Wild Earth
+https://wildearth-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, Sky Premier
 http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
 #EXTINF:-1, TELEFE
@@ -3410,20 +3425,6 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
 
-#EXTINF:-1,LOVE NATURE 
-http://181.78.82.6:46090/play/a059/index.m3u8
-
-#EXTINF:0,HGTV
-http://190.60.42.86:8000/play/a01g/index.m3u8
-#EXTINF:0,HISTORY
-http://190.60.42.86:8000/play/a01z/index.m3u8
-#EXTINF:0,HISTORY 2
-http://190.60.42.86:8000/play/a022/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" ,Wild Earth
-https://wildearth-plex.amagi.tv/playlist.m3u8
 
 
 
