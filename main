@@ -280,7 +280,10 @@ http://videx-limit182-stream.x10.mx:8000/stream/foxsports3mx.m3u8
 http://videx-limit182-stream.x10.mx:8000/stream/tudn_1.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN 2
 http://videx-limit182-stream.x10.mx:8000/stream/tudn_2.m3u8
-
+#EXTINF:-1 group-title="DEPORTES",DSports
+http://177.10.184.60:8002/play/a006/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY SPORT LA LIGA
+http://177.10.184.60:8002/play/a01d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN
 http://177.10.184.193:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
