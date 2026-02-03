@@ -119,6 +119,8 @@ https://fl6.moveonjoy.com/PPV_7/index.m3u8
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",TNT Sports HD
 http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",DSports HD
+http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",D SPORT +
 http://38.199.5.160:8000/play/a09q/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",ESPN HD
@@ -174,6 +176,11 @@ http://181.13.252.102:8000/play/a01w/index.m3u8
 http://181.13.252.102:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery Theater HD
 http://38.199.4.105:9999/play/a0hv/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE", DISCOVERY 1
+http://videx-limit182-stream.x10.mx:8000/stream/discovery_1.m3u8
+#EXTINF:-1 group-title="LIFESTYLE", DISCOVERYSCIENCE 2
+http://videx-limit182-stream.x10.mx:8000/stream/discoveryscience_2.m3u8
+
 #EXTINF:-1 group-title="LIFESTYLE",Discovery Turbo
 http://38.199.4.105:9999/play/a0ah/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",History 2 HD
@@ -182,9 +189,16 @@ http://38.199.4.105:9999/play/a03s/index.m3u8
 http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="LIFESTYLE", Discovery World HD
 http://201.217.246.166:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",Concert Channel
+http://177.10.184.193:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",History Channel
+http://177.10.184.193:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",History HD
+http://177.10.184.193:8000/play/a040/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Movies", HBO
+https://svidex-limit182-stream.x10.mx:8000/stream/hb o.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Movies",AMC
@@ -235,35 +249,63 @@ http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD (Chile)
 http://190.171.83.2:4000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",1119. DSports HD
-http://38.199.4.105:9999/play/1119/index.m3u8
+
+#EXTINF:-1group-title="DEPORTES", CLAROSPORTS
+http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
+#EXTINF:-1 group-title="DEPORTES",TUDN USA
+http://177.10.184.193:8000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TYC SPORT US
+http://177.10.184.193:8000/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Golf Channel HD
+http://177.10.184.193:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", AZTECADEPORTES
+http://videx-limit182-stream.x10.mx:8000/stream/aztecadeportes.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN1
+http://videx-limit182-stream.x10.mx:8000/stream/espn1.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN3
+http://videx-limit182-stream.x10.mx:8000/stream/espn3.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN4
+http://videx-limit182-stream.x10.mx:8000/stream/espn4.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN5
+http://videx-limit182-stream.x10.mx:8000/stream/espn5.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN6
+http://videx-limit182-stream.x10.mx:8000/stream/espn6.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOXSPORTS1MX
+http://videx-limit182-stream.x10.mx:8000/stream/foxsports1mx.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOXSPORTS2MX
+http://videx-limit182-stream.x10.mx:8000/stream/foxsports2mx.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOXSPORTS3MX
+http://videx-limit182-stream.x10.mx:8000/stream/foxsports3mx.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN 1
+http://videx-limit182-stream.x10.mx:8000/stream/tudn_1.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN 2
+http://videx-limit182-stream.x10.mx:8000/stream/tudn_2.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",ESPN
-http://201.182.249.198:10013/play/a0cl/index.m3u8
+http://177.10.184.193:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
+http://177.10.184.193:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://177.10.184.193:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://201.182.249.198:10013/play/a0j7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 Latin
-http://201.182.249.198:10013/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3
-http://201.182.249.198:10013/play/a0j6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4HD
-http://201.182.249.198:10013/play/a0fy/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5
-http://201.182.249.198:10013/play/a0h0/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5HD
-http://201.182.249.198:10013/play/a0go/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6
-http://201.182.249.198:10013/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
-http://201.182.249.198:10013/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7
-http://201.182.249.198:10013/play/a0j3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN CO HD
-http://201.182.249.198:10013/play/a0ep/index.m3u8
+http://177.10.184.193:8000/play/a0db/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://177.10.184.193:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+http://177.10.184.193:8000/play/a0df/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
+http://177.10.184.193:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
+http://177.10.184.193:8000/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES CAJA
+http://177.10.184.193:8000/play/a0el/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://201.182.249.198:10013/play/a0jj/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://201.182.249.198:10013/play/a0jg/index.m3u8
+http://177.10.184.193:8000/play/a0dg/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN SUR
+http://177.10.184.193:8000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORT HD
+http://177.10.184.193:8000/play/a0e1/index.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTES",beIN Sports USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
