@@ -49,6 +49,9 @@ http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
 #EXTINF:-1 group-title="CANALES 24/7", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1 group-title="CANALES 24/7", SNT 
+https://latan.stonetv.com.br/snt/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=\"https://i.imgur.com/E9AuhOU.png\"  group-title="CANALES 24/7",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo=\"https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png\" group-title="CANALES 24/7", Coto Brus TV
@@ -64,13 +67,6 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
-https://s3.tvdatta.com:3500/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2 (SOLO EVENTOS)
-https://s3.tvdatta.com:3321/hybrid/play.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ",EVENTOS
-http://190.103.64.157:4000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
