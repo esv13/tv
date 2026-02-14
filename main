@@ -72,6 +72,31 @@ https://s3.tvdatta.com:3321/hybrid/play.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ",EVENTOS
 http://190.103.64.157:4000/play/a01a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
+
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT FULL HD
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT (2MB)" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT (2MB)
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137367
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="TV LITE PLAY",TV LITE SPORT 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137368
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="TV LITE PLAY",TVLITE PPV 1
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137369
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PS_PPV_2.svg/revision/latest/scale-to-width-down/200?cb=20250118001742" group-title="TV LITE PLAY",TVLITE PPV 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137370
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Prima_Sport_PPV_3.svg/revision/latest/scale-to-width-down/1000?cb=20250118001004" group-title="TV LITE PLAY",TVLITE PPV 3
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="TV LITE PLAY",TV LITE 4K
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
+
+
 #EXTINF:-1  tvg-name="PPV3" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV3
 https://fl7.moveonjoy.com/PPV_3/index.m3u8
 
