@@ -193,6 +193,8 @@ http://45.5.151.251:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE",HGTV
 http://181.13.252.102:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",HGTV
+http://200.229.147.210:9999/play/a007/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery Theater HD
 http://181.13.252.102:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery Turbo
@@ -397,6 +399,34 @@ https://02.arlivre.online/espn4/index.m3u8
 #EXTINF:-1 tvg-id="combate" tvg-logo="https://imgur.com/IQntT52.jpg" group-title="DEPORTES", CANAL COMBATE Br
 https://02.arlivre.online/combate/index.m3u8
 
+
+
+#EXTINF:-1 group-title="-",HBO Family HD
+http://200.229.147.210:9999/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://200.229.147.210:9999/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus HD
+http://200.229.147.210:9999/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME
+http://200.229.147.210:9999/play/a012/index.m3u8
+#EXTINF:-1 group-title="-",HBO2 HD
+http://200.229.147.210:9999/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",Golden
+http://200.229.147.210:9999/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",Golden Premiere 2 HD
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-",Golden Premiere HD
+http://200.229.147.210:9999/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
+http://200.229.147.210:9999/play/a08u/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+http://200.229.147.210:9999/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+http://200.229.147.210:9999/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE HD
+http://200.229.147.210:9999/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O HD
+http://200.229.147.210:9999/play/a0b3/index.m3u8
 
 
 #EXTINF:-1 group-title="-",26TV
