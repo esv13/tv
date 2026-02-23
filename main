@@ -200,7 +200,9 @@ http://181.13.252.102:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery Turbo
 http://181.13.252.102:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
-http://181.13.252.102:8000/play/a031/index.m3u8
+http://177.93.46.245:50000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
+http://177.93.46.245:50000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Discovery Theater HD
 http://38.199.4.105:9999/play/a0hv/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE", DISCOVERY 1
@@ -277,7 +279,8 @@ http://190.60.42.86:8000/play/a00u/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="DEPORTES" ,UFC
+http://138.210.3.64:8090/play/A01E/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN US
@@ -286,11 +289,38 @@ http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD (Chile)
 http://190.171.83.2:4000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORT PREMIUM
+http://38.210.3.64:8090/play/a083/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
+http://38.210.3.64:8090/play/a0kl/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://38.210.3.64:8090/play/a0ke/index.m3u8
 
-#EXTINF:-1group-title="DEPORTES", CLAROSPORTS
+#EXTINF:-1 group-title="DEPORTES", CLAROSPORTS
 http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
 #EXTINF:-1 group-title="DEPORTES",TUDN USA
 http://177.10.184.193:8000/play/a0ft/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://38.210.3.64:8090/play/a0np/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://38.210.3.64:8090/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://38.210.3.64:8090/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
+http://38.210.3.64:8090/play/a0k8/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+http://38.210.3.64:8090/play/a0jb/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 4HD
+http://38.210.3.64:8090/play/a0jc/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 5HD
+http://38.210.3.64:8090/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
+http://38.210.3.64:8090/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7HD
+http://38.210.3.64:8090/play/a0e6/index.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES",TYC SPORT US
 http://177.10.184.193:8000/play/a0e0/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Golf Channel HD
