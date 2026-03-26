@@ -358,6 +358,10 @@ http://148.230.25.148:8500/play/a0os/index.m3u8
 http://148.230.25.148:8500/play/a0ou/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 MX
 http://148.230.25.148:8500/play/a0s7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 1 SD
+http://190.105.128.198:5800/play/a048/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 2 SD
+http://190.105.128.198:5800/play/a06w/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", CLAROSPORTS
 http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
