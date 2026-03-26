@@ -144,6 +144,10 @@ https://fl6.moveonjoy.com/PPV_7/index.m3u8
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",TNT Sports HD
 http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:0 group-title="Deportes Argentina",DIRECTV Sport
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:0 group-title="Deportes Argentina",DIRECTV Sport no
+http://179.43.96.253:8000/play/a20a/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",DSports HD
 http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",D SPORT +
@@ -190,6 +194,24 @@ http://45.5.151.251:8000/play/a00n/index.m3u8
 http://45.5.151.251:8000/play/a00p/index.m3u8
 
 
+#EXTINF:-1 group-title="LIFESTYLE",HGTV
+http://190.60.52.28:5001/play/a0a8/index.m3u8
+#EXTINF:01 group-title="LIFESTYLE",HGTV
+http://179.43.96.253:8000/play/a22q/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",Home and Health
+http://190.60.52.28:5001/play/a0dl/index.m3u8
+#EXTINF:11 group-title="LIFESTYLE",DISC THEATHER HD
+http://181.189.159.131:8000/play/a0hv/index.m3u8
+#EXTINF:11 group-title="LIFESTYLE",Discovery Channel HD
+http://181.189.159.131:8000/play/a0kn/index.m3u8
+#EXTINF:11 group-title="LIFESTYLE",Discovery Turbo
+http://181.189.159.131:8000/play/a0ia/index.m3u8
+#EXTINF:11 group-title="LIFESTYLE",Discovery World HD
+http://181.189.159.131:8000/play/a0kp/index.m3u8
+#EXTINF:11 group-title="LIFESTYLE",History 2
+http://181.189.159.131:8000/play/a0jp/index.m3u8
+#EXTINF:11 group-title="LIFESTYLE",History Channel HD
+http://181.189.159.131:8000/play/a0gk/index.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE",HGTV
 http://181.13.252.102:8000/play/a02j/index.m3u8
@@ -234,7 +256,42 @@ https://amg00441-amg00441c1-tcl-us-6397.playouts.now.amagi.tv/playlist.m3u8
 
 
 
-
+#EXTINF:0 group-title="Movies",HBO 2
+http://179.43.96.253:8000/play/a1zy/index.m3u8
+#EXTINF:0 group-title="Movies",HBO Family HD
+http://179.43.96.253:8000/play/a1wz/index.m3u8
+#EXTINF:0 group-title="Movies",HBO HD
+http://179.43.96.253:8000/play/a1yj/index.m3u8
+#EXTINF:0 group-title="Movies",HBO Mundi
+http://179.43.96.253:8000/play/a2at/index.m3u8
+#EXTINF:0 group-title="Movies",HBO POP HD
+http://179.43.96.253:8000/play/a24u/index.m3u8
+#EXTINF:0 group-title="Movies",HBO Plus
+http://179.43.96.253:8000/play/a1zg/index.m3u8
+#EXTINF:11 group-title="Movies",HBO Signature
+http://179.43.96.253:8000/play/a2as/index.m3u8
+#EXTINF:0 group-title="Movies",HBO XTREME HD
+http://179.43.96.253:8000/play/a1yu/index.m3u8
+#EXTINF:11 group-title="Movies",HBO HD
+http://181.189.159.131:8000/play/a0l2/index.m3u8
+#EXTINF:11 group-title="Movies",HBO Plus HD
+http://181.189.159.131:8000/play/a0l4/index.m3u8
+#EXTINF:11 group-title="Movies",HBO XTREME HD
+http://181.189.159.131:8000/play/a0l6/index.m3u8
+#EXTINF:11 group-title="Movies",HBO2 HD
+http://181.189.159.131:8000/play/a00c/index.m3u8
+#EXTINF:11 group-title="Movies",Universal
+http://181.189.159.131:8000/play/a0ih/index.m3u8
+#EXTINF:11 group-title="Movies",UNIVERSAL CINEMA ESTE HD
+http://181.189.159.131:8000/play/a0kt/index.m3u8
+#EXTINF:11 group-title="Movies",UNIVERSAL COMEDY HD
+http://181.189.159.131:8000/play/a0i5/index.m3u8
+#EXTINF:11 group-title="Movies",UNIVERSAL CRIME HD
+http://181.189.159.131:8000/play/a0i4/index.m3u8
+#EXTINF:11 group-title="Movies",UNIVERSAL PREMIERE HD
+http://181.189.159.131:8000/play/a0i1/index.m3u8
+#EXTINF:11 group-title="Movies",UNIVERSAL PREMIERE O HD
+http://181.189.159.131:8000/play/a0i2/index.m3u8
 
 #EXTINF:-1 group-title="Movies", HBO
 https://svidex-limit182-stream.x10.mx:8000/stream/hb o.m3u8
@@ -280,7 +337,7 @@ http://190.60.42.86:8000/play/a00u/index.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES" ,UFC
-http://138.210.3.64:8090/play/A01E/index.m3u8
+https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN US
@@ -295,58 +352,66 @@ http://38.210.3.64:8090/play/a083/index.m3u8
 http://38.210.3.64:8090/play/a0kl/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",20 FOX SPORTS MX
+http://148.230.25.148:8500/play/a0os/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",22 TUDN
+http://148.230.25.148:8500/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 MX
+http://148.230.25.148:8500/play/a0s7/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", CLAROSPORTS
 http://videx-limit182-stream.x10.mx:8000/stream/clarosports.m3u8
 #EXTINF:-1 group-title="DEPORTES",TUDN USA
 http://177.10.184.193:8000/play/a0ft/index.m3u8
+#EXTINF:11 group-title="DEPORTES",L1
+http://179.43.96.253:8000/play/a29z/index.m3u8
+#EXTINF:0 group-title="DEPORTES",L1 MAX
+http://179.43.96.253:8000/play/a2af/index.m3u8
+#EXTINF:0 group-title="DEPORTES",L1 MAX
+http://179.43.96.253:8000/play/a203/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Movistar Deportes
+http://179.43.96.253:8000/play/a2ai/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Movistar Deportes
+http://179.43.96.253:8000/play/a2a2/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://38.210.3.64:8090/play/a0np/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://38.210.3.64:8090/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://190.60.52.28:5001/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://38.210.3.64:8090/play/a0cm/index.m3u8
+http://190.60.52.28:5001/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://190.60.52.28:5001/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+http://190.60.52.28:5001/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://38.210.3.64:8090/play/a0k8/index.m3u8
+http://190.60.52.28:5001/play/a09t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+http://190.60.52.28:5001/play/a0cl/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://38.210.3.64:8090/play/a0jb/index.m3u8
+http://190.60.52.28:5001/play/a094/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 4HD
-http://38.210.3.64:8090/play/a0jc/index.m3u8
+http://190.60.52.28:5001/play/a0as/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 5
+http://190.60.52.28:5001/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 5HD
-http://38.210.3.64:8090/play/a0jd/index.m3u8
+http://190.60.52.28:5001/play/a09q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 6
+http://190.60.52.28:5001/play/a0de/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 6HD
-http://38.210.3.64:8090/play/a0dj/index.m3u8
+http://190.60.52.28:5001/play/a095/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN 7
+http://190.60.52.28:5001/play/a0dd/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 7HD
-http://38.210.3.64:8090/play/a0e6/index.m3u8
+http://190.60.52.28:5001/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+http://190.60.52.28:5001/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://190.60.52.28:5001/play/a09d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+http://190.60.52.28:5001/play/a0fz/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES",TYC SPORT US
-http://177.10.184.193:8000/play/a0e0/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Golf Channel HD
-http://177.10.184.193:8000/play/a0fs/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", AZTECADEPORTES
-http://videx-limit182-stream.x10.mx:8000/stream/aztecadeportes.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN1
-http://videx-limit182-stream.x10.mx:8000/stream/espn1.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN3
-http://videx-limit182-stream.x10.mx:8000/stream/espn3.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN4
-http://videx-limit182-stream.x10.mx:8000/stream/espn4.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN5
-http://videx-limit182-stream.x10.mx:8000/stream/espn5.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN6
-http://videx-limit182-stream.x10.mx:8000/stream/espn6.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOXSPORTS1MX
-http://videx-limit182-stream.x10.mx:8000/stream/foxsports1mx.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOXSPORTS2MX
-http://videx-limit182-stream.x10.mx:8000/stream/foxsports2mx.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOXSPORTS3MX
-http://videx-limit182-stream.x10.mx:8000/stream/foxsports3mx.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN 1
-http://videx-limit182-stream.x10.mx:8000/stream/tudn_1.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN 2
-http://videx-limit182-stream.x10.mx:8000/stream/tudn_2.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES",DSports
 http://177.10.184.60:8002/play/a006/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", SKY SPORT LA LIGA
@@ -377,20 +442,13 @@ http://177.10.184.193:8000/play/a0fp/index.m3u8
 http://177.10.184.193:8000/play/a0e1/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES",beIN Sports USA
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 group-title="DEPORTES",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 group-title="DEPORTES",CBS Sports Network USA
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="DEPORTES",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="DEPORTES",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",NBC Sports
@@ -670,6 +728,84 @@ http://199.188.103.176:8000/play/a05y/index.m3u8
 http://199.188.103.176:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="-",HBO Xtreme HD
 http://199.188.103.176:8000/play/a07q/index.m3u8
+
+
+#EXTINF:-1 group-title="TV Brasil",AMC
+http://45.178.215.69:8000/play/a05b
+#EXTINF:-1 group-title="TV Brasil",AXN
+http://45.178.215.69:8000/play/a03d
+#EXTINF:-1 group-title="TV Brasil",Animal Planet
+http://45.178.215.69:8000/play/a02w
+#EXTINF:-1 group-title="TV Brasil",Animal Planet HD
+http://45.178.215.69:8000/play/a04o
+#EXTINF:-1 group-title="TV Brasil",Bandeirantes
+http://45.178.215.69:8000/play/a021
+#EXTINF:-1 group-title="TV Brasil",Combate HD
+http://45.178.215.69:8000/play/a052
+#EXTINF:-1 group-title="TV Brasil",Discovery Channel HD
+http://45.178.215.69:8000/play/a055
+#EXTINF:-1 group-title="TV Brasil",ESPN
+http://45.178.215.69:8000/play/a028
+#EXTINF:-1 group-title="TV Brasil",ESPN 2
+http://45.178.215.69:8000/play/a03b
+#EXTINF:-1 group-title="TV Brasil",ESPN 2 HD
+http://45.178.215.69:8000/play/a053
+#EXTINF:-1 group-title="TV Brasil",ESPN 4
+http://45.178.215.69:8000/play/a031
+#EXTINF:-1 group-title="TV Brasil",ESPN 5
+http://45.178.215.69:8000/play/a038
+#EXTINF:-1 group-title="TV Brasil",ESPN HD
+http://45.178.215.69:8000/play/a04l
+#EXTINF:-1 group-title="TV Brasil",GloboNews HD
+http://45.178.215.69:8000/play/a04y
+#EXTINF:-1 group-title="TV Brasil",History 2
+http://45.178.215.69:8000/play/a029
+#EXTINF:-1 group-title="TV Brasil",History 2 HD
+http://45.178.215.69:8000/play/a051
+#EXTINF:-1 group-title="TV Brasil",Multishow HD
+http://45.178.215.69:8000/play/a04e
+#EXTINF:-1 group-title="TV Brasil",Paramount+
+http://45.178.215.69:8000/play/a05h
+#EXTINF:-1 group-title="TV Brasil",Paramount+ 2
+http://45.178.215.69:8000/play/a05i
+#EXTINF:-1 group-title="TV Brasil",Paramount+ 3
+http://45.178.215.69:8000/play/a05j
+#EXTINF:-1 group-title="TV Brasil",Paramount+ 4
+http://45.178.215.69:8000/play/a05k
+#EXTINF:-1 group-title="TV Brasil",Premiere 2
+http://45.178.215.69:8000/play/a02a
+#EXTINF:-1 group-title="TV Brasil",Premiere 3
+http://45.178.215.69:8000/play/a030
+#EXTINF:-1 group-title="TV Brasil",Premiere 4
+http://45.178.215.69:8000/play/a02x
+#EXTINF:-1 group-title="TV Brasil",Premiere 5
+http://45.178.215.69:8000/play/a03f
+#EXTINF:-1 group-title="TV Brasil",Premiere Clubes HD
+http://45.178.215.69:8000/play/a04z
+#EXTINF:-1 group-title="TV Brasil",RECORDTV
+http://45.178.215.69:8000/play/a03y
+#EXTINF:-1 group-title="TV Brasil",SBT
+http://45.178.215.69:8000/play/a02c
+#EXTINF:-1 group-title="TV Brasil",Space
+http://45.178.215.69:8000/play/a02z
+#EXTINF:-1 group-title="TV Brasil",Space HD
+http://45.178.215.69:8000/play/a05f
+#EXTINF:-1 group-title="TV Brasil",TNT
+http://45.178.215.69:8000/play/a03l
+#EXTINF:-1 group-title="TV Brasil",TNT HD
+http://45.178.215.69:8000/play/a05e
+#EXTINF:-1 group-title="TV Brasil",The History Channel HD
+http://45.178.215.69:8000/play/a05a
+#EXTINF:-1 group-title="TV Brasil",sportv 2
+http://45.178.215.69:8000/play/a03k
+#EXTINF:-1 group-title="TV Brasil",sportv 2 HD
+http://45.178.215.69:8000/play/a04t
+#EXTINF:-1 group-title="TV Brasil",sportv 3
+http://45.178.215.69:8000/play/a01y
+#EXTINF:-1 group-title="TV Brasil",sportv 3 HD
+http://45.178.215.69:8000/play/a04s
+#EXTINF:-1 group-title="TV Brasil",sportv HD
+http://45.178.215.69:8000/play/a04k
 
 
 #EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="i.imgur.com/X8bDYyO.png" group-title="TV AO VIVO",Receita Fast HD
