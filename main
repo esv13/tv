@@ -29,17 +29,15 @@ http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/224986
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons 2" tvg-logo="http://sunset-app.com/picons/247/simpsons2.jpg" group-title="CANALES 24/7",Los Simpsons 2
 http://app.tecnomolly.com:8080/denissepr/rzafXUqCZt/225009
 
-#EXTINF:-1 group-title="CANALES 24/7",LOVE NATURE 
-http://181.78.82.6:46090/play/a059/index.m3u8
+#EXTINF:-1 group-title="CANALES 24/7",TOM Y JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:0 group-title="CANALES 24/7",HGTV
-http://190.60.42.86:8000/play/a01g/index.m3u8
-#EXTINF:0 group-title="CANALES 24/7",HISTORY
-http://190.60.42.86:8000/play/a01z/index.m3u8
-#EXTINF:0 group-title="CANALES 24/7",HISTORY 2
-http://190.60.42.86:8000/play/a022/index.m3u8
-
-
+#EXTINF:0 group-title="CANALES 24/7",BBC ADVENTURE
+https://linear-1209.frequency.stream/dist/lg-us/1209/hls/master/playlist.m3u8
+#EXTINF:0 group-title="CANALES 24/7",PBS NATURE
+https://jmp2.uk/rok-32fa723f285fc238ae786634f051f972.m3u8
+#EXTINF:0 group-title="CANALES 24/7",BBC EARTH
+https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/24EcV0h.jpg" group-title="CANALES 24/7" ,Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
@@ -75,6 +73,27 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
+
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 2
+https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 3
+https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 4
+https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 5
+https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 6
+https://pr745.streamingtv339.com/fanatiz6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 7
+https://pr745.streamingtv339.com/fanatiz7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 8
+https://pr745.streamingtv339.com/fanatiz8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 9
+https://pr745.streamingtv339.com/fanatiz9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", FANATIZ EVENTOS 10
+https://pr745.streamingtv339.com/fanatiz10/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT FULL HD
@@ -93,51 +112,6 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 
 
-#EXTINF:-1  tvg-name="PPV3" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV3
-https://fl7.moveonjoy.com/PPV_3/index.m3u8
-
-#EXTINF:-1  tvg-name="PPV1" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV1
-https://fl7.moveonjoy.com/PPV_1/index.m3u8
-#EXTINF:-1  tvg-name="PPV2" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV2
-https://fl7.moveonjoy.com/PPV_2/index.m3u8
-
-#EXTINF:-1  tvg-name="PPV4" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV4
-https://fl7.moveonjoy.com/PPV_4/index.m3u8
-#EXTINF:-1  tvg-name="PPV5" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV5
-https://fl7.moveonjoy.com/PPV_5/index.m3u8
-#EXTINF:-1  tvg-name="PPV6" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV EVENTOS ( Pay Per View ) ",PPV6
-https://fl7.moveonjoy.com/PPV_6/index.m3u8
-
-
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) " tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 1", PPV 1
-http://fl31.moveonjoy.com/PPV_1/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) " tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 2", PPV 2
-http://fl31.moveonjoy.com/PPV_2/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) " tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 3", PPV 3
-http://fl31.moveonjoy.com/PPV_3/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) " tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 4", PPV 4
-http://fl31.moveonjoy.com/PPV_4/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) " tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 5", PPV 5
-http://fl31.moveonjoy.com/PPV_5/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) " tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6", PPV 6
-http://fl31.moveonjoy.com/PPV_6/index.m3u8
-
-
-
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 1
-http://fl6.moveonjoy.com/PPV_1/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 2
-http://fl6.moveonjoy.com/PPV_2/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 3
-http://fl6.moveonjoy.com/PPV_3/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 4
-https://fl6.moveonjoy.com/PPV_4/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 5
-https://fl6.moveonjoy.com/PPV_5/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 6
-http://fl6.moveonjoy.com/PPV_6/index.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", US: PPV 7
-https://fl6.moveonjoy.com/PPV_7/index.m3u8
 
 
 #EXTINF:-1 group-title="Deportes Argentina",ESPN Premium HD
