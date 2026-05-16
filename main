@@ -227,24 +227,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 #EXTINF:-1 tvg-logo="https://blog.tdn.tv/wp-content/uploads/2020/05/tdb-logo-pink.png" group-title="LIFESTYLE", The Design Network - TCL Channel (Brasil)
 https://amg00441-amg00441c1-tcl-us-6397.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:0 group-title="Movies",Nitro movie
+http://200.63.107.94:8000/play/a02m/index.m3u8?hls
 
-
-#EXTINF:0 group-title="Movies",HBO 2
-http://179.43.96.253:8000/play/a1zy/index.m3u8
-#EXTINF:0 group-title="Movies",HBO Family HD
-http://179.43.96.253:8000/play/a1wz/index.m3u8
-#EXTINF:0 group-title="Movies",HBO HD
-http://179.43.96.253:8000/play/a1yj/index.m3u8
-#EXTINF:0 group-title="Movies",HBO Mundi
-http://179.43.96.253:8000/play/a2at/index.m3u8
-#EXTINF:0 group-title="Movies",HBO POP HD
-http://179.43.96.253:8000/play/a24u/index.m3u8
-#EXTINF:0 group-title="Movies",HBO Plus
-http://179.43.96.253:8000/play/a1zg/index.m3u8
-#EXTINF:11 group-title="Movies",HBO Signature
-http://179.43.96.253:8000/play/a2as/index.m3u8
-#EXTINF:0 group-title="Movies",HBO XTREME HD
-http://179.43.96.253:8000/play/a1yu/index.m3u8
 #EXTINF:11 group-title="Movies",HBO HD
 http://181.189.159.131:8000/play/a0l2/index.m3u8
 #EXTINF:11 group-title="Movies",HBO Plus HD
@@ -266,8 +251,7 @@ http://181.189.159.131:8000/play/a0i1/index.m3u8
 #EXTINF:11 group-title="Movies",UNIVERSAL PREMIERE O HD
 http://181.189.159.131:8000/play/a0i2/index.m3u8
 
-#EXTINF:-1 group-title="Movies", HBO
-https://svidex-limit182-stream.x10.mx:8000/stream/hb o.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Movies",AMC
@@ -318,6 +302,13 @@ https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8
 #EXTINF:-1 group-title="DEPORTES", DAZN RINGSIDE
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Tvc deportes México
+http://187.249.120.128:8888/play/a0kl/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES", Combatv
+http://38.194.226.190:8000/play/a030/index.m3u8?hls
+
+
 #EXTINF:-1 group-title="DEPORTES", UFC
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", NBA TV
