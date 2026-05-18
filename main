@@ -291,11 +291,22 @@ http://190.60.42.86:8000/play/a00u/index.m3u8
 
 
 
+https://yxdlc29tzq.fubohd.com/disney1pl/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", ESPN ar
+https://yxdlc29tzq.fubohd.com/espn/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", ESPN2 ar
+https://yxdlc29tzq.fubohd.com/espn2/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", ESPN3 ar
+https://yxdlc29tzq.fubohd.com/espn3/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", ESPN4 ar
+https://yxdlc29tzq.fubohd.com/espn4/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", ESPN5 ar
+https://yxdlc29tzq.fubohd.com/espn5/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", ESPN6 ar
+https://yxdlc29tzq.fubohd.com/espn6/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", ESPN7 ar
+https://yxdlc29tzq.fubohd.com/espn7/mono.m3u8?
 
-#EXTINF:0 group-title="DEPORTES", DAZN 1 
-http://91.146.94.234:10001/play/a0dk
-#EXTINF:0 group-title="DEPORTES", DAZN 2
-http://91.146.94.234:10001/play/a0en
 #EXTINF:0 group-title="DEPORTES", DANZ TV
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 group-title="DEPORTES", DANZ COMBAT
