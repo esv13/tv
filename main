@@ -117,10 +117,6 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",TNT Sports HD
 http://181.13.252.102:8000/play/a0bc/index.m3u8
-#EXTINF:0 group-title="Deportes Argentina",DIRECTV Sport
-http://179.43.96.253:8000/play/a24w/index.m3u8
-#EXTINF:0 group-title="Deportes Argentina",DIRECTV Sport no
-http://179.43.96.253:8000/play/a20a/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",DSports HD
 http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 group-title="Deportes Argentina",D SPORT +
@@ -147,25 +143,12 @@ https://livetrx03.vodgc.net/tyc24/index.m3u8
 http://181.13.252.102:8000/play/a06h/index.m3u8
 
 
-#EXTINF:-1 group-title="Deportes Argentina",ESPN
-http://45.5.151.251:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",ESPN 2
-http://45.5.151.251:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",ESPN 3
-http://45.5.151.251:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",ESPN 4
-http://45.5.151.251:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",ESPN PREMIUM
-http://45.5.151.251:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",FOX SPORTS
-http://45.5.151.251:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",FOX SPORTS 2
-http://45.5.151.251:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",FOX SPORTS 3
-http://45.5.151.251:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Deportes Argentina",TNT SPORTS
-http://45.5.151.251:8000/play/a00p/index.m3u8
 
+
+#EXTINF:-1 group-title="LIFESTYLE",Discovery Theater HD
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="LIFESTYLE",Discovery World HD
+http://181.224.200.5:2277/play/a0ap/index.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE",HGTV
 http://190.60.52.28:5001/play/a0a8/index.m3u8
@@ -291,6 +274,9 @@ http://190.60.42.86:8000/play/a00u/index.m3u8
 
 
 
+#EXTINF:0 group-title="DEPORTES", DANZ F1
+https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?
+#EXTINF:0 group-title="DEPORTES", Disney Plus ESPN ar
 https://yxdlc29tzq.fubohd.com/disney1pl/mono.m3u8?
 #EXTINF:0 group-title="DEPORTES", ESPN ar
 https://yxdlc29tzq.fubohd.com/espn/mono.m3u8?
@@ -324,10 +310,9 @@ http://38.194.226.190:8000/play/a030/index.m3u8?hls
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN US
-http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 US
-http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
+#EXTINF:-1 group-title="DEPORTES", NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",ESPN Premium HD (Chile)
 http://190.171.83.2:4000/play/a0g4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORT PREMIUM
