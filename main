@@ -274,24 +274,12 @@ http://190.60.42.86:8000/play/a00u/index.m3u8
 
 
 
+
+#EXTINF:0 group-title="DEPORTES", AZTECA INTERNACIONA FHD
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:0 group-title="DEPORTES", DANZ F1
 https://pr745.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", Disney Plus ESPN ar
-https://yxdlc29tzq.fubohd.com/disney1pl/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", ESPN ar
-https://yxdlc29tzq.fubohd.com/espn/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", ESPN2 ar
-https://yxdlc29tzq.fubohd.com/espn2/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", ESPN3 ar
-https://yxdlc29tzq.fubohd.com/espn3/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", ESPN4 ar
-https://yxdlc29tzq.fubohd.com/espn4/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", ESPN5 ar
-https://yxdlc29tzq.fubohd.com/espn5/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", ESPN6 ar
-https://yxdlc29tzq.fubohd.com/espn6/mono.m3u8?
-#EXTINF:0 group-title="DEPORTES", ESPN7 ar
-https://yxdlc29tzq.fubohd.com/espn7/mono.m3u8?
+
 
 #EXTINF:0 group-title="DEPORTES", DANZ TV
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
@@ -334,41 +322,6 @@ http://190.105.128.198:5800/play/a06w/index.m3u8
 
 #EXTINF:0 group-title="DEPORTES",Movistar Deportes
 http://179.43.96.253:8000/play/a2a2/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://190.60.52.28:5001/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://190.60.52.28:5001/play/a0f5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://190.60.52.28:5001/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://190.60.52.28:5001/play/a0c6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://190.60.52.28:5001/play/a09t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3
-http://190.60.52.28:5001/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://190.60.52.28:5001/play/a094/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4HD
-http://190.60.52.28:5001/play/a0as/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5
-http://190.60.52.28:5001/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5HD
-http://190.60.52.28:5001/play/a09q/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6
-http://190.60.52.28:5001/play/a0de/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
-http://190.60.52.28:5001/play/a095/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7
-http://190.60.52.28:5001/play/a0dd/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7HD
-http://190.60.52.28:5001/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://190.60.52.28:5001/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://190.60.52.28:5001/play/a09d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://190.60.52.28:5001/play/a0fz/index.m3u8
 
 
 
