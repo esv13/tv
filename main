@@ -425,6 +425,288 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sYRRJ73.png" group-title="DEPORTES", Whoohoo Surf (Rio de Janeiro/RJ)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 
+#EXTINF:11 group-title="ARGENTINA",26TV
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01r/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05i/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",A24
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01o/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",AM Sports
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01v/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",AMC
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01z/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05f/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Adult swim HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0dd/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",America TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a055/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02e/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",C5N
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01p/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",CNN en Espaæol
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a054/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Canal a
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a09j/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Canal de la Ciudad
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06e/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a075/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Cine.AR
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a024/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a07b/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a04s/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02x/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Cronica
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01q/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",DSports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0fc/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",DSports HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0fd/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a07i/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a07h/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06t/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02k/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02z/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01w/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a031/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02r/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a04y/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a059/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05b/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a076/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05a/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a078/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",El Canal  de las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06z/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06w/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Encuentro
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01m/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06v/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",FX HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02v/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Film & Arts HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a030/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05c/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02t/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a07j/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Galicia TV
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02q/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HBO
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06o/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06q/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HBO Family
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06r/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02a/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06p/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02c/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02b/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HGTV
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02j/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",HTV
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02o/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",History 2
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0ab/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",History Channel
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a051/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",La Nacion TV
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01s/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06n/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",MTV
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02m/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",MTV×00
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a053/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Metro
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02g/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05g/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06u/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a04z/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Pakapaka
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a01n/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02y/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Quiero Musica
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02n/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",RAI Italia
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02p/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",RT en Espaæol
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0ac/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Rural
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02f/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05d/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Sony Movies HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05k/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Space HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02w/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a079/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a022/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TCM
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a020/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TLNovelas
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0f4/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TN HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a058/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a07d/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a07g/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a07e/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0bc/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TV Publica HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0dg/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TVE
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a072/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Telefe HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a06c/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",The History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05h/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02s/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",USA Network
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a023/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Universal HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05j/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Volver
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a021/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a05e/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",ciudad magazine
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a02h/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",el nueve HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a04h/index.m3u8u?hls
+#EXTINF:0 group-title="ARGENTINA",el trece HD
+#EXTVLCOPT:network-caching=1000
+http://181.233.180.4:8000/play/a0bg/index.m3u8u?hls
 
 
 
