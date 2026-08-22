@@ -185,17 +185,17 @@ http://190.60.42.86:8000/play/a03b/index.m3u8
 http://190.60.42.86:8000/play/a00u/index.m3u8
 
 
-#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
+#EXTINF:0 group-title="DEPORTES",ESPN PremiumHD
 http://138.121.113.175:8000/play/a0ap/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TNT Sports HD
 http://138.121.113.175:8000/play/a05k/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTINF:0 group-title="DEPORTES",ESPNHD
 http://138.121.113.175:8000/play/a03p/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTINF:0 group-title="DEPORTES",ESPN 2HD
 http://138.121.113.175:8000/play/a03o/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+#EXTINF:0 group-title="DEPORTES",ESPN 3HD
 http://138.121.113.175:8000/play/a03q/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
+#EXTINF:0 group-title="DEPORTES",ESPN 4HD
 http://138.121.113.175:8000/play/a08h/index.m3u8
 #EXTINF:0 group-title="DEPORTES",Fox Sports HD
 http://138.121.113.175:8000/play/a0au/index.m3u8
