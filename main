@@ -64,6 +64,8 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", Paramount+
+https://s2.tudeporteshoy.xyz/paramount1/tracks-v1a1/mono.m3u8?ip=190.105.222.205&token=32914a82387c849bc0b10a29f289d74c6eba8dff-9d-1787478888-1787424888
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
@@ -184,51 +186,36 @@ http://190.60.42.86:8000/play/a00u/index.m3u8
 
 
 #EXTINF:0 group-title="DEPORTES",ESPN Premium HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a0ap/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TNT Sports HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a05k/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a03p/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a03o/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a03q/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 4 HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a08h/index.m3u8
 #EXTINF:0 group-title="DEPORTES",Fox Sports HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a0au/index.m3u8
 #EXTINF:0 group-title="DEPORTES",Fox Sports 2 HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a03r/index.m3u8
 #EXTINF:0 group-title="DEPORTES",Fox Sports 3 HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a05j/index.m3u8
 #EXTINF:0 group-title="DEPORTES",DSports HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:0 group-title="DEPORTES",DSports 2 HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:11 group-title="DEPORTES",DSPORTS 1
-#EXTVLCOPT:network-caching=1000
 http://38.252.215.33:8000/play/a00q/index.m3u8
 #EXTINF:11 group-title="DEPORTES",DSPORTS 2
-#EXTVLCOPT:network-caching=1000
 http://38.252.215.33:8000/play/a00r/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TyC Sports HD
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:0 group-title="DEPORTES",DeporTV
-#EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a07r/index.m3u8
 #EXTINF:0 group-title="DEPORTES",FOX SPORT MX
 http://45.238.141.222:8000/play/a0ox/index.m3u8
