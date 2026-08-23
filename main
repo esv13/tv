@@ -66,7 +66,8 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", Paramount+
 https://s2.tudeporteshoy.xyz/paramount1/tracks-v1a1/mono.m3u8?ip=190.105.222.205&token=32914a82387c849bc0b10a29f289d74c6eba8dff-9d-1787478888-1787424888
-
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", DAZN F1
+https://s2.tudeporteshoy.xyz/daznf1/tracks-v1a1/mono.m3u8?ip=190.105.222.205&token=5f3a58d521b012fc2cd250dedda85476f046648f-e6-1787531358-1787477358
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
