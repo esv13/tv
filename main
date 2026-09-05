@@ -1,4 +1,4 @@
-hy#EXTM3U
+#EXTM3U
  
 
 #EXTINF:-1 type="stream" channelId="1333" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="CANALES 24/7", Red Bull TV (UHD)
@@ -41,6 +41,10 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  type="stream" channelId="-1"  logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="Música", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", RetroPlus
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", RetroPlus 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Música",Sin Limites Claro Música
@@ -64,10 +68,13 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", Paramount+
-https://s2.tudeporteshoy.xyz/paramount1/tracks-v1a1/mono.m3u8?ip=190.105.222.205&token=32914a82387c849bc0b10a29f289d74c6eba8dff-9d-1787478888-1787424888
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", DAZN F1
-https://s2.tudeporteshoy.xyz/daznf1/tracks-v1a1/mono.m3u8?ip=190.105.222.205&token=5f3a58d521b012fc2cd250dedda85476f046648f-e6-1787531358-1787477358
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 (Señal Lite)
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal Lite)
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
@@ -103,6 +110,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 #EXTINF:-1 tvg-logo="https://blog.tdn.tv/wp-content/uploads/2020/05/tdb-logo-pink.png" group-title="LIFESTYLE", The Design Network - TCL Channel (Brasil)
 https://amg00441-amg00441c1-tcl-us-6397.playouts.now.amagi.tv/playlist.m3u8
 
+
+
+#EXTINF:0 group-title="Movies",HBO Family HD
+http://38.187.22.140:25501/play/a05a/index.m3u8
+#EXTINF:0 group-title="Movies",HBO HD
+http://38.187.22.140:25501/play/a05m/index.m3u8
+#EXTINF:0 group-title="Movies",HBO MUNDI
+http://38.187.22.140:25501/play/a06b/index.m3u8
+#EXTINF:0 group-title="Movies",HBO POP HD
+http://38.187.22.140:25501/play/a071/index.m3u8
+#EXTINF:0,HBO Plus
+http://38.187.22.140:25501/play/a050/index.m3u8
+#EXTINF:0 group-title="Movies",HBO Signature
+http://38.187.22.140:25501/play/a06a/index.m3u8
+#EXTINF:0 group-title="Movies",HBO XTREME HD
+http://38.187.22.140:25501/play/a05b/index.m3u8
 #EXTINF:0 group-title="Movies",HBO 2
 #EXTVLCOPT:network-caching=1000
 http://138.121.113.175:8000/play/a080/index.m3u8
@@ -185,7 +208,8 @@ http://190.60.42.86:8000/play/a03b/index.m3u8
 #EXTINF:0 group-title="Movies",GOLDEN HD
 http://190.60.42.86:8000/play/a00u/index.m3u8
 
-
+#EXTINF:11 group-title="DEPORTES",ESPN Premium HD 1
+http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN PremiumHD
 http://138.121.113.175:8000/play/a0ap/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TNT Sports HD
@@ -224,6 +248,10 @@ http://45.238.141.222:8000/play/a0ox/index.m3u8
 http://45.238.141.222:8000/play/a0oy/index.m3u8
 #EXTINF:0 group-title="DEPORTES",FOX SPORT 3 MX
 http://45.238.141.222:8000/play/a0oz/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY SPORTS
+45.228.234.30:16000/play/a03h/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7
+http://205.235.6.29:8000/play/a0zv/index.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="DEPORTES",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN HD
@@ -330,6 +358,8 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sYRRJ73.png" group-title="DEPORTES", Whoohoo Surf (Rio de Janeiro/RJ)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 
+#EXTINF:11 group-title="DEPORTES",ESPN CO
+http://200.122.232.149:8000/play/a032/index.m3u8
 #EXTINF:11 group-title="DEPORTES",ESPN_Peru
 #EXTVLCOPT:network-caching=1000
 http://38.252.215.33:8000/play/a00j/index.m3u8
