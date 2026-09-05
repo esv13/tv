@@ -41,6 +41,8 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  type="stream" channelId="-1"  logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="Música", RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="Música", HUANHUATV
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", RetroPlus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", RetroPlus 2
@@ -68,8 +70,7 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
