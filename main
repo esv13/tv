@@ -64,6 +64,23 @@ https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 group-title="Música",Concert Channel
 http://177.10.184.193:8000/play/a05p/index.m3u8
 
+#EXTINF:0 group-title="HBO",HBO HD
+http://200.62.239.170:830/play/a07w/index.m3u8
+#EXTINF:11 group-title="HBO",HBO2
+http://200.62.239.170:830/play/a08c/index.m3u8
+#EXTINF:0 group-title="HBO",HBO Family HD
+http://200.62.239.170:830/play/a00q/index.m3u8
+#EXTINF:0 group-title="HBO",HBO MUNDI
+http://200.62.239.170:830/play/a058/index.m3u8
+#EXTINF:0 group-title="HBO",HBO POP HD
+http://200.62.239.170:830/play/a00g/index.m3u8
+#EXTINF:0 group-title="HBO",HBO Plus
+http://200.62.239.170:830/play/a03f/index.m3u8
+#EXTINF:0 group-title="HBO",HBO Signature
+http://200.62.239.170:830/play/a057/index.m3u8
+#EXTINF:0 group-title="HBO",HBO XTREME HD
+http://200.62.239.170:830/play/a064/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 (Señal Lite)
@@ -98,7 +115,9 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 
 
 
-
+#EXTINF:0 group-title="LIFESTYLE",Love Nature
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a08w/index.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="LIFESTYLE"",Homeful en Español
 https://jmp2.uk/rok-5dd7bdd7b320a81dd501cfac172db9c1.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",History Channel
@@ -111,7 +130,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/Taste
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 #EXTINF:-1 tvg-logo="https://blog.tdn.tv/wp-content/uploads/2020/05/tdb-logo-pink.png" group-title="LIFESTYLE", The Design Network - TCL Channel (Brasil)
 https://amg00441-amg00441c1-tcl-us-6397.playouts.now.amagi.tv/playlist.m3u8
-
 
 
 #EXTINF:0 group-title="Movies",HBO Family HD
@@ -386,7 +404,42 @@ http://38.252.215.33:8000/play/a00p/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TNT SPORTS
 #EXTVLCOPT:network-caching=1000
 http://38.252.215.33:8000/play/a00i/index.m3u8
-
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a00f/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a06r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a06i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a06m/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a03r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a01a/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a00n/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a00p/index.m3u8
+#EXTINF:0 group-title="DEPORTES",DSPORTS | INKA 
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a07b/index.m3u8
+#EXTINF:0 group-title="DEPORTES",L1 MAX
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a08r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a08y/index.m3u8
+#EXTINF:0 group-title="DEPORTES",TNT Sports Premiun HD
+#EXTVLCOPT:network-caching=1000
+http://200.62.239.170:830/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
