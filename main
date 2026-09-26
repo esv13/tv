@@ -444,6 +444,48 @@ http://200.62.239.170:830/play/a08y/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://200.62.239.170:830/play/a00e/index.m3u8
 
+
+
+#EXTINF:0 group-title="DEPORTES 2",DAZN (ESPAÑA)
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",DAZN 2 (ESPAÑA)
+https://live881.videxhd.sbs/tvtvhd/dazn2/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",DAZN 3 SOLO EVENTOS (ESPAÑA)
+https://live83.videxhd.sbs/tvtvhd/dazn3/index.m3u8?api=1234.
+#EXTINF:0 group-title="DEPORTES 2",DAZN 4 SOLO EVENTOS (ESPAÑA)
+https://live81.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",DAZN F1 (ESPAÑA)
+https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 1 (AR)
+https://live881.videxhd.sbs/latamplay/espn/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 2 (AR)
+https://live83.videxhd.sbs/latamplay/espn2/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 3 (AR)
+https://live81.videxhd.sbs/latamplay/espn3/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 4 (AR)
+https://live91.videxhd.sbs/latamplay/espn4/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 5 (AR)
+https://live881.videxhd.sbs/latamplay/espn5/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 6 (AR)
+https://live83.videxhd.sbs/latamplay/espn6/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 7 (AR)
+https://live81.videxhd.sbs/latamplay/espn7/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 1 (MÉXICO)
+https://live81.videxhd.sbs/latamplay/espnmx/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 2 (MÉXICO)
+https://live91.videxhd.sbs/latamplay/espn2mx/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 3 (MÉXICO)
+https://live881.videxhd.sbs/latamplay/espn3mx/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",ESPN 4 (MÉXICO)
+https://live83.videxhd.sbs/latamplay/espn4mx/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",TUDN (MEXICO)
+https://live881.videxhd.sbs/latamplay/tudnmx/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",TUDN (US)
+https://live83.videxhd.sbs/latamplay/tudn_usa/index.m3u8?api=1234
+#EXTINF:0 group-title="DEPORTES 2",TYC SPORTS (AR)
+https://live81.videxhd.sbs/latamplay/tycsports/index.m3u8?api=1234
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN SPORTS XTRA en Espanol (1080p)
