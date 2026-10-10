@@ -92,19 +92,21 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", Disney Plus
-https://85.domhsd.com/disney1/tracks-v1a1/mono.m3u8?ip=149.102.224.54&token=a0265bb14a258af850a3d20b8f83c2da4572ab1a-20-1791670240-1791616240
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", Disney Plus Colapinto
-https://85.domhsd.com/disney2/tracks-v1a1/mono.m3u8?ip=149.102.224.54&token=1789c58074eb1c42c87e5c758888e2f06a1c63ba-65-1791670332-1791616332
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", DAZN F1
-https://3d269i.l948728p57nx.net:8443/hls/ii43sxx7cbfz6.m3u8?s=jcAJa-M6fC9NujpS-QJpZA&e=1791646601
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) HD
-http://192.168.1.120/ts/1_0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) SD
-http://192.168.1.120/ts/huanhuatv
-
+#EXTINF:0 group-title="Deportes 2",DAZN F1 HD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587361&extension=ts&play_token=4Pk6eafi5F
+#EXTINF:0 group-title="Deportes 2",DAZN F1 RAW
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:84:75:57&stream=2068325&extension=ts&play_token=eJ856kUICz
+#EXTINF:0 group-title="Deportes 2",DAZN F1 SD 2
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:84:75:57&stream=1547253&extension=ts&play_token=N3lUroARnO
+#EXTINF:0 group-title="Deportes 2",f1  DAZN
+http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:F1:B0:FD&stream=2068325&extension=ts&play_token=k92nLHzD0B
+#EXTINF:0 group-title="Deportes 2",DAZN SD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=1547253&extension=ts&play_token=8i5FQvouZ5
+#EXTINF:0 group-title="Deportes 2",VIAPLAY F1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=575525&extension=ts&play_token=EGOA9KLNQo
+#EXTINF:0 group-title="Deportes 2",LIVE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:B4:FA:B6&stream=1172218&extension=ts&play_token=nyefWILtCz
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
@@ -239,40 +241,19 @@ http://190.60.42.86:8000/play/a03b/index.m3u8
 #EXTINF:0 group-title="Movies",GOLDEN HD
 http://190.60.42.86:8000/play/a00u/index.m3u8
 
+#EXTINF:11 group-title="DEPORTES",ESPN Premium
+https://93.domhsd.com/espnpremium/tracks-v1a1/mono.m3u8?ip=149.102.224.57&token=d272ab544a173a100d74501d8cc94dddb85a3ebb-ef-1791692419-1791638419
+#EXTINF:0 group-title="DEPORTES",TNT Sports Premiun
+https://khala.futlivehd.com/tntsports/tracks-v1a1/mono.m3u8?ip=149.102.224.57&token=2eadb79167af81610dc28ebca97994eab33c3a04-87-1791692720-1791638720
+#EXTINF:11 group-title="DEPORTES",ESPN Premium
+https://lala4.futlivehd.com/espnpremium/tracks-v1a1/mono.m3u8?ip=149.102.224.57&token=ba687841accb5e41eebbdc10d8757c0fdbeda300-47-1791692470-1791638470
+#EXTINF:0 group-title="DEPORTES",TNT Sports Premiun
+https://99.domhsd.com/tntsports/tracks-v1a1/mono.m3u8?ip=149.102.224.57&token=09fd367aceece641956a80462f9d8651e532194e-40-1791692639-1791638639
+
 #EXTINF:11 group-title="DEPORTES",ESPN Premium HD 1
 http://205.235.6.29:8000/play/a0wl/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN PremiumHD
-http://138.121.113.175:8000/play/a0ap/index.m3u8
-#EXTINF:0 group-title="DEPORTES",TNT Sports HD
-http://138.121.113.175:8000/play/a05k/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPNHD
-http://138.121.113.175:8000/play/a03p/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2HD
-http://138.121.113.175:8000/play/a03o/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3HD
-http://138.121.113.175:8000/play/a03q/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 4HD
-http://138.121.113.175:8000/play/a08h/index.m3u8
-#EXTINF:0 group-title="DEPORTES",Fox Sports HD
-http://138.121.113.175:8000/play/a0au/index.m3u8
-#EXTINF:0 group-title="DEPORTES",Fox Sports 2 HD
-http://138.121.113.175:8000/play/a03r/index.m3u8
-#EXTINF:0 group-title="DEPORTES",Fox Sports 3 HD
-http://138.121.113.175:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="DEPORTES",DSports HD
-http://138.121.113.175:8000/play/a0cj/index.m3u8
-#EXTINF:0 group-title="DEPORTES",DSports 2 HD
-http://138.121.113.175:8000/play/a0ca/index.m3u8
-#EXTINF:11 group-title="DEPORTES",DSPORTS 1
-http://38.252.215.33:8000/play/a00q/index.m3u8
-#EXTINF:11 group-title="DEPORTES",DSPORTS 2
-http://38.252.215.33:8000/play/a00r/index.m3u8
-#EXTINF:0 group-title="DEPORTES",TyC Sports HD
-http://138.121.113.175:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:0 group-title="DEPORTES",DeporTV
-http://138.121.113.175:8000/play/a07r/index.m3u8
 #EXTINF:0 group-title="DEPORTES",FOX SPORT MX
 http://45.238.141.222:8000/play/a0ox/index.m3u8
 #EXTINF:11 group-title="DEPORTES",FOX SPORT 2 MX
@@ -451,47 +432,6 @@ http://200.62.239.170:830/play/a08y/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TNT Sports Premiun HD
 #EXTVLCOPT:network-caching=1000
 http://200.62.239.170:830/play/a00e/index.m3u8
-
-
-
-#EXTINF:0 group-title="DEPORTES 2",DAZN (ESPAÑA)
-https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",DAZN 2 (ESPAÑA)
-https://live881.videxhd.sbs/tvtvhd/dazn2/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",DAZN 3 SOLO EVENTOS (ESPAÑA)
-https://live83.videxhd.sbs/tvtvhd/dazn3/index.m3u8?api=1234.
-#EXTINF:0 group-title="DEPORTES 2",DAZN 4 SOLO EVENTOS (ESPAÑA)
-https://live81.videxhd.sbs/tvtvhd/dazn4/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",DAZN F1 (ESPAÑA)
-https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 1 (AR)
-https://live881.videxhd.sbs/latamplay/espn/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 2 (AR)
-https://live83.videxhd.sbs/latamplay/espn2/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 3 (AR)
-https://live81.videxhd.sbs/latamplay/espn3/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 4 (AR)
-https://live91.videxhd.sbs/latamplay/espn4/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 5 (AR)
-https://live881.videxhd.sbs/latamplay/espn5/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 6 (AR)
-https://live83.videxhd.sbs/latamplay/espn6/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 7 (AR)
-https://live81.videxhd.sbs/latamplay/espn7/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 1 (MÉXICO)
-https://live81.videxhd.sbs/latamplay/espnmx/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 2 (MÉXICO)
-https://live91.videxhd.sbs/latamplay/espn2mx/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 3 (MÉXICO)
-https://live881.videxhd.sbs/latamplay/espn3mx/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",ESPN 4 (MÉXICO)
-https://live83.videxhd.sbs/latamplay/espn4mx/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",TUDN (MEXICO)
-https://live881.videxhd.sbs/latamplay/tudnmx/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",TUDN (US)
-https://live83.videxhd.sbs/latamplay/tudn_usa/index.m3u8?api=1234
-#EXTINF:0 group-title="DEPORTES 2",TYC SPORTS (AR)
-https://live81.videxhd.sbs/latamplay/tycsports/index.m3u8?api=1234
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
