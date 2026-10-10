@@ -94,6 +94,10 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", Paramount+
 https://khala.futlivehd.com/paramount1/tracks-v1a1/mono.m3u8?ip=149.102.224.54&token=3ad370eb8016ca2fca1b18801e2ae5b7df11de02-b8-1791712390-1791658390
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", Paramount+
+https://lib.blib.shop/hls/70d0ff395cb66b846a2748c8dec33f54.m3u8
+
+https://vishnu.indianservers.st/secure/DxLTeDbGLTefbFEwYBsksgrTIjDBRqHM/1791655200/1791702000/ufc-es/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="Deportes 2",DAZN F1 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587361&extension=ts&play_token=4Pk6eafi5F
