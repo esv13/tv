@@ -92,6 +92,14 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", Disney Plus
+https://85.domhsd.com/disney1/tracks-v1a1/mono.m3u8?ip=149.102.224.54&token=a0265bb14a258af850a3d20b8f83c2da4572ab1a-20-1791670240-1791616240
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", Disney Plus Colapinto
+https://85.domhsd.com/disney2/tracks-v1a1/mono.m3u8?ip=149.102.224.54&token=1789c58074eb1c42c87e5c758888e2f06a1c63ba-65-1791670332-1791616332
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", DAZN F1
+https://3d269i.l948728p57nx.net:8443/hls/ii43sxx7cbfz6.m3u8?s=jcAJa-M6fC9NujpS-QJpZA&e=1791646601
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) HD
 http://192.168.1.120/ts/1_0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) SD
