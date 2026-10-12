@@ -99,6 +99,9 @@ https://lib.blib.shop/hls/70d0ff395cb66b846a2748c8dec33f54.m3u8
 
 https://vishnu.indianservers.st/secure/DxLTeDbGLTefbFEwYBsksgrTIjDBRqHM/1791655200/1791702000/ufc-es/tracks-v1a1/mono.ts.m3u8
 
+
+#EXTINF:11group-title="Deportes 2",CANALES ESPN DISNEY
+http://38.199.241.97:8000/play/a03k/index.m3u8
 #EXTINF:0 group-title="Deportes 2",DAZN F1 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587361&extension=ts&play_token=4Pk6eafi5F
 #EXTINF:0 group-title="Deportes 2",DAZN F1 RAW
