@@ -94,12 +94,12 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ",Eventos 1 HD (ar)
-200.123.40.1:8000/play/a04m/index.m3u8
+http://200.123.40.1:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ",Eventos 2 HD (ar)
-200.123.40.1:8000/play/a04n/index.m3u8
+http://200.123.40.1:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 group-title="Deportes 2",ESPN Premium HD
-200.123.40.1:8000/play/a05n/index.m3u8
+http://200.123.40.1:8000/play/a05n/index.m3u8
 #EXTINF:11 group-title="Deportes 2",CANALES ESPN DISNEY
 http://38.199.241.97:8000/play/a03k/index.m3u8
 #EXTINF:0 group-title="Deportes 2",DAZN F1 HD
