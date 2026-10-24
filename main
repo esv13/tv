@@ -92,12 +92,15 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ", Paramount+
-https://razen.futlivehd.com/paramount1/tracks-v1a1/mono.m3u8?ip=149.102.224.54&token=522e6ec82852a59de405493785fb52776c77dc69-f5-1792892203-1792838203
 
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ",Eventos 1 HD (ar)
+200.123.40.1:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS ( Pay Per View ) ",Eventos 2 HD (ar)
+200.123.40.1:8000/play/a04n/index.m3u8
 
-
-#EXTINF:11group-title="Deportes 2",CANALES ESPN DISNEY
+#EXTINF:-1 group-title="Deportes 2",ESPN Premium HD
+200.123.40.1:8000/play/a05n/index.m3u8
+#EXTINF:11 group-title="Deportes 2",CANALES ESPN DISNEY
 http://38.199.241.97:8000/play/a03k/index.m3u8
 #EXTINF:0 group-title="Deportes 2",DAZN F1 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587361&extension=ts&play_token=4Pk6eafi5F
