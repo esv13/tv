@@ -142,6 +142,92 @@ http://200.123.40.1:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="Deportes 3",TyC Sports HD
 http://200.123.40.1:8000/play/a05e/index.m3u8
 
+#EXTINF:-1 group-title="Deportes 5",ESPN
+http://181.79.81.17:10000/play/a1hs/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN
+http://181.79.81.17:10000/play/a1io/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN
+http://181.79.81.17:10000/play/a1ja/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 2
+http://181.79.81.17:10000/play/a1in/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 2 HD
+http://181.79.81.17:10000/play/a1jt/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 2 HD
+http://181.79.81.17:10000/play/a1hd/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 3 HD
+http://181.79.81.17:10000/play/a1hp/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 4 HD
+http://181.79.81.17:10000/play/a1kr/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 5 HD
+http://181.79.81.17:10000/play/a1he/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 6 HD
+http://181.79.81.17:10000/play/a1h7/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 7 HD
+http://181.79.81.17:10000/play/a1kk/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN HD
+http://181.79.81.17:10000/play/a1jh/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN Premium HD
+http://181.79.81.17:10000/play/a1k2/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN Premium
+http://181.79.81.17:10000/play/a1k8/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",TNT Sports Premium HD
+http://181.79.81.17:10000/play/a1js/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",Fox Sports
+http://190.115.12.197:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",TNT SPORTS
+http://181.79.81.17:10000/play/a1h1/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",TNT Sports Premium HD
+http://181.79.81.17:10000/play/a1js/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 4 HD
+http://168.228.44.241:9997/play/a092/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 2 HD
+http://168.228.44.241:9997/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 3 HD
+http://168.228.44.241:9997/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 5 HD
+http://168.228.44.241:9997/play/a091/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN 6 HD
+http://168.228.44.241:9997/play/a023/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",ESPN HD
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",FOX
+http://168.228.44.241:9997/play/a054/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",FOX 1 MUNDIAL
+http://168.228.44.241:9997/play/a066/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",FOX CR
+http://168.228.44.241:9997/play/a052/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",FOX HD GUA
+http://168.228.44.241:9997/play/a053/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",FOX SPORTS 3 HD
+http://168.228.44.241:9997/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",Claro Sports 1 HD
+http://181.78.106.127:5000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",Claro Sports 1 SD
+http://181.78.106.127:5000/play/a0rc/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",Claro Sports 2 HD
+http://181.78.106.127:5000/play/ca037/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",DSPORT ARGENTINA
+http://181.78.106.127:5000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",TUDN (MX)
+http://181.78.106.127:5000/play/ca025/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",TNT SPORT
+http://181.78.106.127:5000/play/ca026/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",MOVISTAR LA LIGA
+http://181.78.106.127:5000/play/ca027/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",SKY BUNDESLIGA
+http://181.78.106.127:5000/play/ca028/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",SKY PREMIER
+http://181.78.106.127:5000/play/ca029/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",FOX SPORT 1
+http://181.78.106.127:5000/play/ca031/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",FOX SPORT 2
+http://181.78.106.127:5000/play/ca032/index.m3u8
+#EXTINF:-1 group-title="Deportes 5",TUDN USA HD
+http://181.78.106.127:5000/play/ca036/index.m3u8
+
+
+#EXTINF:-1 group-title="Deportes 2",FOX SPORTS 3 HD
+http://168.228.44.241:9997/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Deportes 2",ESPN Premium HD
 http://200.123.40.1:8000/play/a05n/index.m3u8
 #EXTINF:11 group-title="Deportes 2",CANALES ESPN DISNEY
@@ -179,7 +265,10 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 
 
-
+#EXTINF:0 group-title="LIFESTYLE", Discovery World HD
+http://181.78.106.127:5000/play/a0rs/index.m3u8
+#EXTINF:11 group-title="LIFESTYLE",Discovery Theater
+http://38.224.48.4:8000/play/a0h7/index.m3u8
 
 #EXTINF:0 group-title="LIFESTYLE",Love Nature
 #EXTVLCOPT:network-caching=1000
@@ -487,6 +576,231 @@ http://200.62.239.170:830/play/a08y/index.m3u8
 http://200.62.239.170:830/play/a00e/index.m3u8
 
 
+#EXTINF:-1 group-title="Cable Argentina 1",26TV
+http://190.7.19.206:8098/play/a0lo/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",A&E HD
+http://190.7.19.206:8098/play/a0p7/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",A24
+http://190.7.19.206:8098/play/a0ll/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",AM Sports
+http://190.7.19.206:8098/play/a0ls/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",AMC
+http://190.7.19.206:8098/play/a0lv/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ANIMAL PLANET
+http://190.7.19.206:8098/play/a0qk/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ARGENTINISIMA
+http://190.7.19.206:8098/play/a0q1/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",AXN HD
+http://190.7.19.206:8098/play/a0p4/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",America TV HD
+http://190.7.19.206:8098/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",BANDEIRANTES
+http://190.7.19.206:8098/play/a0qe/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Baby TV
+http://190.7.19.206:8098/play/a0m9/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",C5N
+http://190.7.19.206:8098/play/a0lm/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",CANAL 6 CRESPO
+http://190.7.19.206:8098/play/a0ps/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",CANAL 9
+http://190.7.19.206:8098/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",CANAL ONCE PARANA
+http://190.7.19.206:8098/play/a0pt/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",CHV
+http://190.7.19.206:8098/play/a0q5/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",CNN en Español
+http://190.7.19.206:8098/play/a0ot/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",CORRIENTES 5
+http://190.7.19.206:8098/play/a0po/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Canal a
+http://190.7.19.206:8098/play/a0m4/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Cartoon Network HD
+http://190.7.19.206:8098/play/a0nt/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Cine.AR
+http://190.7.19.206:8098/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Cinecanal HD
+http://190.7.19.206:8098/play/a0o0/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Cinemax
+http://190.7.19.206:8098/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Comedy Central HD
+http://190.7.19.206:8098/play/a0ms/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Crónica
+http://190.7.19.206:8098/play/a0ln/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",DSports 2 HD
+http://190.7.19.206:8098/play/a0qm/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",DSports HD
+http://190.7.19.206:8098/play/a0qn/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",DeporTV
+http://190.7.19.206:8098/play/a0n5/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Discovery Channel HD
+http://190.7.19.206:8098/play/a0o7/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Discovery H&H HD
+http://190.7.19.206:8098/play/a0o6/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Discovery Kids
+http://190.7.19.206:8098/play/a0nh/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Discovery Science
+http://190.7.19.206:8098/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Discovery Theater HD
+http://190.7.19.206:8098/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Discovery Turbo
+http://190.7.19.206:8098/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Discovery World HD
+http://190.7.19.206:8098/play/a0mw/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Disney Channel HD
+http://190.7.19.206:8098/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Disney Junior
+http://190.7.19.206:8098/play/a0on/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",E! Entertainment
+http://190.7.19.206:8098/play/a0op/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",EL ONCE PARANA
+http://190.7.19.206:8098/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ENLACE
+http://190.7.19.206:8098/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ESPN 2 HD
+http://190.7.19.206:8098/play/a0oy/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ESPN 3 HD
+http://190.7.19.206:8098/play/a0p0/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ESPN 4 HD
+http://190.7.19.206:8098/play/a0nv/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ESPN HD
+http://190.7.19.206:8098/play/a0oz/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ESPN Premium HD
+http://190.7.19.206:8098/play/a0nx/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",EWTN
+http://190.7.19.206:8098/play/a0q3/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",El Canal de las Estrellas
+http://190.7.19.206:8098/play/a0nn/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",El Gourmet
+http://190.7.19.206:8098/play/a0nk/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Encuentro
+http://190.7.19.206:8098/play/a0lj/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Europa Europa
+http://190.7.19.206:8098/play/a0nj/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Eventos HD
+http://190.7.19.206:8098/play/a0pv/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",FX HD
+http://190.7.19.206:8098/play/a0mq/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Film & Arts HD
+http://190.7.19.206:8098/play/a0mv/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Fox Sports 2 HD
+http://190.7.19.206:8098/play/a0p1/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Fox Sports 3 HD
+http://190.7.19.206:8098/play/a0mo/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Fox Sports HD
+http://190.7.19.206:8098/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",GARAGE TV
+http://190.7.19.206:8098/play/a0q7/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Galicia TV
+http://190.7.19.206:8098/play/a0ml/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",HBO Family
+http://190.7.19.206:8098/play/a0qa/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",HBO POP
+http://190.7.19.206:8098/play/a0qc/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",HBO Xtreme
+http://190.7.19.206:8098/play/a0qd/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",HGTV
+http://190.7.19.206:8098/play/a0me/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",HTV
+http://190.7.19.206:8098/play/a0mj/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",History 2
+http://190.7.19.206:8098/play/a0md/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",History Channel
+http://190.7.19.206:8098/play/a0oq/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ID HD
+http://190.7.19.206:8098/play/a0ql/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",IN
+http://190.7.19.206:8098/play/a0qi/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",La Nacion TV
+http://190.7.19.206:8098/play/a0lp/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Lifetime
+http://190.7.19.206:8098/play/a0nb/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",MTV
+http://190.7.19.206:8098/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",MTV 00
+http://190.7.19.206:8098/play/a0os/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Metro
+http://190.7.19.206:8098/play/a0mb/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",NUEVO TIEMPO
+http://190.7.19.206:8098/play/a0q8/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Nat Geo HD
+http://190.7.19.206:8098/play/a0p5/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Nick Jr
+http://190.7.19.206:8098/play/a0ni/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Nickelodeon
+http://190.7.19.206:8098/play/a0oo/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",O GLOBO
+http://190.7.19.206:8098/play/a0qf/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",PASIONES
+http://190.7.19.206:8098/play/a0q4/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Paramount HD
+http://190.7.19.206:8098/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Quiero Musica
+http://190.7.19.206:8098/play/a0mi/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",RAI Italia
+http://190.7.19.206:8098/play/a0mk/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",REMANSO
+http://190.7.19.206:8098/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",REMANSO +
+http://190.7.19.206:8098/play/a0qh/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",RT en Español
+http://190.7.19.206:8098/play/a0q9/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Rural
+http://190.7.19.206:8098/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Sony HD
+http://190.7.19.206:8098/play/a0p2/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Sony Movies HD
+http://190.7.19.206:8098/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Space HD
+http://190.7.19.206:8098/play/a0mr/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Star Channel HD
+http://190.7.19.206:8098/play/a0ny/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Studio Universal
+http://190.7.19.206:8098/play/a0ly/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",T5 SATELITAL
+http://190.7.19.206:8098/play/a07v/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TCM
+http://190.7.19.206:8098/play/a0lw/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TLNovelas
+http://190.7.19.206:8098/play/a0no/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TN HD
+http://190.7.19.206:8098/play/a0ox/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TNT HD
+http://190.7.19.206:8098/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TNT Novelas HD
+http://190.7.19.206:8098/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TNT Series HD
+http://190.7.19.206:8098/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TNT Sports HD
+http://190.7.19.206:8098/play/a0pu/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TOONCAST
+http://190.7.19.206:8098/play/a0q6/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TV Publica HD
+http://190.7.19.206:8098/play/a0ov/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TVE
+http://190.7.19.206:8098/play/a0qb/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Telefe HD
+http://190.7.19.206:8098/play/a0n0/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",The History Channel HD
+http://190.7.19.206:8098/play/a0p6/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",TyC Sports HD
+http://190.7.19.206:8098/play/a0mn/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",UCL
+http://190.7.19.206:8098/play/a0q0/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",USA Network
+http://190.7.19.206:8098/play/a0lz/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Universal HD
+http://190.7.19.206:8098/play/a0p8/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Volver
+http://190.7.19.206:8098/play/a0lx/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",Warner Channel HD
+http://190.7.19.206:8098/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",ciudad magazine
+http://190.7.19.206:8098/play/a0mc/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",el nueve HD
+http://190.7.19.206:8098/play/a0ob/index.m3u8
+#EXTINF:-1 group-title="Cable Argentina 1",el trece HD
+http://190.7.19.206:8098/play/a0nz/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN SPORTS XTRA en Espanol (1080p)
@@ -568,310 +882,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 
 
 
-
-#EXTINF:11 group-title="CABLE",26TV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04h/index.m3u8
-#EXTINF:0 group-title="CABLE",A&E HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03x/index.m3u8
-#EXTINF:0 group-title="CABLE",A24
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04e/index.m3u8
-#EXTINF:0 group-title="CABLE",AM Sports
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04l/index.m3u8
-#EXTINF:0 group-title="CABLE",AMC
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04p/index.m3u8
-#EXTINF:0 group-title="CABLE",AXN HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03u/index.m3u8
-#EXTINF:0 group-title="CABLE",Adult swim HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08q/index.m3u8
-#EXTINF:0 group-title="CABLE",America TV HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03k/index.m3u8
-#EXTINF:0 group-title="CABLE",Baby TV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a054/index.m3u8
-#EXTINF:0 group-title="CABLE",C5N
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04f/index.m3u8
-#EXTINF:0 group-title="CABLE",CNN en Espa?ol
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03j/index.m3u8
-#EXTINF:0 group-title="CABLE",Canal a
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04y/index.m3u8
-#EXTINF:0 group-title="CABLE",Canal de la Ciudad
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a07o/index.m3u8
-#EXTINF:0 group-title="CABLE",Cartoon Network HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08f/index.m3u8
-#EXTINF:0 group-title="CABLE",Cine.AR
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04u/index.m3u8
-#EXTINF:0 group-title="CABLE",Cinecanal HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08m/index.m3u8
-#EXTINF:0 group-title="CABLE",Cinemax
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a037/index.m3u8
-#EXTINF:0 group-title="CABLE",Comedy Central HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05n/index.m3u8
-#EXTINF:0 group-title="CABLE",Cr?nica
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04g/index.m3u8
-#EXTINF:0 group-title="CABLE",DSports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0ca/index.m3u8
-#EXTINF:0 group-title="CABLE",DSports HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0cj/index.m3u8
-#EXTINF:0 group-title="CABLE",DeporTV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a07r/index.m3u8
-#EXTINF:0 group-title="CABLE",Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08t/index.m3u8
-#EXTINF:0 group-title="CABLE",Discovery H&H HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08s/index.m3u8
-#EXTINF:0 group-title="CABLE",Discovery Kids
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a083/index.m3u8
-#EXTINF:0 group-title="CABLE",Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05a/index.m3u8
-#EXTINF:0 group-title="CABLE",Discovery Theater HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05p/index.m3u8
-#EXTINF:0 group-title="CABLE",Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04m/index.m3u8
-#EXTINF:0 group-title="CABLE",Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05r/index.m3u8
-#EXTINF:0 group-title="CABLE",Disney Channel HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05h/index.m3u8
-#EXTINF:0 group-title="CABLE",Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03d/index.m3u8
-#EXTINF:0 group-title="CABLE",E! Entertainment
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03f/index.m3u8
-#EXTINF:0 group-title="CABLE",EL FOLKLORICO TV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0c6/index.m3u8
-#EXTINF:0 group-title="CABLE",ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03o/index.m3u8
-#EXTINF:0 group-title="CABLE",ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03q/index.m3u8
-#EXTINF:0 group-title="CABLE",ESPN 4 HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08h/index.m3u8
-#EXTINF:0 group-title="CABLE",ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03p/index.m3u8
-#EXTINF:0 group-title="CABLE",ESPN Premium HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0ap/index.m3u8
-#EXTINF:0 group-title="CABLE",El Canal  de las Estrellas
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a089/index.m3u8
-#EXTINF:0 group-title="CABLE",El Gourmet
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a086/index.m3u8
-#EXTINF:0 group-title="CABLE",Encuentro
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04c/index.m3u8
-#EXTINF:0 group-title="CABLE",Europa Europa
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a085/index.m3u8
-#EXTINF:0 group-title="CABLE",FX HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05l/index.m3u8
-#EXTINF:0 group-title="CABLE",Film & Arts HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05q/index.m3u8
-#EXTINF:0 group-title="CABLE",Fox Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03r/index.m3u8
-#EXTINF:0 group-title="CABLE",Fox Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="CABLE",Fox Sports HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0au/index.m3u8
-#EXTINF:0 group-title="CABLE",Galicia TV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05g/index.m3u8
-#EXTINF:0 group-title="CABLE",HBO 2
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a080/index.m3u8
-#EXTINF:0 group-title="CABLE",HBO Family
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a081/index.m3u8
-#EXTINF:0 group-title="CABLE",HBO Mundi
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a050/index.m3u8
-#EXTINF:0 group-title="CABLE",HBO POP
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04z/index.m3u8
-#EXTINF:0 group-title="CABLE",HBO Plus
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a07z/index.m3u8
-#EXTINF:0 group-title="CABLE",HBO Signature
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a052/index.m3u8
-#EXTINF:0 group-title="CABLE",HBO Xtreme
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a051/index.m3u8
-#EXTINF:0 group-title="CABLE",HGTV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a059/index.m3u8
-#EXTINF:0 group-title="CABLE",HTV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05e/index.m3u8
-#EXTINF:0 group-title="CABLE",History 2
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a058/index.m3u8
-#EXTINF:0 group-title="CABLE",LAGUNA TV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0b7/index.m3u8
-#EXTINF:0 group-title="CABLE",La Nacion TV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04i/index.m3u8
-#EXTINF:0 group-title="CABLE",Lapacho HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0cr/index.m3u8
-#EXTINF:0 group-title="CABLE",Lifetime
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a07x/index.m3u8
-#EXTINF:0 group-title="CABLE",MTV
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05c/index.m3u8
-#EXTINF:0 group-title="CABLE",MTV?00
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03i/index.m3u8
-#EXTINF:0 group-title="CABLE",Metro
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a056/index.m3u8
-#EXTINF:0 group-title="CABLE",Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03v/index.m3u8
-#EXTINF:0 group-title="CABLE",Nick Jr
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a084/index.m3u8
-#EXTINF:0 group-title="CABLE",Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03e/index.m3u8
-#EXTINF:0 group-title="CABLE",PASIONES
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0c8/index.m3u8
-#EXTINF:0 group-title="CABLE",Pakapaka
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04d/index.m3u8
-#EXTINF:0 group-title="CABLE",Paramount HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05o/index.m3u8
-#EXTINF:0 group-title="CABLE",Quiero Musica
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05d/index.m3u8
-#EXTINF:0 group-title="CABLE",RAI Italia
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05f/index.m3u8
-#EXTINF:0 group-title="CABLE",RT en Espa?ol
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a07p/index.m3u8
-#EXTINF:0 group-title="CABLE",Rural
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a055/index.m3u8
-#EXTINF:0 group-title="CABLE",Sony HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03s/index.m3u8
-#EXTINF:0 group-title="CABLE",Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03z/index.m3u8
-#EXTINF:0 group-title="CABLE",Space HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05m/index.m3u8
-#EXTINF:0 group-title="CABLE",Star Channel HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08k/index.m3u8
-#EXTINF:0 group-title="CABLE",Studio Universal
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04s/index.m3u8
-#EXTINF:0 group-title="CABLE",T5 satelital
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0c5/index.m3u8
-#EXTINF:0 group-title="CABLE",TCM
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04q/index.m3u8
-#EXTINF:0 group-title="CABLE",TELEMUNDO
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0c7/index.m3u8
-#EXTINF:0 group-title="CABLE",TLNovelas
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08a/index.m3u8
-#EXTINF:0 group-title="CABLE",TN HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03n/index.m3u8
-#EXTINF:0 group-title="CABLE",TNT
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a09i/index.m3u8
-#EXTINF:0 group-title="CABLE",TNT Novelas HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08r/index.m3u8
-#EXTINF:0 group-title="CABLE",TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08p/index.m3u8
-#EXTINF:0 group-title="CABLE",TNT Sports HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05k/index.m3u8
-#EXTINF:0 group-title="CABLE",TV Publica HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03l/index.m3u8
-#EXTINF:0 group-title="CABLE",TVE
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08c/index.m3u8
-#EXTINF:0 group-title="CABLE",The History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03w/index.m3u8
-#EXTINF:0 group-title="CABLE",TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a05i/index.m3u8
-#EXTINF:0 group-title="CABLE",UCL
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a0bu/index.m3u8
-#EXTINF:0 group-title="CABLE",USA Network
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04t/index.m3u8
-#EXTINF:0 group-title="CABLE",Universal HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a041/index.m3u8
-#EXTINF:0 group-title="CABLE",Volver
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a04r/index.m3u8
-#EXTINF:0 group-title="CABLE",Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a03t/index.m3u8
-#EXTINF:0 group-title="CABLE",ciudad magazine
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a057/index.m3u8
-#EXTINF:0 group-title="CABLE",el nueve HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a031/index.m3u8
-#EXTINF:0 group-title="CABLE",el trece HD
-#EXTVLCOPT:network-caching=1000
-http://138.121.113.175:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 group-title="-",HBO Family HD
 http://200.229.147.210:9999/play/a011/index.m3u8
