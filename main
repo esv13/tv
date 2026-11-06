@@ -226,6 +226,37 @@ http://181.78.106.127:5000/play/ca032/index.m3u8
 http://181.78.106.127:5000/play/ca036/index.m3u8
 
 
+#EXTINF:0 group-title="Deportes 6",BTV 1 HD
+http://213.22.120.161:4000/play/a028
+#EXTINF:0 group-title="Deportes 6",BTV MulticÐmaras
+http://213.22.120.161:4000/play/a02j
+#EXTINF:0 group-title="Deportes 6",DAZN 1
+http://213.22.120.161:4000/play/a01z
+#EXTINF:0 group-title="Deportes 6",DAZN 2
+http://213.22.120.161:4000/play/a020
+#EXTINF:0 group-title="Deportes 6",DAZN 3
+http://213.22.120.161:4000/play/a01j
+#EXTINF:0 group-title="Deportes 6",DAZN 4
+http://213.22.120.161:4000/play/a01k
+#EXTINF:0 group-title="Deportes 6",DAZN 5
+http://213.22.120.161:4000/play/a01f
+#EXTINF:0 group-title="Deportes 6",Horse TV
+http://213.22.120.161:4000/play/a037
+#EXTINF:0 group-title="Deportes 6",Sport TV 1 HD
+http://213.22.120.161:4000/play/a024
+#EXTINF:0 group-title="Deportes 6",Sport TV 2 HD
+http://213.22.120.161:4000/play/a025
+#EXTINF:0 group-title="Deportes 6",Sport TV 3 HD
+http://213.22.120.161:4000/play/a026
+#EXTINF:0 group-title="Deportes 6",Sport TV 4 HD
+http://213.22.120.161:4000/play/a027
+#EXTINF:0 group-title="Deportes 6",Sport TV 5 HD
+http://213.22.120.161:4000/play/a02b
+#EXTINF:0 group-title="Deportes 6",Sport TV 6 HD
+http://213.22.120.161:4000/play/a032
+#EXTINF:0 group-title="Deportes 6",Sport TV 7 HD
+http://213.22.120.161:4000/play/a02c
+
 #EXTINF:-1 group-title="Deportes 2",FOX SPORTS 3 HD
 http://168.228.44.241:9997/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Deportes 2",ESPN Premium HD
