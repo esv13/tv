@@ -62,9 +62,18 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2irADf.png" group-title="Música",Concert Channel (720p)
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 group-title="Música",Concert Channel
-http://177.10.184.193:8000/play/a05p/index.m3u8
+http://181.119.215.61:8000/play/a05q/index.m3u8
 
-
+#EXTINF:0 group-title="HBO",HBO Family HD
+http://181.119.215.61:8000/play/a0l5/index.m3u8
+#EXTINF:0 group-title="HBO",HBO HD
+http://181.119.215.61:8000/play/a0l2/index.m3u8
+#EXTINF:0 group-title="HBO",HBO Plus HD
+http://181.119.215.61:8000/play/a0l4/index.m3u8
+#EXTINF:0 group-title="HBO",HBO XTREME HD
+http://181.119.215.61:8000/play/a0l6/index.m3u8
+#EXTINF:0 group-title="HBO",HBO2 HD
+http://181.119.215.61:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO 1
 http://200.123.40.1:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO 2
@@ -87,6 +96,19 @@ http://200.123.40.1:8000/play/a04z/index.m3u8
 http://200.123.40.1:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO Xtreme HD
 http://200.123.40.1:8000/play/a05l/index.m3u8
+
+#EXTINF:0 group-title="UNIVERSAL",UNIVERSAL CINEMA HD
+http://181.119.215.61:8000/play/a0kt/index.m3u8
+#EXTINF:0 group-title="UNIVERSAL",UNIVERSAL COMEDY HD
+http://181.119.215.61:8000/play/a0i5/index.m3u8
+#EXTINF:0 group-title="UNIVERSAL",UNIVERSAL CRIME HD
+http://181.119.215.61:8000/play/a0i4/index.m3u8
+#EXTINF:0 group-title="UNIVERSAL",UNIVERSAL PREMIERE HD
+http://181.119.215.61:8000/play/a0i1/index.m3u8
+#EXTINF:0 group-title="UNIVERSAL",UNIVERSAL PREMIERE O HD
+http://181.119.215.61:8000/play/a0i2/index.m3u8
+#EXTINF:0 group-title="UNIVERSAL",UNIVERSAL REALITY HD
+http://181.119.215.61:8000/play/a0i3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
@@ -261,8 +283,12 @@ http://213.22.120.161:4000/play/a02c
 http://168.228.44.241:9997/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Deportes 2",ESPN Premium HD
 http://200.123.40.1:8000/play/a05n/index.m3u8
-#EXTINF:11 group-title="Deportes 2",CANALES ESPN DISNEY
-http://38.199.241.97:8000/play/a03k/index.m3u8
+#EXTINF:11 group-title="Deportes 2",,Claro Sports 1 HD
+http://181.119.215.61:8000/play/a07o/index.m3u8
+#EXTINF:11 group-title="Deportes 2",,Claro Sports 2 HD
+http://181.119.215.61:8000/play/a07p/index.m3u8
+#EXTINF:11 group-title="Deportes 2",,Claro Sports 3 HD
+http://181.119.215.61:8000/play/a07i/index.m3u8
 #EXTINF:0 group-title="Deportes 2",DAZN F1 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=587361&extension=ts&play_token=4Pk6eafi5F
 #EXTINF:0 group-title="Deportes 2",DAZN F1 RAW
